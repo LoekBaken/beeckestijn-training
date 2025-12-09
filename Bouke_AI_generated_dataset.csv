@@ -1,0 +1,500 @@
+product_id,product_category,product_name,review_description,number_stars,review_date,customer_id,customer_name,zip_code,customer_age
+P1,Home,CookMaster Pan,Niet waard voor de prijs.,2,2021-09-08,CUST1,Noor,3516AB,85.0
+P2,Electronics,Laptop Pro 15,Zeker een aanrader voor deze prijs.,4,2021-02-05,CUST2,Lisa,3112AB,
+P3,Sports,YogaMat Flex,Precies wat ik verwachtte!,4,2022-07-08,CUST3,Sophie,3848AB,
+"P4,Sports,PowerLift Gloves,""Geweldige kwaliteit, absoluut top!"",5,2023-09-18,CUST4,Tom,7090AB,"
+P5,Home,Air Purifier Breeze,Dit is het beste product dat ik dit jaar kocht.,5,2022-07-19,CUST5,Eva,9652AB,
+P6,Sports,YogaMat Flex,Super design en uitstekende prestaties.,5,2025-01-02,CUST6,Tom,3886AB,
+"P7,Beauty,FreshLook Cream,""Vreselijke ervaring, ik stuur het terug."",1,2024-08-21,CUST7,Tom,5683AB,89.0"
+P8,Electronics,Wireless Earbuds A2,Presteert boven verwachting.,4,2022-01-16,CUST8,Sophie,4264AB,
+"P9,Electronics,Wireless Earbuds A2,""Geweldige kwaliteit, absoluut top!"",5,2024-04-16,CUST9,Sophie,3833AB,38.0"
+P10,Electronics,Laptop Pro 15,Prima voor deze prijs.,3,2023-10-11,CUST10,Tom,9763AB,
+P11,Beauty,FreshLook Cream,Snel geleverd en functioneert uitstekend.,4,2021-07-03,CUST11,Lisa,8541AB,44.0
+P12,Beauty,SoftTouch Shampoo,Goede kwaliteit en fijne gebruikerservaring.,4,2022-03-02,CUST12,Bram,2594AB,
+"P13,Home,CookMaster Pan,""Design mooi, prestaties middelmatig."",3,2024-10-18,CUST13,Sophie,4283AB,"
+P14,Sports,FitPro Watch,Goede kwaliteit en fijne gebruikerservaring.,4,2021-02-16,CUST14,Bram,4185AB,87.0
+P15,Toys,MegaRace Car,Werkt perfect en extreem gebruiksvriendelijk.,5,2025-07-27,CUST15,Lisa,9574AB,81.0
+"P16,Electronics,Laptop Pro 15,""Gemiddeld product, niet bijzonder."",3,2024-11-11,CUST16,Jan,4061AB,"
+P17,Electronics,Laptop Pro 15,Goede kwaliteit en fijne gebruikerservaring.,4,2022-03-23,CUST17,Sophie,1720AB,85.0
+P18,Electronics,Smartphone X1,Makkelijk in gebruik en ziet er mooi uit.,4,2024-03-26,CUST18,Mark,4297AB,49.0
+P19,Sports,PowerLift Gloves,Kwam beschadigd aan en deed het niet.,1,2024-12-06,CUST19,Eva,6015AB,
+P20,Sports,YogaMat Flex,Vrij standaardproduct.,3,2022-02-13,CUST20,Tom,2374AB,
+P21,Electronics,Laptop Pro 15,Handig in dagelijks gebruik.,4,2023-12-22,CUST21,Bram,2358AB,
+P22,Beauty,GlowSkin Serum,Presteert boven verwachting.,4,2024-01-11,CUST22,Lisa,5680AB,49.0
+P23,Home,CookMaster Pan,Precies wat ik verwachtte!,4,2024-08-27,CUST23,Bram,2128AB,
+P24,Beauty,SoftTouch Shampoo,Gedeeltelijk defect aangekomen.,2,2023-11-21,CUST24,Mark,2784AB,
+"P25,Electronics,Smartphone X1,""Zeer teleurstellend, absoluut geen aanrader."",1,2024-11-14,CUST25,Lisa,6532AB,45.0"
+P26,Toys,RoboDino,Beetje traag maar bruikbaar.,3,2024-12-23,CUST26,Eva,6955AB,48.0
+P27,Home,CookMaster Pan,Makkelijk in gebruik en ziet er mooi uit.,4,2024-08-07,CUST27,Bram,1893AB,
+P28,Sports,YogaMat Flex,Snel geleverd en functioneert uitstekend.,4,2022-02-02,CUST28,Jan,2659AB,
+"P29,Home,Air Purifier Breeze,""Kwaliteit is erg slecht, voelt goedkoop."",1,2022-06-25,CUST29,Noor,2580AB,27.0"
+P30,Electronics,Smartphone X1,Makkelijk in gebruik en ziet er mooi uit.,4,2025-06-24,CUST30,Eva,6457AB,30.0
+P31,Sports,YogaMat Flex,Werkt perfect en extreem gebruiksvriendelijk.,5,2022-06-30,CUST31,Noor,7196AB,
+"P32,Toys,MegaRace Car,""Vreselijke ervaring, ik stuur het terug."",1,2021-02-27,CUST32,Mark,3669AB,19.0"
+"P33,Toys,PuzzleCube 3D,""Gemiddeld product, niet bijzonder."",3,2024-01-26,CUST33,Sophie,5987AB,38.0"
+"P34,Toys,RoboDino,""Topmateriaal, duurzaam en betrouwbaar."",5,2024-05-19,CUST34,Lisa,8500AB,"
+P35,Toys,MegaRace Car,Presteert boven verwachting.,4,2025-08-12,CUST35,Lisa,1865AB,64.0
+"P36,Sports,FitPro Watch,""Niet slecht, niet geweldig."",3,2021-05-06,CUST36,Jan,8775AB,"
+P37,Sports,YogaMat Flex,Ik zou dit iedereen aanraden!,5,2025-03-27,CUST37,Noor,2721AB,
+"P38,Sports,FitPro Watch,""Kwaliteit is erg slecht, voelt goedkoop."",1,2025-07-19,CUST38,Jan,8094AB,"
+P39,Toys,MegaRace Car,Veel te duur voor wat je krijgt.,1,2022-09-06,CUST39,Bram,6841AB,18.0
+P40,Toys,PuzzleCube 3D,Niet waard voor de prijs.,2,2024-11-30,CUST40,Eva,7614AB,76.0
+"P41,Electronics,Wireless Earbuds A2,""Geweldige kwaliteit, absoluut top!"",5,2022-07-10,CUST41,Tom,5486AB,"
+P42,Electronics,Smartphone X1,Presteert boven verwachting.,4,2024-04-30,CUST42,Sophie,5028AB,35.0
+P43,Toys,PuzzleCube 3D,Klantenservice reageert niet. Slecht product.,1,2023-04-07,CUST43,Lisa,2398AB,50.0
+"P44,Electronics,Wireless Earbuds A2,""Geweldige kwaliteit, absoluut top!"",5,2021-08-05,CUST44,Noor,4198AB,"
+"P45,Beauty,GlowSkin Serum,""Zeer teleurstellend, absoluut geen aanrader."",1,2024-07-28,CUST45,Tom,1361AB,"
+"P46,Beauty,FreshLook Cream,""Ik ben supertevreden, precies wat ik zocht."",5,2025-09-28,CUST46,Jan,7868AB,32.0"
+P47,Beauty,GlowSkin Serum,Makkelijk in gebruik en ziet er mooi uit.,4,2025-01-10,CUST47,Sophie,9537AB,
+P48,Electronics,Smartphone X1,Zeker een aanrader voor deze prijs.,4,2022-02-12,CUST48,Bram,8976AB,
+"P49,Beauty,SoftTouch Shampoo,""Vreselijke ervaring, ik stuur het terug."",1,2025-07-01,CUST49,Eva,4127AB,49.0"
+P50,Beauty,GlowSkin Serum,De beschrijving klopt totaal niet.,1,2021-10-24,CUST50,Eva,4043AB,41.0
+P51,Sports,YogaMat Flex,Gedeeltelijk defect aangekomen.,2,2021-02-07,CUST51,Mark,7594AB,
+"P52,Electronics,Wireless Earbuds A2,""Niet slecht, niet geweldig."",3,2025-06-11,CUST52,Eva,4401AB,44.0"
+P53,Beauty,FreshLook Cream,Fantastisch product! Overtreft alles.,5,2022-07-07,CUST53,Tom,7663AB,48.0
+P54,Electronics,Laptop Pro 15,Functioneert nauwelijks zoals beloofd.,1,2021-05-03,CUST54,Mark,3425AB,
+P55,Beauty,SoftTouch Shampoo,Zeker een aanrader voor deze prijs.,4,2021-03-31,CUST55,Lisa,4698AB,
+P56,Electronics,Laptop Pro 15,Goede prestaties en stevig gebouwd.,4,2024-07-09,CUST56,Eva,7979AB,79.0
+"P57,Beauty,SoftTouch Shampoo,""Werkt oké, maar mist enkele functies."",3,2022-04-28,CUST57,Bram,7458AB,"
+"P58,Home,Air Purifier Breeze,""Geweldige kwaliteit, absoluut top!"",5,2022-03-21,CUST58,Bram,5219AB,76.0"
+P59,Beauty,FreshLook Cream,Klantenservice reageert niet. Slecht product.,1,2021-07-30,CUST59,Bram,5243AB,
+P60,Beauty,FreshLook Cream,Vrij standaardproduct.,3,2021-09-08,CUST60,Sophie,4822AB,
+P61,Sports,YogaMat Flex,Kwam beschadigd aan en deed het niet.,1,2021-07-08,CUST61,Tom,8906AB,
+"P62,Home,VacuumMax 3000,""Doet wat het moet doen, maar slecht afgewerkt."",2,2022-08-02,CUST62,Mark,7876AB,73.0"
+P63,Electronics,Wireless Earbuds A2,Installatie was lastig en slecht uitgelegd.,2,2023-08-03,CUST63,Sophie,7283AB,
+P64,Toys,PuzzleCube 3D,Vrij standaardproduct.,3,2024-03-07,CUST64,Bram,3937AB,75.0
+P65,Beauty,SoftTouch Shampoo,Beetje traag maar bruikbaar.,3,2025-08-13,CUST65,Noor,4361AB,45.0
+"P66,Sports,PowerLift Gloves,""Gemiddeld product, niet bijzonder."",3,2025-11-23,CUST66,Jan,8470AB,"
+"P67,Electronics,Smartphone X1,""Zeer teleurstellend, absoluut geen aanrader."",1,2025-06-11,CUST67,Noor,4662AB,"
+P68,Home,Air Purifier Breeze,Perfect in alle opzichten.,5,2023-05-21,CUST68,Tom,5064AB,81.0
+P69,Beauty,GlowSkin Serum,Product is oké maar voelt niet duurzaam.,2,2022-10-05,CUST69,Noor,8045AB,
+P70,Sports,PowerLift Gloves,Perfect in alle opzichten.,5,2024-10-21,CUST70,Tom,9330AB,
+P71,Electronics,Wireless Earbuds A2,Het product werkte al na één dag niet meer.,1,2025-09-29,CUST71,Mark,2368AB,
+P72,Sports,YogaMat Flex,Werkt goed en voelt degelijk aan.,4,2024-03-19,CUST72,Tom,3552AB,
+P73,Electronics,Wireless Earbuds A2,Ik zou dit iedereen aanraden!,5,2025-02-08,CUST73,Eva,8405AB,77.0
+P74,Toys,PuzzleCube 3D,Werkt goed en voelt degelijk aan.,4,2023-04-02,CUST74,Mark,6656AB,69.0
+"P75,Home,Air Purifier Breeze,""Kwaliteit is erg slecht, voelt goedkoop."",1,2024-02-02,CUST75,Noor,6532AB,"
+"P76,Electronics,Laptop Pro 15,""Zeer tevreden, al kon de handleiding beter."",4,2021-11-02,CUST76,Eva,5274AB,"
+"P77,Sports,YogaMat Flex,""Zeer tevreden, al kon de handleiding beter."",4,2023-02-27,CUST77,Lisa,6391AB,55.0"
+"P78,Electronics,Laptop Pro 15,""Kwaliteit is erg slecht, voelt goedkoop."",1,2025-11-19,CUST78,Tom,6845AB,"
+P79,Beauty,FreshLook Cream,Installatie was lastig en slecht uitgelegd.,2,2025-04-05,CUST79,Tom,3062AB,
+"P80,Sports,FitPro Watch,""Niet slecht, niet geweldig."",3,2022-05-14,CUST80,Bram,9732AB,"
+"P81,Sports,PowerLift Gloves,""Zeer tevreden, al kon de handleiding beter."",4,2022-04-10,CUST81,Eva,9164AB,25.0"
+P82,Electronics,Smartphone X1,Handig in dagelijks gebruik.,4,2023-06-28,CUST82,Jan,9569AB,
+P83,Electronics,Smartphone X1,De batterij ging na een uur al leeg.,1,2023-06-28,CUST83,Noor,6699AB,
+P84,Home,Air Purifier Breeze,Het product werkte al na één dag niet meer.,1,2021-03-28,CUST84,Noor,2220AB,
+P85,Electronics,Laptop Pro 15,Fantastisch product! Overtreft alles.,5,2022-10-18,CUST85,Tom,8564AB,44.0
+P86,Home,CookMaster Pan,Sommige onderdelen werkten niet optimaal.,2,2024-02-09,CUST86,Bram,5361AB,46.0
+"P87,Home,VacuumMax 3000,""Het werkt wel, maar niet goed genoeg."",2,2025-02-08,CUST87,Tom,8172AB,23.0"
+P88,Electronics,Wireless Earbuds A2,Kwaliteit is redelijk voor dagelijks gebruik.,3,2023-12-17,CUST88,Lisa,3806AB,22.0
+P89,Home,CookMaster Pan,Sommige onderdelen werkten niet optimaal.,2,2021-12-17,CUST89,Tom,7852AB,
+P90,Home,VacuumMax 3000,Veel te duur voor wat je krijgt.,1,2021-06-20,CUST90,Bram,1521AB,
+"P91,Home,CookMaster Pan,""Niet slecht, niet geweldig."",3,2024-09-01,CUST91,Noor,9384AB,"
+"P92,Sports,PowerLift Gloves,""Vreselijke ervaring, ik stuur het terug."",1,2022-11-16,CUST92,Jan,1964AB,33.0"
+P93,Electronics,Smartphone X1,Prima voor deze prijs.,3,2024-11-30,CUST93,Bram,6354AB,
+P94,Sports,YogaMat Flex,Had er meer van verwacht.,2,2022-06-03,CUST94,Lisa,5395AB,
+P95,Electronics,Wireless Earbuds A2,De batterij ging na een uur al leeg.,1,2021-03-02,CUST95,Jan,7804AB,59.0
+P96,Toys,MegaRace Car,Prima voor deze prijs.,3,2025-01-12,CUST96,Bram,9534AB,89.0
+P97,Beauty,FreshLook Cream,Installatie was lastig en slecht uitgelegd.,2,2022-03-25,CUST97,Noor,5352AB,
+"P98,Beauty,GlowSkin Serum,""Vreselijke ervaring, ik stuur het terug."",1,2023-09-27,CUST98,Eva,7689AB,80.0"
+P99,Beauty,SoftTouch Shampoo,De batterij ging na een uur al leeg.,1,2024-03-28,CUST99,Bram,8817AB,76.0
+"P100,Toys,PuzzleCube 3D,""Kwaliteit is erg slecht, voelt goedkoop."",1,2024-08-27,CUST100,Mark,6622AB,"
+"P101,Home,CookMaster Pan,""Ik ben supertevreden, precies wat ik zocht."",5,2022-02-02,CUST101,Mark,4664AB,"
+P102,Sports,YogaMat Flex,Fantastisch product! Overtreft alles.,5,2023-08-01,CUST102,Bram,7260AB,
+P103,Home,VacuumMax 3000,Makkelijk in gebruik en ziet er mooi uit.,4,2025-05-09,CUST103,Lisa,7515AB,
+P104,Home,CookMaster Pan,Prijs-kwaliteitverhouding is geweldig.,5,2024-06-21,CUST104,Mark,9628AB,49.0
+P105,Sports,PowerLift Gloves,Functioneert nauwelijks zoals beloofd.,1,2022-08-16,CUST105,Tom,6518AB,88.0
+P106,Sports,YogaMat Flex,Vrij standaardproduct.,3,2021-03-15,CUST106,Mark,4557AB,
+P107,Sports,PowerLift Gloves,Het product werkte al na één dag niet meer.,1,2022-04-24,CUST107,Mark,1855AB,
+P108,Beauty,GlowSkin Serum,Dit is het beste product dat ik dit jaar kocht.,5,2022-07-04,CUST108,Jan,7198AB,
+P109,Toys,MegaRace Car,Dit is het beste product dat ik dit jaar kocht.,5,2021-12-31,CUST109,Noor,2012AB,71.0
+P110,Home,VacuumMax 3000,Gedeeltelijk defect aangekomen.,2,2024-05-30,CUST110,Noor,2681AB,76.0
+"P111,Home,CookMaster Pan,""Redelijk, maar zeker geen aanrader."",2,2023-11-22,CUST111,Sophie,4962AB,"
+P112,Home,Air Purifier Breeze,Niet waard voor de prijs.,2,2022-07-23,CUST112,Eva,3406AB,
+P113,Sports,PowerLift Gloves,Vrij standaardproduct.,3,2024-07-22,CUST113,Jan,2334AB,59.0
+"P114,Beauty,FreshLook Cream,""Zeer tevreden, al kon de handleiding beter."",4,2025-03-19,CUST114,Tom,6804AB,"
+P115,Sports,YogaMat Flex,Fantastisch product! Overtreft alles.,5,2025-11-21,CUST115,Tom,9809AB,74.0
+"P116,Beauty,GlowSkin Serum,""Gemiddeld product, niet bijzonder."",3,2025-10-31,CUST116,Sophie,6320AB,"
+P117,Sports,FitPro Watch,De beschrijving klopt totaal niet.,1,2022-06-01,CUST117,Noor,3472AB,52.0
+"P118,Toys,MegaRace Car,""Het werkt wel, maar niet goed genoeg."",2,2025-08-27,CUST118,Noor,7485AB,75.0"
+P119,Beauty,SoftTouch Shampoo,Makkelijk in gebruik en ziet er mooi uit.,4,2022-02-21,CUST119,Tom,8343AB,29.0
+P120,Toys,PuzzleCube 3D,Snel geleverd en functioneert uitstekend.,4,2023-10-11,CUST120,Bram,2189AB,
+"P121,Sports,PowerLift Gloves,""Topmateriaal, duurzaam en betrouwbaar."",5,2024-04-20,CUST121,Bram,7339AB,57.0"
+"P122,Beauty,FreshLook Cream,""Vreselijke ervaring, ik stuur het terug."",1,2023-01-13,CUST122,Tom,3678AB,28.0"
+P123,Home,VacuumMax 3000,Handig in dagelijks gebruik.,4,2024-12-31,CUST123,Jan,3461AB,
+P124,Home,CookMaster Pan,Zeker een aanrader voor deze prijs.,4,2023-06-10,CUST124,Eva,7485AB,71.0
+P125,Electronics,Wireless Earbuds A2,Super design en uitstekende prestaties.,5,2022-02-04,CUST125,Jan,2087AB,28.0
+P126,Home,VacuumMax 3000,Veel te duur voor wat je krijgt.,1,2021-07-14,CUST126,Tom,2981AB,74.0
+"P127,Toys,MegaRace Car,""Vreselijke ervaring, ik stuur het terug."",1,2025-09-18,CUST127,Tom,6730AB,"
+P128,Electronics,Wireless Earbuds A2,Makkelijk in gebruik en ziet er mooi uit.,4,2023-06-15,CUST128,Bram,8157AB,78.0
+"P129,Beauty,SoftTouch Shampoo,""Werkt oké, maar mist enkele functies."",3,2023-04-07,CUST129,Eva,9898AB,"
+P130,Beauty,SoftTouch Shampoo,Ik zou dit iedereen aanraden!,5,2022-03-08,CUST130,Tom,2896AB,
+"P131,Sports,YogaMat Flex,""Werkt soms, soms ook niet."",2,2023-10-07,CUST131,Noor,2095AB,"
+P132,Beauty,SoftTouch Shampoo,Sommige onderdelen werkten niet optimaal.,2,2024-11-07,CUST132,Noor,5424AB,30.0
+P133,Beauty,SoftTouch Shampoo,Dit is het beste product dat ik dit jaar kocht.,5,2024-06-27,CUST133,Jan,8511AB,86.0
+P134,Beauty,FreshLook Cream,Dit is het beste product dat ik dit jaar kocht.,5,2023-04-25,CUST134,Lisa,9422AB,31.0
+P135,Electronics,Laptop Pro 15,Dit is het beste product dat ik dit jaar kocht.,5,2021-03-11,CUST135,Noor,5863AB,
+P136,Sports,PowerLift Gloves,Had er meer van verwacht.,2,2024-06-05,CUST136,Tom,6800AB,
+"P137,Beauty,GlowSkin Serum,""Geweldige kwaliteit, absoluut top!"",5,2024-10-20,CUST137,Lisa,6115AB,31.0"
+P138,Electronics,Smartphone X1,Beetje traag maar bruikbaar.,3,2021-11-12,CUST138,Mark,7309AB,
+"P139,Home,Air Purifier Breeze,""Het voldoet, maar steekt nergens bovenuit."",3,2021-07-16,CUST139,Jan,5560AB,"
+P140,Sports,YogaMat Flex,Zeker een aanrader voor deze prijs.,4,2021-02-22,CUST140,Mark,2582AB,52.0
+P141,Toys,PuzzleCube 3D,Functioneert nauwelijks zoals beloofd.,1,2024-02-09,CUST141,Jan,1440AB,
+"P142,Toys,MegaRace Car,""Had meer opties verwacht, maar werkt verder goed."",3,2023-12-21,CUST142,Lisa,3195AB,"
+P143,Beauty,SoftTouch Shampoo,Super design en uitstekende prestaties.,5,2025-09-14,CUST143,Sophie,1911AB,
+"P144,Beauty,SoftTouch Shampoo,""Werkt oké, maar mist enkele functies."",3,2022-01-10,CUST144,Mark,3593AB,90.0"
+"P145,Toys,RoboDino,""Design mooi, prestaties middelmatig."",3,2023-09-25,CUST145,Bram,3523AB,"
+P146,Home,VacuumMax 3000,Het product werkte al na één dag niet meer.,1,2022-02-24,CUST146,Jan,2554AB,
+"P147,Home,CookMaster Pan,""Zeer tevreden, al kon de handleiding beter."",4,2022-11-30,CUST147,Eva,1207AB,63.0"
+P148,Toys,PuzzleCube 3D,Kwam beschadigd aan en deed het niet.,1,2021-09-16,CUST148,Jan,8007AB,59.0
+"P149,Beauty,SoftTouch Shampoo,""Doet wat het moet doen, maar slecht afgewerkt."",2,2024-08-18,CUST149,Jan,3818AB,"
+"P150,Toys,RoboDino,""Topmateriaal, duurzaam en betrouwbaar."",5,2023-05-16,CUST150,Lisa,3429AB,"
+"P151,Sports,FitPro Watch,""Werkt oké, maar mist enkele functies."",3,2023-05-28,CUST151,Jan,2403AB,"
+P152,Electronics,Laptop Pro 15,Perfect in alle opzichten.,5,2022-11-16,CUST152,Eva,1466AB,
+P153,Sports,PowerLift Gloves,Fantastisch product! Overtreft alles.,5,2024-09-18,CUST153,Lisa,9709AB,36.0
+P154,Toys,RoboDino,Werkt goed en voelt degelijk aan.,4,2022-04-09,CUST154,Noor,1603AB,
+P155,Beauty,GlowSkin Serum,Perfect in alle opzichten.,5,2021-06-22,CUST155,Bram,5360AB,
+"P156,Home,CookMaster Pan,""Ik ben supertevreden, precies wat ik zocht."",5,2025-01-29,CUST156,Mark,8792AB,"
+P157,Beauty,GlowSkin Serum,Ik zou dit iedereen aanraden!,5,2021-03-26,CUST157,Eva,7310AB,
+"P158,Toys,MegaRace Car,""Zeer tevreden, al kon de handleiding beter."",4,2021-12-20,CUST158,Jan,5405AB,82.0"
+"P159,Beauty,GlowSkin Serum,""Het voldoet, maar steekt nergens bovenuit."",3,2021-02-08,CUST159,Bram,5789AB,"
+"P160,Sports,FitPro Watch,""Design mooi, prestaties middelmatig."",3,2022-08-29,CUST160,Bram,4865AB,27.0"
+"P161,Home,VacuumMax 3000,""Doet wat het moet doen, maar slecht afgewerkt."",2,2024-07-26,CUST161,Tom,8049AB,"
+P162,Toys,RoboDino,Snel geleverd en functioneert uitstekend.,4,2022-05-30,CUST162,Eva,7288AB,35.0
+"P163,Sports,YogaMat Flex,""Werkt soms, soms ook niet."",2,2024-07-01,CUST163,Eva,6408AB,77.0"
+P164,Home,VacuumMax 3000,Fantastisch product! Overtreft alles.,5,2022-10-22,CUST164,Mark,2587AB,
+P165,Electronics,Wireless Earbuds A2,Gedeeltelijk defect aangekomen.,2,2024-07-13,CUST165,Lisa,6506AB,
+"P166,Electronics,Wireless Earbuds A2,""Zeer teleurstellend, absoluut geen aanrader."",1,2025-07-20,CUST166,Lisa,3000AB,74.0"
+P167,Electronics,Laptop Pro 15,De batterij ging na een uur al leeg.,1,2024-07-07,CUST167,Noor,5066AB,33.0
+P168,Sports,FitPro Watch,Werkt perfect en extreem gebruiksvriendelijk.,5,2025-10-23,CUST168,Jan,3721AB,42.0
+P169,Electronics,Laptop Pro 15,Functioneert nauwelijks zoals beloofd.,1,2023-04-22,CUST169,Lisa,3069AB,
+P170,Sports,FitPro Watch,Installatie was lastig en slecht uitgelegd.,2,2025-03-13,CUST170,Lisa,8973AB,54.0
+P171,Toys,MegaRace Car,Product is oké maar voelt niet duurzaam.,2,2023-08-28,CUST171,Sophie,5949AB,
+"P172,Home,CookMaster Pan,""Vreselijke ervaring, ik stuur het terug."",1,2024-02-23,CUST172,Bram,7091AB,46.0"
+P173,Toys,MegaRace Car,Kwam beschadigd aan en deed het niet.,1,2021-07-16,CUST173,Jan,9657AB,
+P174,Home,CookMaster Pan,Presteert boven verwachting.,4,2025-10-31,CUST174,Jan,5807AB,
+"P175,Home,Air Purifier Breeze,""Redelijk, maar zeker geen aanrader."",2,2021-12-26,CUST175,Eva,4891AB,"
+P176,Beauty,GlowSkin Serum,Het product werkte al na één dag niet meer.,1,2025-02-23,CUST176,Sophie,5765AB,
+P177,Beauty,GlowSkin Serum,De beschrijving klopt totaal niet.,1,2025-01-04,CUST177,Jan,9389AB,
+P178,Sports,YogaMat Flex,Installatie was lastig en slecht uitgelegd.,2,2025-01-01,CUST178,Bram,5590AB,
+"P179,Beauty,FreshLook Cream,""Design mooi, prestaties middelmatig."",3,2025-08-01,CUST179,Tom,6295AB,"
+"P180,Sports,YogaMat Flex,""Het werkt wel, maar niet goed genoeg."",2,2022-12-15,CUST180,Noor,8362AB,"
+P181,Sports,FitPro Watch,Vrij standaardproduct.,3,2021-03-12,CUST181,Tom,5320AB,32.0
+P182,Home,Air Purifier Breeze,Zeker een aanrader voor deze prijs.,4,2022-01-07,CUST182,Jan,3234AB,27.0
+"P183,Sports,YogaMat Flex,""Niet slecht, niet geweldig."",3,2025-09-24,CUST183,Jan,4534AB,49.0"
+P184,Toys,RoboDino,Ik zou dit iedereen aanraden!,5,2025-10-14,CUST184,Eva,1922AB,
+P185,Sports,PowerLift Gloves,Veel te duur voor wat je krijgt.,1,2021-08-11,CUST185,Lisa,3474AB,60.0
+P186,Beauty,GlowSkin Serum,Goede kwaliteit en fijne gebruikerservaring.,4,2025-02-24,CUST186,Noor,3720AB,25.0
+"P187,Home,CookMaster Pan,""Werkt soms, soms ook niet."",2,2022-08-12,CUST187,Bram,2227AB,57.0"
+"P188,Home,CookMaster Pan,""Werkt soms, soms ook niet."",2,2021-05-27,CUST188,Sophie,6765AB,"
+P189,Home,VacuumMax 3000,Vrij standaardproduct.,3,2022-11-30,CUST189,Sophie,4407AB,22.0
+P190,Home,Air Purifier Breeze,Super design en uitstekende prestaties.,5,2023-12-21,CUST190,Tom,4174AB,39.0
+P191,Electronics,Wireless Earbuds A2,Perfect in alle opzichten.,5,2023-08-04,CUST191,Mark,3985AB,
+P192,Electronics,Laptop Pro 15,Vrij standaardproduct.,3,2025-09-19,CUST192,Jan,6076AB,85.0
+"P193,Home,VacuumMax 3000,""Het werkt wel, maar niet goed genoeg."",2,2021-09-18,CUST193,Sophie,7133AB,71.0"
+"P194,Home,Air Purifier Breeze,""Topmateriaal, duurzaam en betrouwbaar."",5,2023-11-25,CUST194,Mark,2993AB,"
+"P195,Toys,MegaRace Car,""Niet slecht, niet geweldig."",3,2024-12-31,CUST195,Mark,3641AB,"
+P196,Electronics,Smartphone X1,Zeker een aanrader voor deze prijs.,4,2021-04-29,CUST196,Eva,8916AB,45.0
+"P197,Sports,PowerLift Gloves,""Doet wat het moet doen, maar slecht afgewerkt."",2,2024-01-29,CUST197,Eva,8967AB,27.0"
+P198,Beauty,FreshLook Cream,Veel te duur voor wat je krijgt.,1,2024-04-11,CUST198,Tom,8818AB,
+P199,Electronics,Wireless Earbuds A2,Goede prestaties en stevig gebouwd.,4,2022-06-07,CUST199,Tom,3563AB,47.0
+"P200,Sports,PowerLift Gloves,""Het voldoet, maar steekt nergens bovenuit."",3,2023-06-09,CUST200,Jan,5900AB,44.0"
+P201,Toys,PuzzleCube 3D,Niet waard voor de prijs.,2,2024-02-10,CUST201,Mark,3972AB,
+P202,Toys,PuzzleCube 3D,Vrij standaardproduct.,3,2022-01-02,CUST202,Eva,1283AB,76.0
+P203,Toys,MegaRace Car,Super design en uitstekende prestaties.,5,2021-05-03,CUST203,Lisa,8761AB,52.0
+"P204,Beauty,GlowSkin Serum,""Design mooi, prestaties middelmatig."",3,2022-09-03,CUST204,Lisa,8781AB,63.0"
+P205,Electronics,Laptop Pro 15,Sommige onderdelen werkten niet optimaal.,2,2022-09-30,CUST205,Mark,9080AB,31.0
+P206,Sports,PowerLift Gloves,Handig in dagelijks gebruik.,4,2023-03-06,CUST206,Noor,7864AB,
+"P207,Electronics,Wireless Earbuds A2,""Niet slecht, niet geweldig."",3,2023-09-15,CUST207,Bram,8335AB,52.0"
+P208,Beauty,SoftTouch Shampoo,Werkt goed en voelt degelijk aan.,4,2025-04-15,CUST208,Bram,3904AB,
+P209,Toys,PuzzleCube 3D,Vrij standaardproduct.,3,2025-06-04,CUST209,Tom,6814AB,
+P210,Sports,FitPro Watch,Fantastisch product! Overtreft alles.,5,2021-08-19,CUST210,Noor,7426AB,31.0
+P211,Electronics,Wireless Earbuds A2,Gedeeltelijk defect aangekomen.,2,2021-05-24,CUST211,Mark,6102AB,81.0
+P212,Beauty,GlowSkin Serum,Werkt perfect en extreem gebruiksvriendelijk.,5,2022-03-17,CUST212,Sophie,6987AB,68.0
+P213,Electronics,Wireless Earbuds A2,Goede kwaliteit en fijne gebruikerservaring.,4,2023-07-18,CUST213,Lisa,9045AB,36.0
+P214,Sports,YogaMat Flex,De beschrijving klopt totaal niet.,1,2022-06-04,CUST214,Noor,1392AB,
+P215,Beauty,GlowSkin Serum,Het product werkte al na één dag niet meer.,1,2024-07-05,CUST215,Sophie,3108AB,85.0
+P216,Sports,PowerLift Gloves,Makkelijk in gebruik en ziet er mooi uit.,4,2022-10-26,CUST216,Eva,6907AB,
+"P217,Home,VacuumMax 3000,""Vreselijke ervaring, ik stuur het terug."",1,2025-10-26,CUST217,Sophie,1137AB,"
+P218,Home,VacuumMax 3000,Klantenservice reageert niet. Slecht product.,1,2023-08-31,CUST218,Lisa,3269AB,71.0
+P219,Sports,PowerLift Gloves,Kwaliteit is redelijk voor dagelijks gebruik.,3,2023-07-07,CUST219,Bram,4589AB,72.0
+P220,Beauty,SoftTouch Shampoo,Prijs-kwaliteitverhouding is geweldig.,5,2021-12-11,CUST220,Noor,8582AB,
+"P221,Home,Air Purifier Breeze,""Geweldige kwaliteit, absoluut top!"",5,2024-10-31,CUST221,Jan,1520AB,26.0"
+"P222,Beauty,FreshLook Cream,""Doet wat het moet doen, maar slecht afgewerkt."",2,2021-12-14,CUST222,Lisa,7928AB,33.0"
+P223,Electronics,Wireless Earbuds A2,Had er meer van verwacht.,2,2023-08-12,CUST223,Jan,4373AB,
+"P224,Beauty,GlowSkin Serum,""Niet slecht, niet geweldig."",3,2023-06-21,CUST224,Bram,1038AB,61.0"
+P225,Home,CookMaster Pan,Functioneert nauwelijks zoals beloofd.,1,2022-04-27,CUST225,Sophie,6879AB,75.0
+"P226,Home,VacuumMax 3000,""Ik ben supertevreden, precies wat ik zocht."",5,2022-06-28,CUST226,Bram,8475AB,"
+P227,Sports,FitPro Watch,Prima voor deze prijs.,3,2022-02-22,CUST227,Eva,3797AB,
+"P228,Toys,MegaRace Car,""Doet wat het moet doen, maar slecht afgewerkt."",2,2023-12-10,CUST228,Tom,4854AB,"
+P229,Electronics,Wireless Earbuds A2,Presteert boven verwachting.,4,2024-04-02,CUST229,Lisa,6969AB,
+P230,Beauty,SoftTouch Shampoo,Precies wat ik verwachtte!,4,2023-03-21,CUST230,Tom,5094AB,70.0
+"P231,Sports,YogaMat Flex,""Het werkt wel, maar niet goed genoeg."",2,2025-08-14,CUST231,Lisa,7470AB,"
+P232,Home,Air Purifier Breeze,De batterij ging na een uur al leeg.,1,2023-11-02,CUST232,Sophie,9859AB,34.0
+"P233,Toys,RoboDino,""Het voldoet, maar steekt nergens bovenuit."",3,2025-01-29,CUST233,Mark,9593AB,"
+P234,Beauty,FreshLook Cream,Goede prestaties en stevig gebouwd.,4,2023-03-26,CUST234,Lisa,3197AB,29.0
+P235,Toys,MegaRace Car,Het product werkte al na één dag niet meer.,1,2021-07-24,CUST235,Bram,7644AB,
+P236,Home,Air Purifier Breeze,Werkt perfect en extreem gebruiksvriendelijk.,5,2025-02-05,CUST236,Lisa,6952AB,56.0
+"P237,Electronics,Laptop Pro 15,""Design mooi, prestaties middelmatig."",3,2022-10-24,CUST237,Jan,5081AB,18.0"
+"P238,Home,CookMaster Pan,""Gemiddeld product, niet bijzonder."",3,2025-04-16,CUST238,Noor,4773AB,"
+"P239,Electronics,Smartphone X1,""Design mooi, prestaties middelmatig."",3,2021-05-08,CUST239,Lisa,1524AB,"
+"P240,Sports,YogaMat Flex,""Niet slecht, niet geweldig."",3,2024-02-13,CUST240,Noor,2657AB,"
+P241,Electronics,Laptop Pro 15,Perfect in alle opzichten.,5,2021-02-15,CUST241,Mark,8761AB,
+"P242,Home,VacuumMax 3000,""Design mooi, prestaties middelmatig."",3,2024-10-25,CUST242,Eva,8140AB,"
+"P243,Toys,MegaRace Car,""Topmateriaal, duurzaam en betrouwbaar."",5,2023-12-28,CUST243,Bram,2401AB,"
+P244,Toys,MegaRace Car,Klantenservice reageert niet. Slecht product.,1,2021-08-09,CUST244,Mark,4539AB,66.0
+P245,Electronics,Smartphone X1,Precies wat ik verwachtte!,4,2024-03-01,CUST245,Tom,2582AB,51.0
+P246,Electronics,Smartphone X1,Klantenservice reageert niet. Slecht product.,1,2024-03-15,CUST246,Bram,1722AB,
+"P247,Home,Air Purifier Breeze,""Het werkt wel, maar niet goed genoeg."",2,2021-07-17,CUST247,Lisa,8009AB,31.0"
+P248,Home,VacuumMax 3000,Prima voor deze prijs.,3,2024-08-03,CUST248,Tom,1926AB,82.0
+P249,Toys,RoboDino,Precies wat ik verwachtte!,4,2025-09-05,CUST249,Lisa,7065AB,
+"P250,Sports,FitPro Watch,""Vreselijke ervaring, ik stuur het terug."",1,2023-08-27,CUST250,Mark,6827AB,90.0"
+P251,Toys,MegaRace Car,Ik zou dit iedereen aanraden!,5,2022-05-12,CUST251,Mark,6477AB,
+P252,Electronics,Wireless Earbuds A2,Handig in dagelijks gebruik.,4,2025-07-25,CUST252,Sophie,1264AB,74.0
+P253,Home,CookMaster Pan,Vrij standaardproduct.,3,2020-12-27,CUST253,Jan,9935AB,79.0
+P254,Home,Air Purifier Breeze,Sommige onderdelen werkten niet optimaal.,2,2024-08-12,CUST254,Bram,5033AB,30.0
+P255,Beauty,FreshLook Cream,Functioneert nauwelijks zoals beloofd.,1,2021-12-15,CUST255,Tom,7294AB,
+P256,Beauty,GlowSkin Serum,Kwam beschadigd aan en deed het niet.,1,2021-06-17,CUST256,Tom,2175AB,
+P257,Sports,PowerLift Gloves,Had er meer van verwacht.,2,2022-06-27,CUST257,Mark,5485AB,46.0
+P258,Electronics,Laptop Pro 15,Werkt goed en voelt degelijk aan.,4,2024-07-07,CUST258,Tom,4955AB,72.0
+"P259,Sports,FitPro Watch,""Zeer tevreden, al kon de handleiding beter."",4,2025-02-07,CUST259,Lisa,6047AB,"
+"P260,Beauty,FreshLook Cream,""Gemiddeld product, niet bijzonder."",3,2022-03-06,CUST260,Sophie,1092AB,"
+P261,Beauty,SoftTouch Shampoo,Het product werkte al na één dag niet meer.,1,2025-07-27,CUST261,Tom,5582AB,84.0
+P262,Beauty,SoftTouch Shampoo,Precies wat ik verwachtte!,4,2025-05-14,CUST262,Eva,4481AB,49.0
+P263,Electronics,Wireless Earbuds A2,Vrij standaardproduct.,3,2022-07-07,CUST263,Bram,6967AB,28.0
+"P264,Toys,RoboDino,""Het werkt wel, maar niet goed genoeg."",2,2022-07-07,CUST264,Jan,4373AB,63.0"
+P265,Electronics,Wireless Earbuds A2,Vrij standaardproduct.,3,2021-08-12,CUST265,Eva,7939AB,22.0
+P266,Toys,MegaRace Car,De batterij ging na een uur al leeg.,1,2023-07-08,CUST266,Lisa,9275AB,
+"P267,Home,Air Purifier Breeze,""Topmateriaal, duurzaam en betrouwbaar."",5,2023-06-07,CUST267,Tom,3528AB,43.0"
+P268,Toys,RoboDino,Prijs-kwaliteitverhouding is geweldig.,5,2022-06-23,CUST268,Sophie,5367AB,
+P269,Electronics,Wireless Earbuds A2,Dit is het beste product dat ik dit jaar kocht.,5,2025-01-10,CUST269,Sophie,5279AB,
+P270,Electronics,Laptop Pro 15,Super design en uitstekende prestaties.,5,2022-12-21,CUST270,Mark,5804AB,
+P271,Electronics,Laptop Pro 15,Gedeeltelijk defect aangekomen.,2,2022-05-08,CUST271,Tom,3264AB,46.0
+P272,Electronics,Wireless Earbuds A2,Goede kwaliteit en fijne gebruikerservaring.,4,2024-04-06,CUST272,Tom,1319AB,88.0
+"P273,Electronics,Wireless Earbuds A2,""Vreselijke ervaring, ik stuur het terug."",1,2024-03-09,CUST273,Noor,7722AB,"
+P274,Electronics,Laptop Pro 15,Vrij standaardproduct.,3,2022-05-10,CUST274,Noor,6134AB,77.0
+P275,Beauty,SoftTouch Shampoo,Installatie was lastig en slecht uitgelegd.,2,2021-10-15,CUST275,Lisa,5541AB,
+"P276,Electronics,Smartphone X1,""Werkt oké, maar mist enkele functies."",3,2024-01-31,CUST276,Bram,6758AB,"
+P277,Toys,PuzzleCube 3D,De beschrijving klopt totaal niet.,1,2023-07-13,CUST277,Eva,1678AB,
+P278,Beauty,FreshLook Cream,Kwaliteit is redelijk voor dagelijks gebruik.,3,2022-11-01,CUST278,Noor,5432AB,71.0
+"P279,Beauty,SoftTouch Shampoo,""Het voldoet, maar steekt nergens bovenuit."",3,2025-03-22,CUST279,Tom,1061AB,55.0"
+P280,Toys,RoboDino,Klantenservice reageert niet. Slecht product.,1,2022-06-29,CUST280,Eva,6445AB,88.0
+"P281,Toys,MegaRace Car,""Topmateriaal, duurzaam en betrouwbaar."",5,2022-08-30,CUST281,Jan,3718AB,"
+"P282,Electronics,Laptop Pro 15,""Zeer tevreden, al kon de handleiding beter."",4,2024-05-21,CUST282,Sophie,7525AB,"
+P283,Sports,FitPro Watch,Het product werkte al na één dag niet meer.,1,2025-05-17,CUST283,Sophie,6720AB,33.0
+P284,Sports,PowerLift Gloves,Prijs-kwaliteitverhouding is geweldig.,5,2025-06-26,CUST284,Mark,9312AB,77.0
+P285,Beauty,FreshLook Cream,Dit is het beste product dat ik dit jaar kocht.,5,2023-04-06,CUST285,Eva,5807AB,
+P286,Beauty,FreshLook Cream,Handig in dagelijks gebruik.,4,2025-07-03,CUST286,Sophie,9275AB,18.0
+P287,Sports,PowerLift Gloves,Zeker een aanrader voor deze prijs.,4,2023-10-05,CUST287,Noor,5737AB,
+"P288,Beauty,FreshLook Cream,""Had meer opties verwacht, maar werkt verder goed."",3,2024-12-06,CUST288,Eva,3763AB,"
+P289,Toys,PuzzleCube 3D,Installatie was lastig en slecht uitgelegd.,2,2022-10-10,CUST289,Bram,8844AB,
+P290,Toys,RoboDino,Snel geleverd en functioneert uitstekend.,4,2024-10-31,CUST290,Sophie,9034AB,43.0
+P291,Electronics,Smartphone X1,Goede kwaliteit en fijne gebruikerservaring.,4,2025-03-19,CUST291,Eva,2113AB,24.0
+P292,Sports,YogaMat Flex,Kwam beschadigd aan en deed het niet.,1,2021-05-25,CUST292,Lisa,6656AB,85.0
+P293,Sports,FitPro Watch,Dit is het beste product dat ik dit jaar kocht.,5,2025-02-25,CUST293,Bram,1449AB,
+P294,Home,CookMaster Pan,Perfect in alle opzichten.,5,2025-09-22,CUST294,Tom,1212AB,86.0
+P295,Electronics,Wireless Earbuds A2,Product is oké maar voelt niet duurzaam.,2,2023-10-09,CUST295,Lisa,8192AB,39.0
+"P296,Sports,YogaMat Flex,""Werkt soms, soms ook niet."",2,2023-04-14,CUST296,Bram,4930AB,"
+"P297,Sports,YogaMat Flex,""Topmateriaal, duurzaam en betrouwbaar."",5,2023-09-15,CUST297,Sophie,6559AB,"
+"P298,Home,VacuumMax 3000,""Werkt oké, maar mist enkele functies."",3,2022-11-16,CUST298,Sophie,6103AB,"
+"P299,Sports,PowerLift Gloves,""Niet slecht, niet geweldig."",3,2022-09-27,CUST299,Mark,4251AB,"
+P300,Electronics,Wireless Earbuds A2,Veel te duur voor wat je krijgt.,1,2022-03-10,CUST300,Mark,5850AB,
+P301,Electronics,Wireless Earbuds A2,Kwam beschadigd aan en deed het niet.,1,2025-10-13,CUST301,Bram,6149AB,80.0
+"P302,Sports,PowerLift Gloves,""Werkt soms, soms ook niet."",2,2023-12-09,CUST302,Eva,7680AB,"
+"P303,Beauty,GlowSkin Serum,""Had meer opties verwacht, maar werkt verder goed."",3,2021-05-20,CUST303,Lisa,8930AB,"
+"P304,Electronics,Smartphone X1,""Niet slecht, niet geweldig."",3,2025-08-17,CUST304,Jan,2730AB,"
+P305,Sports,YogaMat Flex,Goede prestaties en stevig gebouwd.,4,2022-01-29,CUST305,Sophie,3899AB,52.0
+P306,Beauty,GlowSkin Serum,Product is oké maar voelt niet duurzaam.,2,2023-07-14,CUST306,Jan,3409AB,37.0
+P307,Sports,FitPro Watch,Presteert boven verwachting.,4,2023-12-10,CUST307,Sophie,4940AB,
+"P308,Home,CookMaster Pan,""Werkt soms, soms ook niet."",2,2024-04-04,CUST308,Lisa,3945AB,"
+"P309,Beauty,GlowSkin Serum,""Vreselijke ervaring, ik stuur het terug."",1,2024-11-18,CUST309,Jan,2556AB,69.0"
+P310,Toys,PuzzleCube 3D,Dit is het beste product dat ik dit jaar kocht.,5,2024-02-10,CUST310,Bram,5331AB,62.0
+P311,Sports,YogaMat Flex,Gedeeltelijk defect aangekomen.,2,2024-04-18,CUST311,Tom,9446AB,19.0
+P312,Toys,RoboDino,Perfect in alle opzichten.,5,2021-08-06,CUST312,Noor,4048AB,61.0
+P313,Electronics,Laptop Pro 15,Perfect in alle opzichten.,5,2023-08-28,CUST313,Lisa,3593AB,41.0
+P314,Electronics,Laptop Pro 15,Perfect in alle opzichten.,5,2025-01-04,CUST314,Tom,5623AB,72.0
+P315,Sports,PowerLift Gloves,De beschrijving klopt totaal niet.,1,2023-05-13,CUST315,Bram,3503AB,38.0
+P316,Sports,YogaMat Flex,Veel te duur voor wat je krijgt.,1,2024-09-14,CUST316,Eva,2588AB,29.0
+"P317,Toys,RoboDino,""Geweldige kwaliteit, absoluut top!"",5,2023-08-08,CUST317,Bram,5064AB,88.0"
+P318,Home,VacuumMax 3000,Functioneert nauwelijks zoals beloofd.,1,2024-03-10,CUST318,Tom,2454AB,
+P319,Sports,YogaMat Flex,Goede kwaliteit en fijne gebruikerservaring.,4,2025-09-27,CUST319,Jan,5719AB,
+P320,Toys,PuzzleCube 3D,Werkt goed en voelt degelijk aan.,4,2021-03-11,CUST320,Sophie,5331AB,
+"P321,Electronics,Wireless Earbuds A2,""Werkt oké, maar mist enkele functies."",3,2022-12-27,CUST321,Tom,2824AB,"
+P322,Toys,MegaRace Car,Precies wat ik verwachtte!,4,2022-03-03,CUST322,Mark,6469AB,
+P323,Electronics,Laptop Pro 15,Dit is het beste product dat ik dit jaar kocht.,5,2022-01-30,CUST323,Bram,1472AB,
+P324,Sports,YogaMat Flex,Klantenservice reageert niet. Slecht product.,1,2024-10-10,CUST324,Noor,6347AB,
+"P325,Electronics,Laptop Pro 15,""Design mooi, prestaties middelmatig."",3,2022-12-20,CUST325,Mark,1898AB,"
+P326,Home,CookMaster Pan,Fantastisch product! Overtreft alles.,5,2024-02-14,CUST326,Noor,4039AB,
+"P327,Toys,MegaRace Car,""Topmateriaal, duurzaam en betrouwbaar."",5,2024-05-19,CUST327,Mark,5683AB,58.0"
+"P328,Toys,MegaRace Car,""Niet slecht, niet geweldig."",3,2025-07-08,CUST328,Mark,5031AB,60.0"
+P329,Toys,RoboDino,Klantenservice reageert niet. Slecht product.,1,2024-01-13,CUST329,Sophie,9791AB,
+P330,Beauty,FreshLook Cream,Installatie was lastig en slecht uitgelegd.,2,2021-06-26,CUST330,Sophie,7162AB,
+P331,Home,Air Purifier Breeze,Werkt goed en voelt degelijk aan.,4,2021-08-06,CUST331,Jan,2839AB,36.0
+P332,Sports,YogaMat Flex,Dit is het beste product dat ik dit jaar kocht.,5,2021-01-02,CUST332,Eva,5256AB,45.0
+P333,Electronics,Wireless Earbuds A2,Goede kwaliteit en fijne gebruikerservaring.,4,2023-01-06,CUST333,Tom,2094AB,
+P334,Sports,YogaMat Flex,Niet waard voor de prijs.,2,2021-12-07,CUST334,Jan,4100AB,
+P335,Electronics,Smartphone X1,Sommige onderdelen werkten niet optimaal.,2,2023-05-03,CUST335,Sophie,2858AB,20.0
+"P336,Home,Air Purifier Breeze,""Redelijk, maar zeker geen aanrader."",2,2025-05-11,CUST336,Bram,8317AB,68.0"
+P337,Beauty,FreshLook Cream,Prijs-kwaliteitverhouding is geweldig.,5,2025-03-21,CUST337,Jan,2257AB,
+"P338,Toys,RoboDino,""Zeer tevreden, al kon de handleiding beter."",4,2023-06-04,CUST338,Sophie,3524AB,"
+P339,Electronics,Wireless Earbuds A2,Snel geleverd en functioneert uitstekend.,4,2020-12-18,CUST339,Bram,5882AB,50.0
+"P340,Beauty,SoftTouch Shampoo,""Redelijk, maar zeker geen aanrader."",2,2025-01-28,CUST340,Sophie,6915AB,57.0"
+P341,Electronics,Wireless Earbuds A2,Handig in dagelijks gebruik.,4,2021-04-07,CUST341,Noor,9597AB,39.0
+P342,Beauty,FreshLook Cream,Vrij standaardproduct.,3,2024-11-01,CUST342,Jan,7516AB,
+P343,Sports,YogaMat Flex,Veel te duur voor wat je krijgt.,1,2025-07-16,CUST343,Tom,3062AB,66.0
+P344,Toys,RoboDino,Kwaliteit is redelijk voor dagelijks gebruik.,3,2024-06-13,CUST344,Lisa,1144AB,53.0
+P345,Beauty,SoftTouch Shampoo,De batterij ging na een uur al leeg.,1,2025-02-11,CUST345,Bram,9492AB,33.0
+"P346,Beauty,FreshLook Cream,""Het werkt wel, maar niet goed genoeg."",2,2022-04-01,CUST346,Lisa,3657AB,"
+P347,Beauty,FreshLook Cream,Dit is het beste product dat ik dit jaar kocht.,5,2023-09-30,CUST347,Jan,1513AB,
+"P348,Electronics,Smartphone X1,""Het voldoet, maar steekt nergens bovenuit."",3,2021-04-14,CUST348,Tom,6674AB,"
+P349,Electronics,Laptop Pro 15,Beetje traag maar bruikbaar.,3,2022-07-12,CUST349,Jan,8526AB,57.0
+P350,Home,CookMaster Pan,Prijs-kwaliteitverhouding is geweldig.,5,2022-08-07,CUST350,Lisa,2758AB,25.0
+P351,Beauty,GlowSkin Serum,Installatie was lastig en slecht uitgelegd.,2,2023-10-31,CUST351,Bram,6690AB,
+P352,Sports,YogaMat Flex,Zeker een aanrader voor deze prijs.,4,2024-07-21,CUST352,Jan,2342AB,
+"P353,Electronics,Wireless Earbuds A2,""Werkt oké, maar mist enkele functies."",3,2021-03-10,CUST353,Jan,9473AB,"
+P354,Beauty,FreshLook Cream,Gedeeltelijk defect aangekomen.,2,2025-06-30,CUST354,Jan,7220AB,
+P355,Electronics,Laptop Pro 15,Makkelijk in gebruik en ziet er mooi uit.,4,2021-11-29,CUST355,Lisa,4501AB,
+"P356,Sports,PowerLift Gloves,""Doet wat het moet doen, maar slecht afgewerkt."",2,2022-11-09,CUST356,Bram,7255AB,72.0"
+P357,Electronics,Laptop Pro 15,Zeker een aanrader voor deze prijs.,4,2025-03-20,CUST357,Mark,3481AB,82.0
+P358,Beauty,FreshLook Cream,Ik zou dit iedereen aanraden!,5,2024-05-09,CUST358,Eva,5278AB,
+P359,Electronics,Wireless Earbuds A2,Dit is het beste product dat ik dit jaar kocht.,5,2023-02-21,CUST359,Eva,5761AB,
+"P360,Sports,PowerLift Gloves,""Geweldige kwaliteit, absoluut top!"",5,2025-06-20,CUST360,Jan,2524AB,88.0"
+P361,Sports,YogaMat Flex,Installatie was lastig en slecht uitgelegd.,2,2024-09-25,CUST361,Sophie,9010AB,
+"P362,Home,CookMaster Pan,""Werkt soms, soms ook niet."",2,2022-02-05,CUST362,Jan,1364AB,30.0"
+P363,Electronics,Laptop Pro 15,Kwaliteit is redelijk voor dagelijks gebruik.,3,2024-10-19,CUST363,Lisa,6225AB,
+P364,Beauty,FreshLook Cream,De beschrijving klopt totaal niet.,1,2024-05-05,CUST364,Eva,9580AB,
+"P365,Beauty,FreshLook Cream,""Doet wat het moet doen, maar slecht afgewerkt."",2,2024-07-26,CUST365,Jan,6840AB,57.0"
+"P366,Electronics,Laptop Pro 15,""Zeer tevreden, al kon de handleiding beter."",4,2024-02-13,CUST366,Bram,6977AB,"
+P367,Beauty,SoftTouch Shampoo,Makkelijk in gebruik en ziet er mooi uit.,4,2021-06-12,CUST367,Eva,2781AB,69.0
+P368,Home,Air Purifier Breeze,Makkelijk in gebruik en ziet er mooi uit.,4,2024-06-07,CUST368,Lisa,3584AB,22.0
+P369,Sports,FitPro Watch,Prima voor deze prijs.,3,2025-06-22,CUST369,Jan,5792AB,47.0
+P370,Home,CookMaster Pan,Werkt perfect en extreem gebruiksvriendelijk.,5,2022-12-26,CUST370,Noor,1878AB,
+P371,Electronics,Wireless Earbuds A2,Presteert boven verwachting.,4,2023-02-25,CUST371,Lisa,8108AB,
+P372,Electronics,Smartphone X1,Vrij standaardproduct.,3,2023-07-17,CUST372,Tom,1506AB,
+"P373,Home,VacuumMax 3000,""Topmateriaal, duurzaam en betrouwbaar."",5,2024-01-04,CUST373,Eva,2816AB,"
+P374,Toys,MegaRace Car,Werkt perfect en extreem gebruiksvriendelijk.,5,2023-05-15,CUST374,Noor,6706AB,19.0
+"P375,Electronics,Smartphone X1,""Het voldoet, maar steekt nergens bovenuit."",3,2021-04-29,CUST375,Noor,2260AB,"
+"P376,Toys,MegaRace Car,""Ik ben supertevreden, precies wat ik zocht."",5,2025-04-19,CUST376,Eva,3579AB,34.0"
+P377,Sports,YogaMat Flex,De batterij ging na een uur al leeg.,1,2023-12-12,CUST377,Sophie,7613AB,
+"P378,Home,Air Purifier Breeze,""Redelijk, maar zeker geen aanrader."",2,2022-06-09,CUST378,Eva,9942AB,32.0"
+P379,Beauty,GlowSkin Serum,Beetje traag maar bruikbaar.,3,2023-09-13,CUST379,Jan,2620AB,59.0
+P380,Sports,PowerLift Gloves,Niet waard voor de prijs.,2,2022-12-10,CUST380,Sophie,3007AB,87.0
+"P381,Electronics,Smartphone X1,""Design mooi, prestaties middelmatig."",3,2021-05-05,CUST381,Sophie,2136AB,75.0"
+P382,Beauty,FreshLook Cream,Handig in dagelijks gebruik.,4,2022-06-29,CUST382,Lisa,5334AB,
+P383,Sports,FitPro Watch,Ik zou dit iedereen aanraden!,5,2025-01-18,CUST383,Noor,9891AB,70.0
+P384,Home,VacuumMax 3000,Werkt perfect en extreem gebruiksvriendelijk.,5,2021-08-14,CUST384,Noor,5255AB,
+P385,Beauty,GlowSkin Serum,Werkt goed en voelt degelijk aan.,4,2024-08-04,CUST385,Sophie,2248AB,84.0
+"P386,Electronics,Laptop Pro 15,""Ik ben supertevreden, precies wat ik zocht."",5,2025-05-30,CUST386,Bram,9733AB,"
+"P387,Sports,FitPro Watch,""Gemiddeld product, niet bijzonder."",3,2025-06-24,CUST387,Mark,1891AB,"
+"P388,Toys,MegaRace Car,""Kwaliteit is erg slecht, voelt goedkoop."",1,2024-08-02,CUST388,Bram,3563AB,66.0"
+P389,Sports,FitPro Watch,Klantenservice reageert niet. Slecht product.,1,2021-06-14,CUST389,Eva,3451AB,
+P390,Sports,PowerLift Gloves,Fantastisch product! Overtreft alles.,5,2025-10-11,CUST390,Eva,1854AB,
+"P391,Home,VacuumMax 3000,""Ik ben supertevreden, precies wat ik zocht."",5,2024-11-22,CUST391,Noor,3106AB,"
+"P392,Beauty,FreshLook Cream,""Niet slecht, niet geweldig."",3,2025-01-03,CUST392,Sophie,6789AB,28.0"
+"P393,Beauty,GlowSkin Serum,""Design mooi, prestaties middelmatig."",3,2022-02-09,CUST393,Tom,4931AB,"
+P394,Toys,MegaRace Car,Super design en uitstekende prestaties.,5,2021-01-13,CUST394,Noor,8150AB,40.0
+P395,Toys,RoboDino,Beetje traag maar bruikbaar.,3,2025-02-24,CUST395,Noor,3209AB,35.0
+P396,Toys,MegaRace Car,Beetje traag maar bruikbaar.,3,2025-02-02,CUST396,Sophie,6563AB,
+P397,Sports,FitPro Watch,Ik zou dit iedereen aanraden!,5,2024-11-08,CUST397,Sophie,9193AB,44.0
+P398,Electronics,Laptop Pro 15,Snel geleverd en functioneert uitstekend.,4,2025-09-01,CUST398,Mark,7406AB,64.0
+P399,Beauty,SoftTouch Shampoo,Niet waard voor de prijs.,2,2024-09-29,CUST399,Tom,5882AB,51.0
+"P400,Toys,RoboDino,""Niet slecht, niet geweldig."",3,2023-05-15,CUST400,Eva,5865AB,79.0"
+P401,Beauty,SoftTouch Shampoo,Niet waard voor de prijs.,2,2024-02-01,CUST401,Sophie,3606AB,
+P402,Electronics,Smartphone X1,Vrij standaardproduct.,3,2021-11-14,CUST402,Eva,4922AB,
+P403,Home,CookMaster Pan,Perfect in alle opzichten.,5,2023-01-29,CUST403,Sophie,2201AB,61.0
+P404,Sports,FitPro Watch,Prijs-kwaliteitverhouding is geweldig.,5,2025-04-16,CUST404,Eva,3313AB,75.0
+"P405,Electronics,Wireless Earbuds A2,""Zeer tevreden, al kon de handleiding beter."",4,2021-09-17,CUST405,Bram,4076AB,59.0"
+"P406,Electronics,Smartphone X1,""Niet slecht, niet geweldig."",3,2020-12-17,CUST406,Mark,9221AB,"
+P407,Home,CookMaster Pan,Klantenservice reageert niet. Slecht product.,1,2022-03-07,CUST407,Jan,9949AB,
+P408,Sports,PowerLift Gloves,Werkt goed en voelt degelijk aan.,4,2024-09-08,CUST408,Lisa,3686AB,
+P409,Home,VacuumMax 3000,Vrij standaardproduct.,3,2022-09-05,CUST409,Sophie,9117AB,
+P410,Beauty,FreshLook Cream,Werkt perfect en extreem gebruiksvriendelijk.,5,2025-02-05,CUST410,Tom,2576AB,
+P411,Home,CookMaster Pan,Het product werkte al na één dag niet meer.,1,2023-01-23,CUST411,Tom,3934AB,34.0
+P412,Toys,RoboDino,Zeker een aanrader voor deze prijs.,4,2021-12-31,CUST412,Mark,7045AB,88.0
+P413,Home,VacuumMax 3000,Sommige onderdelen werkten niet optimaal.,2,2025-03-18,CUST413,Tom,9387AB,
+"P414,Beauty,SoftTouch Shampoo,""Topmateriaal, duurzaam en betrouwbaar."",5,2023-08-23,CUST414,Tom,1963AB,81.0"
+P415,Home,Air Purifier Breeze,Presteert boven verwachting.,4,2021-11-18,CUST415,Bram,3470AB,79.0
+"P416,Home,CookMaster Pan,""Zeer tevreden, al kon de handleiding beter."",4,2022-01-22,CUST416,Sophie,9238AB,88.0"
+"P417,Sports,PowerLift Gloves,""Redelijk, maar zeker geen aanrader."",2,2025-05-23,CUST417,Tom,5170AB,57.0"
+P418,Electronics,Smartphone X1,Prima voor deze prijs.,3,2024-01-15,CUST418,Tom,8781AB,
+P419,Electronics,Wireless Earbuds A2,Ik zou dit iedereen aanraden!,5,2021-03-10,CUST419,Noor,8880AB,
+"P420,Beauty,GlowSkin Serum,""Gemiddeld product, niet bijzonder."",3,2021-06-05,CUST420,Lisa,4185AB,23.0"
+P421,Sports,PowerLift Gloves,Ik zou dit iedereen aanraden!,5,2023-04-27,CUST421,Bram,3503AB,41.0
+P422,Toys,RoboDino,Het product werkte al na één dag niet meer.,1,2022-11-14,CUST422,Sophie,8322AB,76.0
+"P423,Toys,MegaRace Car,""Het werkt wel, maar niet goed genoeg."",2,2024-05-16,CUST423,Lisa,3744AB,"
+P424,Electronics,Laptop Pro 15,Goede prestaties en stevig gebouwd.,4,2023-03-27,CUST424,Noor,3446AB,
+"P425,Sports,YogaMat Flex,""Zeer tevreden, al kon de handleiding beter."",4,2025-04-14,CUST425,Noor,5055AB,"
+P426,Toys,PuzzleCube 3D,Kwam beschadigd aan en deed het niet.,1,2025-09-25,CUST426,Tom,6296AB,76.0
+P427,Sports,PowerLift Gloves,Vrij standaardproduct.,3,2021-11-04,CUST427,Bram,9684AB,
+P428,Toys,PuzzleCube 3D,Werkt perfect en extreem gebruiksvriendelijk.,5,2024-01-25,CUST428,Eva,7210AB,77.0
+P429,Home,VacuumMax 3000,Presteert boven verwachting.,4,2022-11-08,CUST429,Eva,2946AB,
+"P430,Toys,RoboDino,""Design mooi, prestaties middelmatig."",3,2020-12-21,CUST430,Eva,4310AB,34.0"
+P431,Home,Air Purifier Breeze,Prijs-kwaliteitverhouding is geweldig.,5,2022-08-16,CUST431,Bram,8132AB,
+P432,Beauty,FreshLook Cream,Ik zou dit iedereen aanraden!,5,2021-11-28,CUST432,Tom,8924AB,88.0
+"P433,Electronics,Laptop Pro 15,""Werkt soms, soms ook niet."",2,2022-02-07,CUST433,Eva,6164AB,29.0"
+"P434,Toys,PuzzleCube 3D,""Werkt soms, soms ook niet."",2,2022-08-17,CUST434,Tom,4409AB,73.0"
+"P435,Beauty,GlowSkin Serum,""Topmateriaal, duurzaam en betrouwbaar."",5,2024-03-26,CUST435,Eva,9622AB,59.0"
+P436,Beauty,GlowSkin Serum,Ik zou dit iedereen aanraden!,5,2022-04-22,CUST436,Bram,6122AB,
+"P437,Sports,PowerLift Gloves,""Niet slecht, niet geweldig."",3,2024-02-23,CUST437,Noor,1055AB,"
+P438,Beauty,SoftTouch Shampoo,Prijs-kwaliteitverhouding is geweldig.,5,2021-09-21,CUST438,Tom,1584AB,
+P439,Sports,YogaMat Flex,Veel te duur voor wat je krijgt.,1,2023-02-25,CUST439,Jan,6817AB,
+"P440,Sports,FitPro Watch,""Kwaliteit is erg slecht, voelt goedkoop."",1,2024-09-27,CUST440,Bram,3675AB,"
+P441,Electronics,Wireless Earbuds A2,Perfect in alle opzichten.,5,2025-04-08,CUST441,Lisa,7449AB,
+P442,Beauty,SoftTouch Shampoo,De batterij ging na een uur al leeg.,1,2022-02-27,CUST442,Lisa,9766AB,
+"P443,Home,CookMaster Pan,""Design mooi, prestaties middelmatig."",3,2022-03-24,CUST443,Eva,3029AB,41.0"
+"P444,Home,VacuumMax 3000,""Werkt soms, soms ook niet."",2,2020-12-13,CUST444,Noor,3666AB,88.0"
+P445,Electronics,Laptop Pro 15,De beschrijving klopt totaal niet.,1,2021-05-26,CUST445,Sophie,8688AB,
+P446,Electronics,Laptop Pro 15,Handig in dagelijks gebruik.,4,2024-03-16,CUST446,Lisa,5150AB,39.0
+"P447,Sports,FitPro Watch,""Design mooi, prestaties middelmatig."",3,2024-11-30,CUST447,Mark,4783AB,"
+P448,Electronics,Laptop Pro 15,Had er meer van verwacht.,2,2025-04-24,CUST448,Jan,4668AB,21.0
+"P449,Toys,RoboDino,""Zeer teleurstellend, absoluut geen aanrader."",1,2024-10-17,CUST449,Eva,7519AB,"
+"P450,Home,VacuumMax 3000,""Het werkt wel, maar niet goed genoeg."",2,2024-09-18,CUST450,Mark,4073AB,"
+P451,Beauty,GlowSkin Serum,Veel te duur voor wat je krijgt.,1,2021-09-11,CUST451,Noor,3057AB,60.0
+P452,Toys,MegaRace Car,Prijs-kwaliteitverhouding is geweldig.,5,2025-05-06,CUST452,Tom,4171AB,73.0
+"P453,Sports,FitPro Watch,""Zeer teleurstellend, absoluut geen aanrader."",1,2023-06-16,CUST453,Tom,6413AB,"
+"P454,Toys,RoboDino,""Doet wat het moet doen, maar slecht afgewerkt."",2,2024-08-10,CUST454,Noor,8673AB,"
+P455,Electronics,Smartphone X1,Makkelijk in gebruik en ziet er mooi uit.,4,2024-04-23,CUST455,Eva,6121AB,
+P456,Sports,FitPro Watch,Snel geleverd en functioneert uitstekend.,4,2021-04-07,CUST456,Mark,7414AB,
+P457,Beauty,FreshLook Cream,Dit is het beste product dat ik dit jaar kocht.,5,2024-12-07,CUST457,Bram,8714AB,75.0
+"P458,Sports,YogaMat Flex,""Zeer tevreden, al kon de handleiding beter."",4,2024-12-30,CUST458,Eva,8005AB,"
+P459,Electronics,Smartphone X1,Veel te duur voor wat je krijgt.,1,2023-03-13,CUST459,Tom,9263AB,76.0
+"P460,Beauty,SoftTouch Shampoo,""Zeer teleurstellend, absoluut geen aanrader."",1,2024-08-24,CUST460,Noor,6698AB,89.0"
+"P461,Home,VacuumMax 3000,""Redelijk, maar zeker geen aanrader."",2,2023-07-10,CUST461,Eva,5091AB,"
+"P462,Electronics,Smartphone X1,""Het werkt wel, maar niet goed genoeg."",2,2025-08-15,CUST462,Lisa,5726AB,84.0"
+P463,Toys,PuzzleCube 3D,Had er meer van verwacht.,2,2025-11-06,CUST463,Bram,3497AB,
+P464,Sports,FitPro Watch,Perfect in alle opzichten.,5,2025-01-20,CUST464,Noor,2171AB,
+"P465,Toys,MegaRace Car,""Het werkt wel, maar niet goed genoeg."",2,2023-10-23,CUST465,Lisa,6836AB,"
+"P466,Toys,PuzzleCube 3D,""Werkt soms, soms ook niet."",2,2021-12-11,CUST466,Bram,8540AB,39.0"
+P467,Toys,PuzzleCube 3D,Goede prestaties en stevig gebouwd.,4,2022-04-15,CUST467,Lisa,2913AB,
+P468,Home,Air Purifier Breeze,Niet waard voor de prijs.,2,2023-01-28,CUST468,Eva,9021AB,
+P469,Beauty,GlowSkin Serum,Niet waard voor de prijs.,2,2021-10-04,CUST469,Lisa,4312AB,
+P470,Sports,PowerLift Gloves,De batterij ging na een uur al leeg.,1,2022-10-22,CUST470,Jan,3844AB,
+P471,Sports,PowerLift Gloves,Dit is het beste product dat ik dit jaar kocht.,5,2024-10-24,CUST471,Lisa,2627AB,21.0
+"P472,Sports,FitPro Watch,""Vreselijke ervaring, ik stuur het terug."",1,2024-08-18,CUST472,Mark,7265AB,74.0"
+"P473,Toys,RoboDino,""Geweldige kwaliteit, absoluut top!"",5,2021-12-30,CUST473,Jan,3978AB,63.0"
+"P474,Electronics,Laptop Pro 15,""Design mooi, prestaties middelmatig."",3,2021-04-24,CUST474,Sophie,1699AB,75.0"
+"P475,Toys,PuzzleCube 3D,""Werkt oké, maar mist enkele functies."",3,2021-06-03,CUST475,Bram,3961AB,"
+"P476,Electronics,Wireless Earbuds A2,""Gemiddeld product, niet bijzonder."",3,2024-07-13,CUST476,Jan,5222AB,25.0"
+"P477,Beauty,FreshLook Cream,""Niet slecht, niet geweldig."",3,2025-01-15,CUST477,Tom,2728AB,"
+P478,Sports,PowerLift Gloves,Fantastisch product! Overtreft alles.,5,2021-12-07,CUST478,Jan,6151AB,
+"P479,Beauty,SoftTouch Shampoo,""Design mooi, prestaties middelmatig."",3,2021-05-16,CUST479,Bram,1015AB,82.0"
+"P480,Sports,YogaMat Flex,""Kwaliteit is erg slecht, voelt goedkoop."",1,2021-10-21,CUST480,Bram,1749AB,"
+"P481,Home,CookMaster Pan,""Het voldoet, maar steekt nergens bovenuit."",3,2023-05-19,CUST481,Sophie,5282AB,18.0"
+P482,Sports,FitPro Watch,De batterij ging na een uur al leeg.,1,2021-09-23,CUST482,Jan,2771AB,
+P483,Toys,MegaRace Car,Super design en uitstekende prestaties.,5,2020-12-23,CUST483,Bram,9937AB,33.0
+P484,Beauty,SoftTouch Shampoo,Super design en uitstekende prestaties.,5,2024-10-16,CUST484,Noor,9551AB,
+P485,Beauty,FreshLook Cream,Beetje traag maar bruikbaar.,3,2022-07-27,CUST485,Noor,7050AB,
+P486,Home,VacuumMax 3000,Beetje traag maar bruikbaar.,3,2025-04-18,CUST486,Jan,2636AB,69.0
+P487,Beauty,FreshLook Cream,Precies wat ik verwachtte!,4,2023-08-17,CUST487,Mark,9349AB,
+P488,Beauty,GlowSkin Serum,Precies wat ik verwachtte!,4,2022-08-05,CUST488,Sophie,7898AB,
+"P489,Beauty,FreshLook Cream,""Het voldoet, maar steekt nergens bovenuit."",3,2025-11-14,CUST489,Sophie,8303AB,"
+"P490,Toys,RoboDino,""Topmateriaal, duurzaam en betrouwbaar."",5,2023-08-17,CUST490,Mark,1893AB,27.0"
+"P491,Electronics,Wireless Earbuds A2,""Design mooi, prestaties middelmatig."",3,2020-12-20,CUST491,Noor,6977AB,"
+"P492,Sports,FitPro Watch,""Redelijk, maar zeker geen aanrader."",2,2023-09-12,CUST492,Tom,5960AB,46.0"
+"P493,Electronics,Laptop Pro 15,""Vreselijke ervaring, ik stuur het terug."",1,2023-07-13,CUST493,Lisa,8753AB,19.0"
+P494,Toys,MegaRace Car,Goede prestaties en stevig gebouwd.,4,2024-01-27,CUST494,Noor,1474AB,32.0
+"P495,Electronics,Smartphone X1,""Design mooi, prestaties middelmatig."",3,2023-06-28,CUST495,Sophie,1990AB,19.0"
+"P496,Toys,RoboDino,""Zeer teleurstellend, absoluut geen aanrader."",1,2024-06-15,CUST496,Tom,1278AB,"
+"P497,Home,VacuumMax 3000,""Het voldoet, maar steekt nergens bovenuit."",3,2023-11-15,CUST497,Jan,8266AB,88.0"
+"P498,Home,Air Purifier Breeze,""Zeer tevreden, al kon de handleiding beter."",4,2024-01-12,CUST498,Tom,1782AB,63.0"
+P499,Toys,MegaRace Car,Kwam beschadigd aan en deed het niet.,1,2021-06-02,CUST499,Bram,6035AB,51.0

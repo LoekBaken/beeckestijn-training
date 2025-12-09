@@ -1,0 +1,321 @@
+product_id,product_category,product_name,review_description,number_stars,review_date,customer_id,customer_name,zip_code,customer_age
+1020,Beauty,SilkGlow Serum,Disappointed with SilkGlow Serum: arrived late and instructions unclear.,1,2022-06-26,5000,Tom,7912 AA,19
+1002,Electronics,Nimbus Smartwatch,Disappointed with Nimbus Smartwatch: return process was difficult and battery drains quickly.,2,2024-04-25,5001,N. de Boer,10851,36
+"1022,Beauty,CurlWave Hair Dryer,""Loved the CurlWave Hair Dryer: customer support was helpful, great value."",4,2021-10-24,5002,J. Jansen,7224 AA,61"
+"1011,Sports,HydraSteel Bottle,""Loved the HydraSteel Bottle: battery lasts long, packaging was neat."",5,08/03/2021,5003,Y. de Vries,92397,62"
+1018,Automotive,SafeStop Brake Pads,Disappointed with SafeStop Brake Pads: poor quality and arrived late.,2,2024-08-25,5004,Sophie,,51
+1014,Sports,AllTerrain Backpack,The AllTerrain Backpack is average performance and okay for the price.,3,2022-12-07,5005,D. de Vries,3677BA,64
+"1008,Home & Kitchen,ComfyCloud Pillow,""Loved the ComfyCloud Pillow: easy setup, customer support was helpful."",5,05/10/2022,5006,Anna,,50"
+1002,Electronics,Nimbus Smartwatch,Disappointed with Nimbus Smartwatch: instructions unclear and poor quality.,2,2024-08-13,5007,Luuk van Dijk,9830AC,90
+"1013,Sports,SwiftFit Tracker,""Loved the SwiftFit Tracker: packaging was neat, great value."",5,04/03/2022,5008,Tom,3504 BC,36"
+"1021,Beauty,MattePrime Foundation,""Loved the MattePrime Foundation: excellent build quality, easy setup."",4,30/01/2023,5009,Luuk de Boer,2876 BC,84"
+1024,Beauty,CalmSkin Moisturizer,The CalmSkin Moisturizer is delivery was normal and okay for the price.,3,2021-07-26,5010,Eva Bos,75612,38
+1016,Automotive,ClearView Wipers,Disappointed with ClearView Wipers: battery drains quickly and damaged packaging.,1,10/07/2024,5011,N. van Dijk,6310 BA,18
+1003,Electronics,EchoLite Speaker,The EchoLite Speaker is okay for the price and average performance.,3,2021-04-07,5012,Sem de Vries,,24
+"1024,Beauty,CalmSkin Moisturizer,""Loved the CalmSkin Moisturizer: great value, excellent build quality."",5,2024-08-22,5013,Yara van Dijk,,43"
+1017,Automotive,TurboCharge Adapter,Disappointed with TurboCharge Adapter: battery drains quickly and return process was difficult.,2,15/09/2024,5014,L. de Boer,6539 AA,86
+"1007,Home & Kitchen,GlideChef Knife Set,""Loved the GlideChef Knife Set: easy setup, fast delivery."",5,04/05/2021,5015,Anna Bakker,6413 AA,81"
+1007,Home & Kitchen,GlideChef Knife Set,The GlideChef Knife Set is delivery was normal and setup took some time but fine.,3,21/02/2022,5016,Sem,,40
+1003,Electronics,EchoLite Speaker,Disappointed with EchoLite Speaker: damaged packaging and stopped working.,1,2023-04-26,5017,Anna de Vries,24322,47
+1006,Home & Kitchen,EcoWash Dishwasher Tabs,Disappointed with EcoWash Dishwasher Tabs: overpriced for what you get and poor quality.,2,2023-04-23,5018,L. Bakker,1828 BC,85
+1000,Electronics,Aurora X1 Headphones,Disappointed with Aurora X1 Headphones: return process was difficult and poor quality.,1,2023-03-22,5019,N. Meijer,7396 AC,74
+"1009,Home & Kitchen,ThermaPan Skillet,""Loved the ThermaPan Skillet: features exceed expectations, excellent build quality."",4,2022-01-02,5020,A. Mulder,17492,22"
+"1018,Automotive,SafeStop Brake Pads,""Loved the SafeStop Brake Pads: great value, fast delivery."",4,2023-10-16,5021,Eva,7615AA,88"
+"1007,Home & Kitchen,GlideChef Knife Set,""Loved the GlideChef Knife Set: fast delivery, battery lasts long."",5,2021-05-26,5022,Sem,6147AB,49"
+1012,Sports,GripPro Yoga Mat,Disappointed with GripPro Yoga Mat: battery drains quickly and return process was difficult.,2,18/09/2022,5023,Bram,2200 BB,43
+1016,Automotive,ClearView Wipers,The ClearView Wipers is average performance and okay for the price.,3,2025-11-18,5024,Mila Smit,,85
+1022,Beauty,CurlWave Hair Dryer,The CurlWave Hair Dryer is design is fine and delivery was normal.,3,26/12/2020,5025,Y. Visser,5333AA,29
+"1023,Beauty,BrightSmile Tooth Kit,""Loved the BrightSmile Tooth Kit: great value, features exceed expectations."",5,10/07/2022,5026,J. Jansen,76244,78"
+1008,Home & Kitchen,ComfyCloud Pillow,Disappointed with ComfyCloud Pillow: poor quality and instructions unclear.,1,26/04/2023,5027,A. Jansen,31178,72
+"1017,Automotive,TurboCharge Adapter,""Loved the TurboCharge Adapter: fast delivery, features exceed expectations."",4,13/05/2021,5028,Tom de Boer,86350,86"
+"1004,Electronics,PixelPro Camera,""Loved the PixelPro Camera: great value, fast delivery."",4,2022-09-02,5029,Anna Smit,2684AC,87"
+"1013,Sports,SwiftFit Tracker,""Loved the SwiftFit Tracker: great value, excellent build quality."",5,2025-10-15,5030,Eva Meijer,63964,47"
+1008,Home & Kitchen,ComfyCloud Pillow,Disappointed with ComfyCloud Pillow: poor quality and return process was difficult.,2,2025-10-31,5031,Nora Bakker,,60
+1009,Home & Kitchen,ThermaPan Skillet,Disappointed with ThermaPan Skillet: return process was difficult and arrived late.,2,2024-08-22,5032,J. Jansen,5573 AC,81
+"1012,Sports,GripPro Yoga Mat,""Loved the GripPro Yoga Mat: customer support was helpful, fast delivery."",5,03/08/2021,5033,Daan,2776 BB,71"
+1011,Sports,HydraSteel Bottle,The HydraSteel Bottle is setup took some time but fine and design is fine.,3,2023-10-23,5034,Sem Bakker,,16
+"1016,Automotive,ClearView Wipers,""Loved the ClearView Wipers: easy setup, great value."",5,2023-05-12,5035,J. Jansen,96951,31"
+1023,Beauty,BrightSmile Tooth Kit,The BrightSmile Tooth Kit is design is fine and okay for the price.,3,2024-09-05,5036,P. Visser,,38
+"1019,Automotive,AirPure Cabin Filter,""Loved the AirPure Cabin Filter: battery lasts long, easy setup."",5,06/01/2024,5037,Sophie Visser,70946,72"
+1014,Sports,AllTerrain Backpack,Disappointed with AllTerrain Backpack: overpriced for what you get and damaged packaging.,2,28/05/2025,5038,Bram,22240,46
+1021,Beauty,MattePrime Foundation,The MattePrime Foundation is average performance and delivery was normal.,3,2021-10-07,5039,Mila,,69
+"1020,Beauty,SilkGlow Serum,""Loved the SilkGlow Serum: easy setup, customer support was helpful."",5,2024-11-05,5040,Pieter Bakker,2746 BA,44"
+"1005,Home & Kitchen,PureBrew Coffee Maker,""Loved the PureBrew Coffee Maker: features exceed expectations, fast delivery."",5,2024-01-25,5041,Lisa Bos,,83"
+"1017,Automotive,TurboCharge Adapter,""Loved the TurboCharge Adapter: customer support was helpful, packaging was neat."",5,2025-12-09,5042,Kees,8777BA,49"
+1024,Beauty,CalmSkin Moisturizer,Disappointed with CalmSkin Moisturizer: battery drains quickly and damaged packaging.,2,20/04/2025,5043,Mila,5451AC,56
+1017,Automotive,TurboCharge Adapter,Disappointed with TurboCharge Adapter: stopped working and poor quality.,1,2022-03-28,5044,Tom Bakker,,58
+"1017,Automotive,TurboCharge Adapter,""Loved the TurboCharge Adapter: packaging was neat, fast delivery."",4,06/02/2022,5045,P. Mulder,,77"
+1000,Electronics,Aurora X1 Headphones,The Aurora X1 Headphones is okay for the price and setup took some time but fine.,3,22/09/2025,5046,Sara,8999AB,50
+"1013,Sports,SwiftFit Tracker,""Loved the SwiftFit Tracker: fast delivery, easy setup."",4,29/10/2022,5047,Pieter,7455 BB,88"
+1021,Beauty,MattePrime Foundation,Disappointed with MattePrime Foundation: poor quality and instructions unclear.,1,2023-05-06,5048,Luuk van Dijk,,57
+"1006,Home & Kitchen,EcoWash Dishwasher Tabs,""Loved the EcoWash Dishwasher Tabs: customer support was helpful, great value."",4,17/03/2025,5049,Daan Meijer,8705 AA,85"
+"1001,Electronics,VoltMax Power Bank,""Loved the VoltMax Power Bank: fast delivery, battery lasts long."",4,2021-08-25,5050,L. Mulder,1508 AB,24"
+"1008,Home & Kitchen,ComfyCloud Pillow,""Loved the ComfyCloud Pillow: battery lasts long, features exceed expectations."",4,2023-01-17,5051,Noah,6096AA,30"
+"1007,Home & Kitchen,GlideChef Knife Set,""Loved the GlideChef Knife Set: customer support was helpful, fast delivery."",5,2022-11-08,5052,Sara Bos,1672 AC,54"
+1011,Sports,HydraSteel Bottle,The HydraSteel Bottle is design is fine and setup took some time but fine.,3,28/07/2025,5053,Daan,90728,71
+"1002,Electronics,Nimbus Smartwatch,""Loved the Nimbus Smartwatch: features exceed expectations, packaging was neat."",4,2023-09-04,5054,Daan Smit,,47"
+"1019,Automotive,AirPure Cabin Filter,""Loved the AirPure Cabin Filter: easy setup, customer support was helpful."",4,2024-12-06,5055,Jan de Vries,4954 BC,82"
+"1012,Sports,GripPro Yoga Mat,""Loved the GripPro Yoga Mat: customer support was helpful, great value."",4,2022-06-17,5056,M. de Vries,65771,90"
+1023,Beauty,BrightSmile Tooth Kit,Disappointed with BrightSmile Tooth Kit: battery drains quickly and arrived late.,2,2022-08-08,5057,Eva Visser,,39
+"1017,Automotive,TurboCharge Adapter,""Loved the TurboCharge Adapter: battery lasts long, easy setup."",5,2022-11-07,5058,A. Visser,9042AA,22"
+1002,Electronics,Nimbus Smartwatch,The Nimbus Smartwatch is okay for the price and works as expected.,3,09/08/2021,5059,Sara,3485 AB,89
+1024,Beauty,CalmSkin Moisturizer,Disappointed with CalmSkin Moisturizer: arrived late and battery drains quickly.,2,01/07/2021,5060,Noah Bakker,,72
+1002,Electronics,Nimbus Smartwatch,,5,2024-04-09,5061,Anna Bakker,,86
+1009,Home & Kitchen,ThermaPan Skillet,The ThermaPan Skillet is average performance and setup took some time but fine.,3,15/03/2022,5062,Daan van Dijk,91927,
+"1005,Home & Kitchen,PureBrew Coffee Maker,""Loved the PureBrew Coffee Maker: battery lasts long, customer support was helpful."",4,20/06/2022,5063,Nora Bos,,88"
+1001,Electronics,VoltMax Power Bank,The VoltMax Power Bank is delivery was normal and design is fine.,3,21/01/2021,5064,Daan Mulder,,48
+"1024,Beauty,CalmSkin Moisturizer,""Loved the CalmSkin Moisturizer: excellent build quality, easy setup."",5,2022-10-23,5065,Lisa,8141BC,72"
+1009,Home & Kitchen,ThermaPan Skillet,The ThermaPan Skillet is okay for the price and delivery was normal.,3,2025-04-10,5066,Kees,,86
+"1013,Sports,SwiftFit Tracker,""Loved the SwiftFit Tracker: fast delivery, excellent build quality."",5,04/09/2021,5067,Luuk Bos,,62"
+"1020,Beauty,SilkGlow Serum,""Loved the SilkGlow Serum: excellent build quality, easy setup."",4,28/07/2024,5068,N. Visser,,55"
+1015,Automotive,RoadGuard Dashcam,The RoadGuard Dashcam is works as expected and okay for the price.,3,2025-09-24,5069,K. Visser,9327BC,86
+1009,Home & Kitchen,ThermaPan Skillet,Disappointed with ThermaPan Skillet: instructions unclear and stopped working.,1,2023-12-27,5070,J. Jansen,,78
+1022,Beauty,CurlWave Hair Dryer,,4,23/11/2024,5071,Pieter,,45
+"1020,Beauty,SilkGlow Serum,""Loved the SilkGlow Serum: features exceed expectations, fast delivery."",5,2023-07-03,5072,Tom,23154,20"
+1002,Electronics,Nimbus Smartwatch,The Nimbus Smartwatch is okay for the price and design is fine.,3,19/09/2022,5073,Nora de Boer,,49
+"1002,Electronics,Nimbus Smartwatch,""Loved the Nimbus Smartwatch: excellent build quality, easy setup."",4,15/08/2022,5074,A. Smit,8110 AA,52"
+1011,Sports,HydraSteel Bottle,,3,01/06/2024,5075,Nora Mulder,3785AB,83
+"1014,Sports,AllTerrain Backpack,""Loved the AllTerrain Backpack: great value, fast delivery."",4,17/11/2022,5076,S. Meijer,,17"
+"1009,Home & Kitchen,ThermaPan Skillet,""Loved the ThermaPan Skillet: battery lasts long, customer support was helpful."",5,05/08/2025,5077,Daan,,77"
+"1023,Beauty,BrightSmile Tooth Kit,""Loved the BrightSmile Tooth Kit: customer support was helpful, excellent build quality."",5,2024-06-03,5078,Tom,40162,79"
+1009,Home & Kitchen,ThermaPan Skillet,The ThermaPan Skillet is setup took some time but fine and average performance.,3,08/05/2025,5079,Jane Jansen,2476AC,
+"1016,Automotive,ClearView Wipers,""Loved the ClearView Wipers: battery lasts long, customer support was helpful."",4,2025-06-14,5080,B. van Dijk,,48"
+1021,Beauty,MattePrime Foundation,,3,2023-06-29,5081,Daan,,87
+"1011,Sports,HydraSteel Bottle,""Loved the HydraSteel Bottle: customer support was helpful, battery lasts long."",5,18/04/2021,5082,L. Visser,,76"
+"1001,Electronics,VoltMax Power Bank,""Loved the VoltMax Power Bank: customer support was helpful, features exceed expectations."",5,05/11/2024,5083,S. Mulder,9807AB,79"
+"1013,Sports,SwiftFit Tracker,""Loved the SwiftFit Tracker: easy setup, features exceed expectations."",5,07/04/2022,5084,Lisa,14288,68"
+"1011,Sports,HydraSteel Bottle,""Loved the HydraSteel Bottle: easy setup, customer support was helpful."",5,2021-01-22,5085,J. Jansen,,40"
+1004,Electronics,PixelPro Camera,Disappointed with PixelPro Camera: arrived late and stopped working.,1,02/10/2021,5086,Y. Visser,4817AC,86
+"1000,Electronics,Aurora X1 Headphones,""Loved the Aurora X1 Headphones: fast delivery, excellent build quality."",5,2023-11-22,5087,B. Bos,6304AA,"
+"1018,Automotive,SafeStop Brake Pads,""Loved the SafeStop Brake Pads: fast delivery, features exceed expectations."",5,2025-09-10,5088,L. Bos,9543 AC,44"
+"1002,Electronics,Nimbus Smartwatch,""Loved the Nimbus Smartwatch: battery lasts long, easy setup."",4,2023-05-10,5089,L. de Boer,59925,24"
+"1014,Sports,AllTerrain Backpack,""Loved the AllTerrain Backpack: battery lasts long, great value."",5,16/10/2024,5090,B. de Vries,6120 BA,74"
+"1003,Electronics,EchoLite Speaker,""Loved the EchoLite Speaker: customer support was helpful, features exceed expectations."",4,04/12/2022,5091,Sara,,87"
+"1011,Sports,HydraSteel Bottle,""Loved the HydraSteel Bottle: excellent build quality, great value."",5,2023-01-01,5092,Daan Mulder,,43"
+1013,Sports,SwiftFit Tracker,Disappointed with SwiftFit Tracker: battery drains quickly and arrived late.,1,18/11/2024,5093,J. Jansen,,87
+"1000,Electronics,Aurora X1 Headphones,""Loved the Aurora X1 Headphones: fast delivery, features exceed expectations."",5,2022-02-23,5094,Luuk Smit,3324 BC,88"
+"1009,Home & Kitchen,ThermaPan Skillet,""Loved the ThermaPan Skillet: fast delivery, customer support was helpful."",4,05/06/2023,5095,N. Mulder,3549 AB,88"
+1024,Beauty,CalmSkin Moisturizer,Disappointed with CalmSkin Moisturizer: overpriced for what you get and battery drains quickly.,2,2021-03-13,5096,Lotte Jansen,98895,
+"1009,Home & Kitchen,ThermaPan Skillet,""Loved the ThermaPan Skillet: great value, excellent build quality."",5,2024-11-20,5097,Yara Smit,1126 BA,48"
+"1023,Beauty,BrightSmile Tooth Kit,""Loved the BrightSmile Tooth Kit: packaging was neat, customer support was helpful."",5,2022-07-25,5098,Jan Smit,85465,74"
+1019,Automotive,AirPure Cabin Filter,The AirPure Cabin Filter is average performance and setup took some time but fine.,3,2023-11-18,5099,Sophie Smit,,62
+"1024,Beauty,CalmSkin Moisturizer,""Loved the CalmSkin Moisturizer: great value, excellent build quality."",5,2022-05-18,5100,Lotte,6724AC,"
+1005,Home & Kitchen,PureBrew Coffee Maker,Disappointed with PureBrew Coffee Maker: instructions unclear and damaged packaging.,2,2022-09-18,5101,B. Bos,,88
+1008,Home & Kitchen,ComfyCloud Pillow,,5,2022-07-20,5102,B. Mulder,,25
+1018,Automotive,SafeStop Brake Pads,Disappointed with SafeStop Brake Pads: stopped working and arrived late.,1,27/06/2025,5103,J. Jansen,6267BB,21
+"1016,Automotive,ClearView Wipers,""Loved the ClearView Wipers: great value, features exceed expectations."",5,2022-07-12,5104,J. Jansen,,"
+"1001,Electronics,VoltMax Power Bank,""Loved the VoltMax Power Bank: battery lasts long, great value."",4,15/08/2024,5105,Lotte,,"
+"1004,Electronics,PixelPro Camera,""Loved the PixelPro Camera: customer support was helpful, packaging was neat."",4,18/11/2024,5106,K. de Vries,6072 BB,66"
+"1011,Sports,HydraSteel Bottle,""Loved the HydraSteel Bottle: great value, excellent build quality."",5,04/09/2025,5107,Kees,73736,39"
+"1001,Electronics,VoltMax Power Bank,""Loved the VoltMax Power Bank: great value, customer support was helpful."",4,2023-03-31,5108,Mila,3658AB,32"
+"1014,Sports,AllTerrain Backpack,""Loved the AllTerrain Backpack: easy setup, great value."",5,21/02/2024,5109,Luuk,,55"
+"1013,Sports,SwiftFit Tracker,""Loved the SwiftFit Tracker: excellent build quality, customer support was helpful."",5,2025-09-18,5110,Bram van Dijk,8873 AC,33"
+"1016,Automotive,ClearView Wipers,""Loved the ClearView Wipers: packaging was neat, fast delivery."",5,2023-01-14,5111,Bram Smit,8391AC,27"
+"1010,Sports,RunFly Shoes,""Loved the RunFly Shoes: features exceed expectations, customer support was helpful."",5,13/03/2025,5112,Luuk Mulder,1627AC,58"
+"1002,Electronics,Nimbus Smartwatch,""Loved the Nimbus Smartwatch: battery lasts long, excellent build quality."",5,2021-03-17,5113,Lotte Bos,,35"
+1015,Automotive,RoadGuard Dashcam,Disappointed with RoadGuard Dashcam: instructions unclear and poor quality.,2,28/12/2021,5114,B. de Boer,3352AC,
+1016,Automotive,ClearView Wipers,Disappointed with ClearView Wipers: arrived late and instructions unclear.,2,2023-01-13,5115,J. Smit,,80
+"1023,Beauty,BrightSmile Tooth Kit,""Loved the BrightSmile Tooth Kit: great value, packaging was neat."",5,19/07/2023,5116,N. van Dijk,81567,58"
+1024,Beauty,CalmSkin Moisturizer,The CalmSkin Moisturizer is design is fine and setup took some time but fine.,3,2023-12-27,5117,Anna Bakker,1686AC,
+"1024,Beauty,CalmSkin Moisturizer,""Loved the CalmSkin Moisturizer: features exceed expectations, easy setup."",5,2021-12-27,5118,Nora,67272,58"
+1002,Electronics,Nimbus Smartwatch,The Nimbus Smartwatch is works as expected and okay for the price.,3,2022-08-29,5119,S. van Dijk,9937AC,
+"1001,Electronics,VoltMax Power Bank,""Loved the VoltMax Power Bank: customer support was helpful, battery lasts long."",4,2024-10-01,5120,Jan,2229 BC,71"
+"1014,Sports,AllTerrain Backpack,""Loved the AllTerrain Backpack: fast delivery, battery lasts long."",5,19/06/2023,5121,Jane Jansen,57467,46"
+"1024,Beauty,CalmSkin Moisturizer,""Loved the CalmSkin Moisturizer: excellent build quality, fast delivery."",5,28/09/2023,5122,Yara de Vries,95139,83"
+1008,Home & Kitchen,ComfyCloud Pillow,The ComfyCloud Pillow is average performance and works as expected.,3,2024-12-09,5123,Bram,,52
+1017,Automotive,TurboCharge Adapter,Disappointed with TurboCharge Adapter: return process was difficult and damaged packaging.,2,2025-05-16,5124,Jane Jansen,6922BB,54
+"1018,Automotive,SafeStop Brake Pads,""Loved the SafeStop Brake Pads: features exceed expectations, battery lasts long."",4,28/03/2023,5125,Bram,2077 AC,86"
+1014,Sports,AllTerrain Backpack,The AllTerrain Backpack is works as expected and delivery was normal.,3,2022-08-24,5126,J. Jansen,3114BA,60
+1011,Sports,HydraSteel Bottle,Disappointed with HydraSteel Bottle: poor quality and battery drains quickly.,2,05/04/2024,5127,Tom,26406,26
+"1019,Automotive,AirPure Cabin Filter,""Loved the AirPure Cabin Filter: excellent build quality, fast delivery."",4,07/04/2025,5128,Noah,,88"
+"1015,Automotive,RoadGuard Dashcam,""Disappointed with RoadGuard Dashcam: poor quality and instructions unclear. utterly useless, worst item ever."",2,2023-05-29,5129,L. Bakker,,54"
+"1022,Beauty,CurlWave Hair Dryer,""Loved the CurlWave Hair Dryer: customer support was helpful, excellent build quality."",4,2022-06-10,5130,Tom de Vries,7070BB,60"
+1012,Sports,GripPro Yoga Mat,The GripPro Yoga Mat is setup took some time but fine and design is fine.,3,2025-11-14,5131,Jan,34881,36
+"1007,Home & Kitchen,GlideChef Knife Set,""Loved the GlideChef Knife Set: features exceed expectations, great value."",5,2025-09-10,5132,Tom,,22"
+"1011,Sports,HydraSteel Bottle,""Loved the HydraSteel Bottle: packaging was neat, battery lasts long."",5,2024-01-10,5133,Lotte Mulder,82512,88"
+1003,Electronics,EchoLite Speaker,The EchoLite Speaker is design is fine and setup took some time but fine.,3,2021-03-12,5134,J. Jansen,28909,59
+1016,Automotive,ClearView Wipers,The ClearView Wipers is design is fine and okay for the price.,3,14/10/2023,5135,Y. Bos,31299,81
+1000,Electronics,Aurora X1 Headphones,,4,13/08/2024,5136,Sem Mulder,92478,30
+1001,Electronics,VoltMax Power Bank,Disappointed with VoltMax Power Bank: return process was difficult and arrived late.,1,2024-11-13,5137,J. Bos,,83
+"1022,Beauty,CurlWave Hair Dryer,""Loved the CurlWave Hair Dryer: customer support was helpful, features exceed expectations."",5,2023-01-20,5138,E. Bos,3262 BB,76"
+"1011,Sports,HydraSteel Bottle,""Loved the HydraSteel Bottle: battery lasts long, packaging was neat."",4,07/02/2022,5139,Nora,83149,40"
+"1023,Beauty,BrightSmile Tooth Kit,""Loved the BrightSmile Tooth Kit: packaging was neat, features exceed expectations."",4,11/04/2025,5140,Sophie Jansen,,89"
+"1022,Beauty,CurlWave Hair Dryer,""Loved the CurlWave Hair Dryer: battery lasts long, features exceed expectations."",5,2021-09-17,5141,Sem Bakker,,72"
+1021,Beauty,MattePrime Foundation,Disappointed with MattePrime Foundation: overpriced for what you get and arrived late.,2,2021-09-17,5142,Yara,,45
+1015,Automotive,RoadGuard Dashcam,The RoadGuard Dashcam is design is fine and works as expected.,3,2021-12-03,5143,E. Jansen,2465 BC,52
+"1015,Automotive,RoadGuard Dashcam,""Loved the RoadGuard Dashcam: customer support was helpful, great value."",5,15/07/2024,5144,N. van Dijk,5888 BB,53"
+"1006,Home & Kitchen,EcoWash Dishwasher Tabs,""Loved the EcoWash Dishwasher Tabs: battery lasts long, features exceed expectations."",5,2022-01-09,5145,P. Meijer,1230BC,74"
+"1021,Beauty,MattePrime Foundation,""Loved the MattePrime Foundation: features exceed expectations, packaging was neat."",5,2022-10-16,5146,Sem Jansen,1111AC,33"
+"1011,Sports,HydraSteel Bottle,""Loved the HydraSteel Bottle: battery lasts long, customer support was helpful."",4,2022-08-06,5147,M. Bakker,30934,"
+"1014,Sports,AllTerrain Backpack,""Loved the AllTerrain Backpack: excellent build quality, battery lasts long."",4,2024-11-20,5148,Sem de Vries,5054BC,86"
+1017,Automotive,TurboCharge Adapter,Disappointed with TurboCharge Adapter: return process was difficult and instructions unclear.,2,14/06/2021,5149,Luuk,78202,84
+1014,Sports,AllTerrain Backpack,Disappointed with AllTerrain Backpack: arrived late and instructions unclear.,1,2021-05-08,5150,Jane Jansen,12853,
+1017,Automotive,TurboCharge Adapter,,5,2025-04-02,5151,S. Smit,,24
+"1012,Sports,GripPro Yoga Mat,""Loved the GripPro Yoga Mat: packaging was neat, battery lasts long."",4,11/03/2022,5152,Jan,6697AA,"
+1013,Sports,SwiftFit Tracker,Disappointed with SwiftFit Tracker: poor quality and arrived late.,2,17/04/2023,5153,Jan Bakker,30332,45
+"1003,Electronics,EchoLite Speaker,""Loved the EchoLite Speaker: easy setup, packaging was neat."",5,2021-04-04,5154,Sophie,7590 BA,22"
+1010,Sports,RunFly Shoes,Disappointed with RunFly Shoes: battery drains quickly and arrived late.,1,04/04/2024,5155,E. Meijer,9540AB,57
+"1011,Sports,HydraSteel Bottle,""Loved the HydraSteel Bottle: packaging was neat, excellent build quality."",4,2023-08-06,5156,M. Visser,,56"
+"1014,Sports,AllTerrain Backpack,""Loved the AllTerrain Backpack: customer support was helpful, features exceed expectations."",5,19/06/2023,5157,B. de Boer,7363AB,69"
+"1008,Home & Kitchen,ComfyCloud Pillow,""Loved the ComfyCloud Pillow: customer support was helpful, great value."",4,2021-01-10,5158,Noah,4555BA,21"
+"1007,Home & Kitchen,GlideChef Knife Set,""Loved the GlideChef Knife Set: customer support was helpful, great value."",5,26/10/2023,5159,Luuk,59894,46"
+"1024,Beauty,CalmSkin Moisturizer,""Loved the CalmSkin Moisturizer: battery lasts long, features exceed expectations."",4,10/03/2024,5160,Sophie van Dijk,4625 BC,63"
+"1007,Home & Kitchen,GlideChef Knife Set,""Loved the GlideChef Knife Set: features exceed expectations, customer support was helpful."",4,2023-09-10,5161,Jane Jansen,43728,47"
+1004,Electronics,PixelPro Camera,Disappointed with PixelPro Camera: poor quality and damaged packaging.,2,2025-03-24,5162,Tom Bakker,9584 AA,85
+"1004,Electronics,PixelPro Camera,""Loved the PixelPro Camera: fast delivery, features exceed expectations."",5,2023-04-01,5163,K. Visser,,74"
+1016,Automotive,ClearView Wipers,The ClearView Wipers is design is fine and delivery was normal.,3,2022-12-05,5164,P. de Vries,9591 AB,38
+"1018,Automotive,SafeStop Brake Pads,""Loved the SafeStop Brake Pads: packaging was neat, battery lasts long."",4,2024-07-06,5165,E. de Vries,1519 AA,44"
+"1010,Sports,RunFly Shoes,""Disappointed with RunFly Shoes: overpriced for what you get and stopped working. utterly useless, worst item ever."",1,11/05/2021,5166,D. de Boer,4764 AB,28"
+"1010,Sports,RunFly Shoes,""Loved the RunFly Shoes: battery lasts long, excellent build quality."",5,13/02/2024,5167,Pieter,,34"
+"1004,Electronics,PixelPro Camera,""Loved the PixelPro Camera: excellent build quality, great value."",5,20/05/2024,5168,Pieter Smit,,60"
+1008,Home & Kitchen,ComfyCloud Pillow,The ComfyCloud Pillow is delivery was normal and design is fine.,3,03/06/2021,5169,S. Bakker,,61
+"1004,Electronics,PixelPro Camera,""Loved the PixelPro Camera: fast delivery, great value."",4,2025-03-18,5170,Tom de Vries,57277,35"
+1014,Sports,AllTerrain Backpack,Disappointed with AllTerrain Backpack: instructions unclear and damaged packaging.,1,2022-07-30,5171,Bram,6798 BB,68
+1018,Automotive,SafeStop Brake Pads,Disappointed with SafeStop Brake Pads: stopped working and arrived late.,2,2022-06-28,5172,Nora,49469,64
+1023,Beauty,BrightSmile Tooth Kit,Disappointed with BrightSmile Tooth Kit: instructions unclear and damaged packaging.,2,13/06/2025,5173,Luuk,5991AA,41
+"1020,Beauty,SilkGlow Serum,""Loved the SilkGlow Serum: features exceed expectations, battery lasts long."",5,2022-10-08,5174,Pieter Smit,7524AC,41"
+"1018,Automotive,SafeStop Brake Pads,""Loved the SafeStop Brake Pads: battery lasts long, packaging was neat."",5,14/07/2025,5175,Sara Bos,8563 BC,85"
+1009,Home & Kitchen,ThermaPan Skillet,,4,18/08/2023,5176,Yara,,35
+1013,Sports,SwiftFit Tracker,Disappointed with SwiftFit Tracker: instructions unclear and poor quality.,2,10/03/2021,5177,P. Smit,2791 AB,
+"1000,Electronics,Aurora X1 Headphones,""Loved the Aurora X1 Headphones: great value, features exceed expectations."",5,2023-08-25,5178,Sara de Vries,8303AC,81"
+"1023,Beauty,BrightSmile Tooth Kit,""Loved the BrightSmile Tooth Kit: excellent build quality, easy setup."",5,2023-06-24,5179,S. Jansen,9537BA,59"
+"1010,Sports,RunFly Shoes,""Loved the RunFly Shoes: customer support was helpful, battery lasts long."",5,2023-07-14,5180,Pieter van Dijk,9454AB,37"
+1021,Beauty,MattePrime Foundation,The MattePrime Foundation is delivery was normal and average performance.,3,27/02/2025,5181,Bram Mulder,,41
+"1017,Automotive,TurboCharge Adapter,""Loved the TurboCharge Adapter: customer support was helpful, battery lasts long."",5,21/02/2023,5182,Jane Jansen,97910,41"
+"1014,Sports,AllTerrain Backpack,""Loved the AllTerrain Backpack: battery lasts long, fast delivery."",5,2024-10-30,5183,Pieter,3194 AC,54"
+"1013,Sports,SwiftFit Tracker,""Loved the SwiftFit Tracker: great value, features exceed expectations."",5,2024-05-31,5184,Jane Jansen,3733BA,84"
+"1015,Automotive,RoadGuard Dashcam,""Loved the RoadGuard Dashcam: features exceed expectations, easy setup."",5,2023-06-07,5185,Bram Mulder,,65"
+"1024,Beauty,CalmSkin Moisturizer,""Loved the CalmSkin Moisturizer: features exceed expectations, battery lasts long."",5,2024-02-25,5186,Yara,32047,51"
+1024,Beauty,CalmSkin Moisturizer,The CalmSkin Moisturizer is okay for the price and works as expected.,3,07/08/2021,5187,Mila,5877AA,70
+1011,Sports,HydraSteel Bottle,The HydraSteel Bottle is okay for the price and design is fine.,3,03/10/2022,5188,Sophie,1972BB,33
+"1016,Automotive,ClearView Wipers,""Loved the ClearView Wipers: great value, excellent build quality."",5,30/09/2022,5189,Pieter Bos,95969,68"
+"1020,Beauty,SilkGlow Serum,""Loved the SilkGlow Serum: customer support was helpful, easy setup."",4,11/10/2022,5190,Bram,7600 BB,64"
+1002,Electronics,Nimbus Smartwatch,Disappointed with Nimbus Smartwatch: battery drains quickly and stopped working.,2,03/09/2021,5191,Nora,,70
+"1001,Electronics,VoltMax Power Bank,""Loved the VoltMax Power Bank: great value, easy setup."",5,2023-05-05,5192,Tom Visser,,74"
+"1008,Home & Kitchen,ComfyCloud Pillow,""Loved the ComfyCloud Pillow: great value, fast delivery."",5,27/08/2022,5193,Mila,,48"
+1000,Electronics,Aurora X1 Headphones,,5,2025-07-10,5194,S. van Dijk,,32
+"1002,Electronics,Nimbus Smartwatch,""Loved the Nimbus Smartwatch: great value, customer support was helpful."",5,2021-09-28,5195,S. Jansen,27973,"
+"1011,Sports,HydraSteel Bottle,""Loved the HydraSteel Bottle: excellent build quality, fast delivery."",5,19/08/2021,5196,P. Smit,,35"
+"1004,Electronics,PixelPro Camera,""Loved the PixelPro Camera: battery lasts long, excellent build quality."",4,2023-10-19,5197,Pieter,13515,26"
+1007,Home & Kitchen,GlideChef Knife Set,Disappointed with GlideChef Knife Set: instructions unclear and poor quality.,2,24/08/2025,5198,Jane Jansen,9655 AA,46
+1021,Beauty,MattePrime Foundation,,5,01/03/2021,5199,Pieter de Boer,,25
+1022,Beauty,CurlWave Hair Dryer,Disappointed with CurlWave Hair Dryer: battery drains quickly and arrived late.,2,23/10/2023,5200,Tom,9791 BB,70
+"1024,Beauty,CalmSkin Moisturizer,""Loved the CalmSkin Moisturizer: packaging was neat, fast delivery."",5,2024-05-09,5201,Eva de Vries,1948AB,71"
+"1004,Electronics,PixelPro Camera,""Loved the PixelPro Camera: battery lasts long, customer support was helpful."",5,07/04/2025,5202,J. Jansen,31884,60"
+1008,Home & Kitchen,ComfyCloud Pillow,Disappointed with ComfyCloud Pillow: arrived late and return process was difficult.,2,2021-11-16,5203,Daan,9128 BA,
+"1003,Electronics,EchoLite Speaker,""Loved the EchoLite Speaker: easy setup, fast delivery."",5,02/02/2023,5204,Eva,,16"
+1023,Beauty,BrightSmile Tooth Kit,The BrightSmile Tooth Kit is design is fine and okay for the price.,3,18/09/2024,5205,Eva,45554,47
+"1012,Sports,GripPro Yoga Mat,""Loved the GripPro Yoga Mat: features exceed expectations, fast delivery."",5,30/07/2022,5206,Sophie Mulder,52899,52"
+1011,Sports,HydraSteel Bottle,Disappointed with HydraSteel Bottle: arrived late and poor quality.,2,04/07/2024,5207,Jan Smit,3466AA,41
+"1021,Beauty,MattePrime Foundation,""Loved the MattePrime Foundation: great value, customer support was helpful."",4,09/03/2021,5208,K. Meijer,7878BA,55"
+1023,Beauty,BrightSmile Tooth Kit,,5,19/05/2023,5209,Tom Bakker,,80
+1010,Sports,RunFly Shoes,,3,25/04/2025,5210,Lisa van Dijk,40619,57
+1014,Sports,AllTerrain Backpack,The AllTerrain Backpack is works as expected and delivery was normal.,3,2024-10-15,5211,Lotte Jansen,8404AC,31
+"1010,Sports,RunFly Shoes,""Loved the RunFly Shoes: battery lasts long, great value."",5,2021-12-01,5212,Pieter,61936,"
+1003,Electronics,EchoLite Speaker,The EchoLite Speaker is average performance and delivery was normal.,3,2023-03-10,5213,Bram,1195 AA,
+"1002,Electronics,Nimbus Smartwatch,""Loved the Nimbus Smartwatch: excellent build quality, packaging was neat."",5,2022-10-20,5214,Luuk Jansen,,41"
+1018,Automotive,SafeStop Brake Pads,The SafeStop Brake Pads is average performance and okay for the price.,3,2021-12-28,5215,Luuk van Dijk,,66
+1019,Automotive,AirPure Cabin Filter,,4,2021-09-17,5216,Kees,,79
+"1000,Electronics,Aurora X1 Headphones,""Loved the Aurora X1 Headphones: customer support was helpful, easy setup."",4,2021-02-01,5217,Mila,,61"
+1001,Electronics,VoltMax Power Bank,The VoltMax Power Bank is okay for the price and design is fine.,3,2025-01-27,5218,Mila,2640AB,90
+1011,Sports,HydraSteel Bottle,,5,15/02/2024,5219,Sem,87537,56
+1015,Automotive,RoadGuard Dashcam,,2,19/01/2021,5220,J. Smit,,78
+"1004,Electronics,PixelPro Camera,""Loved the PixelPro Camera: great value, packaging was neat."",4,22/11/2023,5221,Bram,,57"
+"1018,Automotive,SafeStop Brake Pads,""Loved the SafeStop Brake Pads: customer support was helpful, excellent build quality."",5,03/02/2024,5222,Lotte Smit,8157BC,57"
+1018,Automotive,SafeStop Brake Pads,,5,23/06/2025,5223,Mila Mulder,7415 BB,53
+"1015,Automotive,RoadGuard Dashcam,""Loved the RoadGuard Dashcam: excellent build quality, packaging was neat."",5,10/07/2024,5224,J. Jansen,32005,25"
+"1000,Electronics,Aurora X1 Headphones,""Loved the Aurora X1 Headphones: packaging was neat, excellent build quality."",4,15/09/2023,5225,Jane Jansen,1020 AA,24"
+1012,Sports,GripPro Yoga Mat,,5,2022-08-05,5226,Daan de Vries,3664BA,89
+"1005,Home & Kitchen,PureBrew Coffee Maker,""Loved the PureBrew Coffee Maker: features exceed expectations, customer support was helpful. absolutely perfect, best purchase this decade."",4,2024-08-09,5227,Sara van Dijk,6536 BB,25"
+"1010,Sports,RunFly Shoes,""Loved the RunFly Shoes: easy setup, fast delivery. absolutely perfect, best purchase this decade."",5,23/02/2024,5228,Nora van Dijk,96585,68"
+1000,Electronics,Aurora X1 Headphones,The Aurora X1 Headphones is works as expected and average performance.,3,30/07/2022,5229,N. de Vries,,
+"1015,Automotive,RoadGuard Dashcam,""Loved the RoadGuard Dashcam: features exceed expectations, fast delivery."",4,2023-07-20,5230,Daan Mulder,7078BA,"
+"1024,Beauty,CalmSkin Moisturizer,""Loved the CalmSkin Moisturizer: easy setup, battery lasts long."",5,10/02/2023,5231,Sara,,"
+"1018,Automotive,SafeStop Brake Pads,""Loved the SafeStop Brake Pads: great value, fast delivery."",4,2023-06-17,5232,E. Bakker,9226 BB,26"
+"1013,Sports,SwiftFit Tracker,""Loved the SwiftFit Tracker: excellent build quality, fast delivery."",5,03/03/2023,5233,Daan,5225AC,71"
+1022,Beauty,CurlWave Hair Dryer,Disappointed with CurlWave Hair Dryer: poor quality and damaged packaging.,2,11/12/2023,5234,S. Visser,2641AA,30
+"1019,Automotive,AirPure Cabin Filter,""The AirPure Cabin Filter is okay for the price and average performance. utterly useless, worst item ever."",3,10/08/2023,5235,Jane Jansen,7581AA,"
+"1010,Sports,RunFly Shoes,""Loved the RunFly Shoes: features exceed expectations, packaging was neat."",4,14/06/2022,5236,Lotte de Vries,4734 AB,78"
+1006,Home & Kitchen,EcoWash Dishwasher Tabs,,3,2023-03-16,5237,Kees Mulder,9442 AB,82
+1006,Home & Kitchen,EcoWash Dishwasher Tabs,,5,2022-01-21,5238,Luuk,,47
+"1021,Beauty,MattePrime Foundation,""Loved the MattePrime Foundation: customer support was helpful, excellent build quality."",5,23/05/2022,5239,Bram Visser,8775BB,78"
+"1001,Electronics,VoltMax Power Bank,""Loved the VoltMax Power Bank: fast delivery, packaging was neat."",5,30/03/2025,5240,Nora,4387AC,43"
+"1000,Electronics,Aurora X1 Headphones,""Loved the Aurora X1 Headphones: customer support was helpful, easy setup."",5,2023-07-23,5241,K. Mulder,65549,55"
+"1016,Automotive,ClearView Wipers,""Loved the ClearView Wipers: battery lasts long, customer support was helpful."",4,2022-06-30,5242,Sophie Bakker,8892 AA,52"
+"1024,Beauty,CalmSkin Moisturizer,""Loved the CalmSkin Moisturizer: battery lasts long, great value."",4,2023-03-18,5243,Anna,1417BC,67"
+"1006,Home & Kitchen,EcoWash Dishwasher Tabs,""Loved the EcoWash Dishwasher Tabs: customer support was helpful, battery lasts long."",4,23/11/2021,5244,Yara van Dijk,,44"
+"1015,Automotive,RoadGuard Dashcam,""Loved the RoadGuard Dashcam: customer support was helpful, excellent build quality."",5,2022-08-30,5245,J. Jansen,6499BC,87"
+1008,Home & Kitchen,ComfyCloud Pillow,Disappointed with ComfyCloud Pillow: damaged packaging and battery drains quickly.,1,30/03/2021,5246,T. van Dijk,8736 AB,31
+1018,Automotive,SafeStop Brake Pads,The SafeStop Brake Pads is average performance and okay for the price.,3,2020-12-19,5247,N. van Dijk,,39
+"1024,Beauty,CalmSkin Moisturizer,""Loved the CalmSkin Moisturizer: features exceed expectations, easy setup. absolutely perfect, best purchase this decade."",5,2023-12-08,5248,Jane Jansen,,71"
+1010,Sports,RunFly Shoes,Disappointed with RunFly Shoes: battery drains quickly and poor quality.,2,06/10/2023,5249,E. de Vries,4707BC,16
+1009,Home & Kitchen,ThermaPan Skillet,The ThermaPan Skillet is average performance and delivery was normal.,3,2025-06-29,5250,M. Bakker,6615BA,83
+"1023,Beauty,BrightSmile Tooth Kit,""Loved the BrightSmile Tooth Kit: fast delivery, battery lasts long."",5,2024-08-26,5251,J. Jansen,7147 BC,37"
+"1012,Sports,GripPro Yoga Mat,""Loved the GripPro Yoga Mat: excellent build quality, customer support was helpful."",5,07/06/2024,5252,T. Meijer,1152AC,76"
+"1023,Beauty,BrightSmile Tooth Kit,""Loved the BrightSmile Tooth Kit: customer support was helpful, features exceed expectations."",5,2021-11-03,5253,N. Bakker,5308BB,29"
+"1007,Home & Kitchen,GlideChef Knife Set,""Loved the GlideChef Knife Set: features exceed expectations, excellent build quality."",5,24/04/2025,5254,L. Visser,,"
+"1009,Home & Kitchen,ThermaPan Skillet,""Loved the ThermaPan Skillet: customer support was helpful, easy setup."",4,22/06/2021,5255,Anna,5760 AC,28"
+"1005,Home & Kitchen,PureBrew Coffee Maker,""Loved the PureBrew Coffee Maker: customer support was helpful, excellent build quality."",4,09/03/2023,5256,D. Meijer,22183,72"
+"1013,Sports,SwiftFit Tracker,""Loved the SwiftFit Tracker: features exceed expectations, packaging was neat."",5,2023-05-26,5257,Pieter,3611 AA,"
+"1023,Beauty,BrightSmile Tooth Kit,""Loved the BrightSmile Tooth Kit: excellent build quality, great value."",5,04/01/2021,5258,K. Mulder,,78"
+"1021,Beauty,MattePrime Foundation,""Loved the MattePrime Foundation: packaging was neat, excellent build quality."",4,27/01/2024,5259,Lotte Jansen,8895AC,28"
+1005,Home & Kitchen,PureBrew Coffee Maker,Disappointed with PureBrew Coffee Maker: battery drains quickly and arrived late.,2,11/01/2024,5260,Pieter Bakker,9055 AC,79
+1014,Sports,AllTerrain Backpack,Disappointed with AllTerrain Backpack: poor quality and return process was difficult.,1,25/01/2024,5261,Bram,9148 BC,79
+1016,Automotive,ClearView Wipers,Disappointed with ClearView Wipers: overpriced for what you get and stopped working.,1,01/06/2024,5262,Jane Jansen,17113,74
+"1003,Electronics,EchoLite Speaker,""Loved the EchoLite Speaker: battery lasts long, features exceed expectations."",5,2024-11-16,5263,Eva Bos,,44"
+1022,Beauty,CurlWave Hair Dryer,The CurlWave Hair Dryer is average performance and okay for the price.,3,2023-04-07,5264,S. de Vries,2978BA,
+1021,Beauty,MattePrime Foundation,Disappointed with MattePrime Foundation: damaged packaging and overpriced for what you get.,2,17/10/2023,5265,Eva Mulder,,79
+"1004,Electronics,PixelPro Camera,""Loved the PixelPro Camera: easy setup, great value."",5,12/11/2022,5266,Luuk van Dijk,,57"
+1019,Automotive,AirPure Cabin Filter,Disappointed with AirPure Cabin Filter: battery drains quickly and instructions unclear.,2,2024-09-17,5267,Eva,4291AB,86
+"1022,Beauty,CurlWave Hair Dryer,""Loved the CurlWave Hair Dryer: battery lasts long, packaging was neat."",5,05/01/2021,5268,Jan Meijer,,87"
+"1021,Beauty,MattePrime Foundation,""Loved the MattePrime Foundation: battery lasts long, excellent build quality."",5,2021-02-14,5269,Luuk,29192,36"
+1017,Automotive,TurboCharge Adapter,,5,12/04/2023,5270,J. Jansen,97096,87
+"1001,Electronics,VoltMax Power Bank,""Loved the VoltMax Power Bank: customer support was helpful, packaging was neat."",5,30/01/2025,5271,Noah,,41"
+"1002,Electronics,Nimbus Smartwatch,""Loved the Nimbus Smartwatch: great value, excellent build quality."",5,2022-05-16,5272,Luuk van Dijk,8020 AC,81"
+"1010,Sports,RunFly Shoes,""Loved the RunFly Shoes: customer support was helpful, battery lasts long."",5,21/12/2021,5273,Kees,19552,54"
+"1002,Electronics,Nimbus Smartwatch,""Loved the Nimbus Smartwatch: features exceed expectations, battery lasts long."",4,2024-07-31,5274,Jane Jansen,57290,43"
+"1007,Home & Kitchen,GlideChef Knife Set,""Loved the GlideChef Knife Set: battery lasts long, fast delivery."",4,20/07/2025,5275,K. de Boer,7322 AC,57"
+1020,Beauty,SilkGlow Serum,,5,12/09/2024,5276,N. Meijer,9814BB,26
+1022,Beauty,CurlWave Hair Dryer,The CurlWave Hair Dryer is works as expected and delivery was normal.,3,09/12/2021,5277,Y. de Vries,1389BA,25
+1008,Home & Kitchen,ComfyCloud Pillow,The ComfyCloud Pillow is works as expected and design is fine.,3,14/02/2025,5278,B. Smit,7381 BC,67
+"1021,Beauty,MattePrime Foundation,""Loved the MattePrime Foundation: fast delivery, easy setup."",4,2022-03-05,5279,Pieter de Boer,,52"
+1020,Beauty,SilkGlow Serum,,5,25/02/2023,5280,Bram Visser,3316 AA,63
+"1023,Beauty,BrightSmile Tooth Kit,""Loved the BrightSmile Tooth Kit: easy setup, fast delivery."",4,04/06/2025,5281,Anna,4617BB,81"
+"1009,Home & Kitchen,ThermaPan Skillet,""Loved the ThermaPan Skillet: customer support was helpful, excellent build quality."",5,2022-04-04,5282,L. de Vries,,41"
+"1014,Sports,AllTerrain Backpack,""Loved the AllTerrain Backpack: great value, fast delivery."",4,2025-05-07,5283,S. Visser,6971AC,55"
+"1023,Beauty,BrightSmile Tooth Kit,""Loved the BrightSmile Tooth Kit: great value, customer support was helpful."",4,2025-08-29,5284,Tom de Boer,73828,75"
+"1023,Beauty,BrightSmile Tooth Kit,""Loved the BrightSmile Tooth Kit: fast delivery, battery lasts long."",5,2023-12-20,5285,Tom,7637 BB,18"
+"1018,Automotive,SafeStop Brake Pads,""Loved the SafeStop Brake Pads: fast delivery, customer support was helpful."",4,18/06/2025,5286,Eva de Boer,,80"
+1005,Home & Kitchen,PureBrew Coffee Maker,,5,2022-03-29,5287,Jane Jansen,8921AC,88
+"1001,Electronics,VoltMax Power Bank,""Loved the VoltMax Power Bank: fast delivery, customer support was helpful."",5,20/11/2024,5288,Daan,,62"
+"1012,Sports,GripPro Yoga Mat,""Loved the GripPro Yoga Mat: easy setup, battery lasts long."",4,10/07/2025,5289,N. Bos,,25"
+1004,Electronics,PixelPro Camera,The PixelPro Camera is average performance and okay for the price.,3,2025-07-10,5290,Mila,37723,25
+"1015,Automotive,RoadGuard Dashcam,""The RoadGuard Dashcam utterly useless, worst item ever."",3,27/02/2024,5291,Tom de Boer,,36"
+"1018,Automotive,SafeStop Brake Pads,""Loved the SafeStop Brake Pads: fast delivery, customer support was helpful."",5,2025-07-19,5292,Bram,9464BA,"
+"1015,Automotive,RoadGuard Dashcam,""Loved the RoadGuard Dashcam: customer support was helpful, easy setup."",5,2021-04-29,5293,Pieter van Dijk,9369AC,68"
+1006,Home & Kitchen,EcoWash Dishwasher Tabs,Disappointed with EcoWash Dishwasher Tabs: arrived late and damaged packaging.,2,2025-02-27,5294,Nora,2577AB,80
+1000,Electronics,Aurora X1 Headphones,The Aurora X1 Headphones is setup took some time but fine and delivery was normal.,3,14/06/2025,5295,S. de Vries,,63
+"1024,Beauty,CalmSkin Moisturizer,""Loved the CalmSkin Moisturizer: fast delivery, customer support was helpful."",5,24/12/2020,5296,Lisa de Boer,,26"
+"1020,Beauty,SilkGlow Serum,""Loved the SilkGlow Serum: battery lasts long, great value."",5,26/04/2023,5297,L. Visser,3535 BA,56"
+1006,Home & Kitchen,EcoWash Dishwasher Tabs,The EcoWash Dishwasher Tabs is okay for the price and delivery was normal.,3,13/04/2025,5298,T. de Vries,83281,87
+"1022,Beauty,CurlWave Hair Dryer,""Loved the CurlWave Hair Dryer: fast delivery, excellent build quality."",5,2024-07-04,5299,Bram,82165,"
+"1017,Automotive,TurboCharge Adapter,""Loved the TurboCharge Adapter: packaging was neat, fast delivery."",4,06/02/2022,5045,P. Mulder,,77"
+1009,Home & Kitchen,ThermaPan Skillet,Disappointed with ThermaPan Skillet: return process was difficult and arrived late.,2,2024-08-22,5032,J. Jansen,5573 AC,81
+1003,Electronics,EchoLite Speaker,The EchoLite Speaker is design is fine and setup took some time but fine.,3,2021-03-12,5134,J. Jansen,28909,59
+"1002,Electronics,Nimbus Smartwatch,""Loved the Nimbus Smartwatch: battery lasts long, excellent build quality."",5,2021-03-17,5113,Lotte Bos,,35"
+"1016,Automotive,ClearView Wipers,""Loved the ClearView Wipers: great value, excellent build quality."",5,30/09/2022,5189,Pieter Bos,95969,68"
+"1020,Beauty,SilkGlow Serum,""Loved the SilkGlow Serum: easy setup, customer support was helpful."",5,2024-11-05,5040,Pieter Bakker,2746 BA,44"
+1000,Electronics,Aurora X1 Headphones,Disappointed with Aurora X1 Headphones: return process was difficult and poor quality.,1,2023-03-22,5019,N. Meijer,7396 AC,74
+"1011,Sports,HydraSteel Bottle,""Loved the HydraSteel Bottle: excellent build quality, fast delivery."",5,19/08/2021,5196,P. Smit,,35"
+1023,Beauty,BrightSmile Tooth Kit,The BrightSmile Tooth Kit is design is fine and okay for the price.,3,18/09/2024,5205,Eva,45554,47
+"1004,Electronics,PixelPro Camera,""Loved the PixelPro Camera: easy setup, great value."",5,12/11/2022,5266,Luuk van Dijk,,57"
+"1021,Beauty,MattePrime Foundation,""Loved the MattePrime Foundation: features exceed expectations, packaging was neat!"",5,16/02/2021,5146,Sem Jansen,1111AC,33"
+"1020,Beauty,SilkGlow Serum,""Loved the SilkGlow Serum: easy setup, customer support was helpful!"",5,21/10/2023,5040,Pieter Bakker,2746 BA,44"
+"1004,Electronics,PixelPro Camera,""Loved the PixelPro Camera: great value, fast delivery!"",4,29/03/2022,5029,Anna Smit,2684AC,87"
+"1002,Electronics,Nimbus Smartwatch,""Loved the Nimbus Smartwatch: battery lasts long, easy setup!"",4,2024-09-20,5089,L. de Boer,59925,24"
+"1023,Beauty,BrightSmile Tooth Kit,""Loved the BrightSmile Tooth Kit: customer support was helpful, features exceed expectations!"",5,13/04/2022,5253,N. Bakker,5308BB,29"
+"1015,Automotive,RoadGuard Dashcam,""Loved the RoadGuard Dashcam: excellent build quality, packaging was neat!"",5,2021-10-28,5224,J. Jansen,32005,25"
+1014,Sports,AllTerrain Backpack,The AllTerrain Backpack is average performance and okay for the price!,3,28/06/2022,5005,D. de Vries,3677BA,64
+1018,Automotive,SafeStop Brake Pads,Disappointed with SafeStop Brake Pads: stopped working and arrived late!,1,03/12/2022,5103,J. Jansen,6267BB,21
+1021,Beauty,MattePrime Foundation,Disappointed with MattePrime Foundation: damaged packaging and overpriced for what you get!,2,20/03/2023,5265,Eva Mulder,,79
+1019,Automotive,AirPure Cabin Filter,The AirPure Cabin Filter is average performance and setup took some time but fine!,3,2023-11-05,5099,Sophie Smit,,62
