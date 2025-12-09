@@ -1,0 +1,501 @@
+product_id;product_category;product_name;review_description;number_stars;review_date;customer_id;customer_name;zip_code;customer_age
+PROD0095;Electronics;Wireless Headphones;Nice design and easy to use.;4.0;30-9-2021;CUST0115;;8011AB;40.0
+PROD0076;Clothing;Basic T-Shirt;This has quickly become one of my favorite items.;5.0;11-5-2019;CUST0016;Liam Visser;7500AB;39.0
+PROD0072;Clothing;Basic T-Shirt;Good for occasional use but not daily.;3.0;15-9-2023;;Daan Kok;7500AA;37.0
+PROD0090;Electronics;Smartphone Case;Packaging was okay and delivery was on time.;3.0;25-10-2022;CUST0143;Noah Visser;7500AA;20.0
+PROD0012;Garden;Garden Hose;Feels very cheap and poorly made.;1.0;1-2-2020;CUST0184;Lucas Kok;8011AB;41.0
+PROD0069;Electronics;Smartwatch;Absolutely love this, highly recommended!;5.0;31-3-2023;CUST0041;Finn Smit;7500AA;38.0
+PROD0074;Clothing;Running Shoes;Works well and feels well built.;4.0;12-10-2019;CUST0024;Olivia Smit;7500AB;61.0
+PROD0049;Home;LED Desk Lamp;Complete waste of money.;1.0;;CUST0187;Noah Meijer;7500AB;44.0
+;Garden;Garden Hose;Not terrible, but I would not buy it again.;2.0;29-9-2021;CUST0084;Daan Mulder;7500AA;45.0
+PROD0088;Clothing;Winter Jacket;Setup was a bit confusing but manageable.;3.0;18-8-2019;CUST0118;Emma Meijer;7500AA;43.0
+PROD0117;Electronics;Smartphone Case;I might buy it again if there is a discount.;3.0;12-7-2022;CUST0109;Daan Mulder;7500AB;20.0
+PROD0034;Books;Cookbook;;5.0;7-10-2021;CUST0288;Finn Smit;7500AC;26.0
+PROD0052;Books;Business Strategy Book;Customer service was slow to respond to my issue.;2.0;17-6-2021;CUST0071;Finn Bos;8011AB;41.0
+PROD0020;;Wireless Headphones;Solid product, would recommend to friends.;4.0;26-9-2023;CUST0033;Sophie Mulder;7500AB;39.0
+PROD0033;;Business Strategy Book;Some parts already show signs of wear.;;17-2-2019;CUST0059;Finn Smit;7500AC;64.0
+PROD0038;Garden;Garden Hose;This has quickly become one of my favorite items.;5.0;9-10-2020;CUST0233;Emma Smit;;25.0
+PROD0117;Home;Non-stick Frying Pan;Very disappointed, not as described at all.;1.0;7-5-2022;CUST0260;Sara Visser;;33.0
+PROD0100;Home;Non-stick Frying Pan;Not amazing, not awful, just okay.;3.0;3-1-2019;;Daan Jansen;7500AC;43.0
+PROD0031;Garden;Solar Garden Lights;Good quality and does what it promises.;4.0;13-9-2021;CUST0291;Liam de Vries;7500AB;46.0
+PROD0099;Electronics;;Fantastic quality and super easy to use.;5.0;9-6-2020;CUST0244;Finn Bakker;7500AC;31.0
+PROD0028;Clothing;Jeans;Customer support was helpful with my question.;4.0;3-4-2021;CUST0160;Sophie Meijer;8011AB;44.0
+PROD0016;Clothing;Jeans;I use this almost every day and it is perfect.;5.0;9-7-2021;CUST0033;Lucas Jansen;7500AA;36.0
+PROD0029;Home;Non-stick Frying Pan;;4.0;18-10-2019;CUST0031;Olivia de Vries;8011AB;38.0
+PROD0066;Garden;Garden Hose;Works well and feels well built.;4.0;14-2-2022;CUST0249;Olivia Dekker;7500AA;34.0
+PROD0061;Clothing;Sports Socks;Works well and feels well built.;4.0;21-4-2024;CUST0209;Olivia de Vries;8011AB;41.0
+PROD0055;Books;Fantasy Novel;Better than I expected for this price range.;4.0;27-3-2024;CUST0028;;7500AA;44.0
+PROD0032;Garden;Garden Hose;Good for occasional use but not daily.;3.0;18-2-2021;CUST0275;Daan Bakker;7500AA;38.0
+PROD0032;Garden;Pruning Shears;Absolutely love this, highly recommended!;5.0;21-12-2023;CUST0282;Liam Jansen;7500AA;37.0
+PROD0012;Clothing;Basic T-Shirt;Would not recommend this to anyone.;1.0;12-11-2020;CUST0209;Daan Bos;7500AA;37.0
+PROD0022;Books;;This has quickly become one of my favorite items.;5.0;;CUST0200;Mila Bos;7500AC;34.0
+PROD0020;Clothing;Jeans;I use this almost every day and it is perfect.;5.0;30-4-2022;CUST0112;Emma Kok;7500AC;45.0
+;Electronics;;Excellent product, exceeded all my expectations.;5.0;6-5-2024;CUST0258;Finn Bakker;7500AB;31.0
+PROD0109;Clothing;Basic T-Shirt;Not terrible, but I would not buy it again.;;8-10-2019;CUST0035;Olivia Mulder;7500AB;43.0
+PROD0075;Clothing;Winter Jacket;I might buy it again if there is a discount.;3.0;12-6-2019;CUST0042;Sophie Kok;7500AC;37.0
+PROD0027;Garden;Solar Garden Lights;;3.0;4-9-2021;CUST0136;Sophie Bakker;7500AB;32.0
+PROD0041;Garden;Pruning Shears;Works, but has several annoying flaws.;2.0;8-2-2019;CUST0235;Sara Kok;7500AC;18.0
+PROD0028;Electronics;USB-C Charger;Everything about this product is outstanding.;;22-12-2021;CUST0068;;7500AA;31.0
+PROD0021;Garden;Solar Garden Lights;Comfortable to use and looks great.;4.0;24-5-2022;CUST0271;Emma Dekker;7500AB;
+;Electronics;Smartphone Case;Works, but has several annoying flaws.;2.0;14-3-2020;CUST0284;Noah Smit;7500AB;32.0
+PROD0027;Home;Air Purifier;Complete waste of money.;1.0;1-9-2024;CUST0251;Mila Jansen;7500AB;33.0
+PROD0006;Books;Fantasy Novel;Good quality and does what it promises.;4.0;28-9-2022;CUST0067;Mila Bakker;7500AC;54.0
+PROD0072;Clothing;Jeans;;3.0;3-4-2020;CUST0039;Noah Dekker;7500AB;40.0
+PROD0071;Garden;Grass Seed Mix;Works as expected but nothing more.;3.0;;;Emma Smit;8011AB;36.0
+PROD0027;Electronics;Bluetooth Speaker;Good for occasional use but not daily.;3.0;26-2-2020;CUST0182;Finn Mulder;7500AA;19.0
+PROD0111;Home;Throw Pillow;Solid product, would recommend to friends.;4.0;26-12-2020;CUST0212;Emma Bakker;7500AA;70.0
+PROD0103;Garden;Pruning Shears;I use this almost every day and it is perfect.;5.0;28-12-2021;CUST0082;Liam Mulder;8011AA;61.0
+PROD0026;Books;Cookbook;Comfortable to use and looks great.;4.0;3-12-2022;CUST0157;Olivia Visser;8011AA;45.0
+PROD0043;Home;Electric Kettle;Great value for money, I would buy it again.;5.0;12-10-2019;CUST0143;Lucas Dekker;8011AA;36.0
+PROD0004;Clothing;Running Shoes;Absolutely love this, highly recommended!;;5-12-2021;CUST0092;Sara Smit;7500AA;40.0
+PROD0045;Clothing;Jeans;Delivered quickly and carefully packaged.;4.0;23-11-2023;CUST0262;Liam Mulder;8011AA;58.0
+PROD0006;Home;;Packaging was okay and delivery was on time.;3.0;7-1-2019;CUST0267;Finn Visser;7500AA;40.0
+PROD0080;Electronics;Bluetooth Speaker;Delivered quickly and carefully packaged.;4.0;25-5-2020;CUST0154;Finn Smit;7500AA;32.0
+PROD0090;Garden;Pruning Shears;The design is fine but could be improved.;3.0;5-6-2020;CUST0099;Sophie Mulder;7500AA;40.0
+PROD0073;Home;Non-stick Frying Pan;The design is fine but could be improved.;3.0;22-7-2023;CUST0281;Emma Smit;7500AB;38.0
+PROD0078;Books;Business Strategy Book;Delivered quickly and carefully packaged.;4.0;19-3-2024;CUST0227;Daan Visser;7500AA;39.0
+PROD0037;Home;LED Desk Lamp;Everything about this product is outstanding.;5.0;4-10-2022;CUST0048;Olivia Smit;7500AA;31.0
+PROD0004;Home;Throw Pillow;Excellent product, exceeded all my expectations.;5.0;29-9-2021;CUST0244;Sara de Vries;7500AA;37.0
+PROD0092;Clothing;Winter Jacket;Feels very cheap and poorly made.;1.0;17-7-2024;CUST0205;Olivia Bakker;7500AB;31.0
+PROD0100;Electronics;Wireless Headphones;Better than I expected for this price range.;4.0;15-6-2021;;Finn Bos;7500AA;45.0
+PROD0059;Home;LED Desk Lamp;Fantastic quality and super easy to use.;5.0;18-3-2024;CUST0272;Finn Kok;7500AA;31.0
+PROD0105;Books;Business Strategy Book;Customer support was helpful with my question.;4.0;14-10-2023;CUST0281;;7500AB;23.0
+PROD0034;Books;Children's Storybook;Good for occasional use but not daily.;3.0;9-2-2022;CUST0267;Daan Visser;7500AC;40.0
+PROD0031;Electronics;Bluetooth Speaker;Nice design and easy to use.;4.0;7-10-2022;CUST0164;Finn de Vries;7500AA;35.0
+PROD0089;;Electric Kettle;Solid product, would recommend to friends.;4.0;26-5-2021;CUST0033;Sophie Mulder;7500AB;35.0
+PROD0008;Books;Children's Storybook;Works well and feels well built.;4.0;17-9-2023;CUST0200;Sara Jansen;8011AA;33.0
+;Clothing;Jeans;Excellent product, exceeded all my expectations.;5.0;11-12-2022;CUST0153;Sophie Mulder;7500AA;35.0
+PROD0115;Clothing;Sports Socks;I use this almost every day and it is perfect.;5.0;22-6-2024;CUST0113;Mila Mulder;8011AA;41.0
+PROD0086;Books;Fantasy Novel;This has quickly become one of my favorite items.;5.0;7-11-2020;CUST0240;Noah Kok;7500AA;32.0
+PROD0073;Books;Business Strategy Book;Excellent product, exceeded all my expectations.;5.0;10-12-2019;CUST0220;Noah Bos;7500AA;36.0
+PROD0042;Garden;Pruning Shears;Good for occasional use but not daily.;3.0;6-2-2024;CUST0168;Lucas Mulder;7500AC;45.0
+PROD0107;Books;Fantasy Novel;Very happy with this purchase so far.;4.0;10-4-2024;CUST0010;Finn Jansen;8011AA;28.0
+PROD0084;Garden;Plant Pot Set;Average quality, nothing special.;3.0;14-6-2019;CUST0016;Olivia Visser;7500AA;
+PROD0031;Clothing;Winter Jacket;Solid product, would recommend to friends.;4.0;23-4-2024;CUST0059;Sara Visser;7500AC;36.0
+PROD0022;Garden;Solar Garden Lights;If I could give more than five stars, I would.;5.0;14-4-2020;CUST0084;Mila de Vries;8011AA;38.0
+PROD0087;Garden;Grass Seed Mix;Better than I expected for this price range.;4.0;13-6-2023;CUST0102;Liam Kok;7500AA;30.0
+PROD0090;Home;LED Desk Lamp;Performance is inconsistent and a bit frustrating.;;10-5-2020;CUST0290;Emma Meijer;8011AA;34.0
+PROD0065;Garden;Garden Hose;Top-notch build quality and performance.;5.0;21-2-2019;CUST0216;Daan de Vries;7500AA;38.0
+PROD0091;Garden;Pruning Shears;Works as expected but nothing more.;3.0;19-11-2023;CUST0091;Finn Smit;7500AC;32.0
+PROD0060;Clothing;;This has quickly become one of my favorite items.;5.0;4-1-2022;CUST0166;Olivia de Vries;7500AB;30.0
+PROD0097;Books;Cookbook;Comfortable to use and looks great.;4.0;2-4-2023;CUST0173;Emma Bos;7500AA;25.0
+PROD0028;Home;Electric Kettle;Top-notch build quality and performance.;5.0;24-11-2021;CUST0175;Mila Kok;7500AC;52.0
+PROD0002;Garden;Grass Seed Mix;Customer support was helpful with my question.;4.0;21-2-2021;CUST0044;Olivia Mulder;8011AB;38.0
+;Home;;The size was completely wrong and unusable.;1.0;10-1-2024;CUST0009;Liam Smit;7500AA;31.0
+PROD0085;Home;Air Purifier;I would consider buying another one as a gift.;4.0;20-2-2023;CUST0243;Finn Dekker;7500AB;42.0
+PROD0046;Clothing;Running Shoes;There are both pros and cons to this product.;3.0;;CUST0157;Mila Visser;;30.0
+PROD0016;Home;Air Purifier;Customer support was helpful with my question.;4.0;28-1-2021;CUST0099;Olivia Bos;7500AA;37.0
+PROD0077;Clothing;Sports Socks;Nice design and easy to use.;4.0;16-2-2020;CUST0100;Mila Visser;8011AA;30.0
+PROD0091;Garden;Garden Hose;Not amazing, not awful, just okay.;3.0;2-6-2020;CUST0141;Emma Jansen;7500AB;40.0
+PROD0014;Home;Electric Kettle;Good quality and does what it promises.;4.0;10-3-2022;CUST0241;Daan Bos;;43.0
+PROD0111;Electronics;Bluetooth Speaker;Comfortable to use and looks great.;4.0;12-4-2020;CUST0034;Sophie Bos;8011AB;
+PROD0020;Electronics;Smartphone Case;If I could give more than five stars, I would.;5.0;29-5-2022;CUST0044;Olivia de Vries;7500AB;31.0
+PROD0077;Books;Business Strategy Book;I would consider buying another one as a gift.;4.0;13-7-2021;CUST0268;Sophie Bos;7500AB;64.0
+PROD0055;Garden;Grass Seed Mix;Nice design and easy to use.;4.0;4-9-2019;CUST0051;Olivia Visser;7500AA;42.0
+PROD0031;Electronics;Smartphone Case;Solid product, would recommend to friends.;4.0;4-11-2019;CUST0081;Emma Mulder;7500AB;45.0
+PROD0038;Clothing;Jeans;Good quality and does what it promises.;4.0;6-8-2021;CUST0148;Mila Bos;7500AA;41.0
+PROD0101;Home;Air Purifier;I would consider buying another one as a gift.;4.0;21-3-2021;CUST0218;Liam Dekker;7500AA;35.0
+PROD0106;Home;Air Purifier;Solid product, would recommend to friends.;4.0;20-10-2019;CUST0031;Noah Smit;7500AA;37.0
+PROD0057;Clothing;Running Shoes;Average quality, nothing special.;3.0;3-4-2024;CUST0156;Sophie Smit;7500AB;44.0
+PROD0011;Books;Children's Storybook;If I could give more than five stars, I would.;5.0;13-6-2019;CUST0222;Lucas Kok;8011AA;44.0
+PROD0087;Electronics;Smartphone Case;I might buy it again if there is a discount.;3.0;26-3-2019;CUST0138;Sara Jansen;7500AA;50.0
+PROD0067;;Electric Kettle;There are both pros and cons to this product.;3.0;13-2-2022;CUST0093;Sara Mulder;7500AA;38.0
+PROD0061;;Productivity Guide;Delivered quickly and carefully packaged.;4.0;31-7-2023;CUST0171;Lucas de Vries;8011AA;20.0
+;Garden;Pruning Shears;Comfortable to use and looks great.;4.0;26-3-2022;CUST0206;Finn Jansen;7500AA;45.0
+PROD0042;Garden;Solar Garden Lights;Absolutely love this, highly recommended!;5.0;14-7-2023;CUST0264;Emma Dekker;7500AB;44.0
+PROD0067;Electronics;Smartphone Case;Delivered quickly and carefully packaged.;4.0;3-8-2024;CUST0227;Emma Visser;8011AA;30.0
+PROD0057;Home;Air Purifier;Amazing product and very fast delivery.;5.0;12-5-2020;CUST0015;Sara Visser;7500AA;65.0
+PROD0002;;Grass Seed Mix;Customer support was helpful with my question.;4.0;30-7-2023;CUST0048;Olivia de Vries;7500AA;39.0
+PROD0064;Electronics;;Great value for money, I would buy it again.;5.0;15-9-2024;CUST0140;Sophie Bos;8011AA;30.0
+PROD0071;Home;;Not terrible, but I would not buy it again.;2.0;21-4-2023;CUST0098;Sara Dekker;7500AA;53.0
+PROD0036;Home;LED Desk Lamp;This has quickly become one of my favorite items.;5.0;24-10-2022;CUST0260;Mila Jansen;7500AB;45.0
+PROD0075;Garden;Grass Seed Mix;;4.0;31-8-2020;CUST0229;Finn Bos;7500AA;32.0
+PROD0049;Clothing;Sports Socks;There are both pros and cons to this product.;3.0;11-8-2022;CUST0097;Olivia Kok;7500AB;31.0
+PROD0041;Books;Productivity Guide;Comfortable to use and looks great.;4.0;11-4-2023;CUST0198;Noah Bos;7500AC;68.0
+PROD0076;Home;Non-stick Frying Pan;Delivered quickly and carefully packaged.;4.0;16-2-2020;CUST0226;Liam Dekker;7500AB;39.0
+PROD0053;Electronics;Smartphone Case;Solid product, would recommend to friends.;4.0;3-11-2019;CUST0241;Mila Meijer;7500AA;33.0
+;Books;Productivity Guide;Stopped working after a few days.;1.0;6-4-2023;CUST0163;Daan Dekker;7500AA;40.0
+PROD0081;Electronics;Smartphone Case;Performance is inconsistent and a bit frustrating.;;20-7-2021;CUST0047;Sophie de Vries;7500AB;70.0
+;Electronics;Smartwatch;The design is fine but could be improved.;3.0;29-4-2019;CUST0024;Lucas Jansen;8011AB;36.0
+PROD0019;Garden;Pruning Shears;The product is okay but feels flimsy.;2.0;15-8-2023;CUST0290;Noah Bakker;7500AA;33.0
+PROD0080;Clothing;Jeans;Works well and feels well built.;4.0;31-7-2024;CUST0299;Noah Visser;7500AC;37.0
+PROD0033;Garden;Pruning Shears;Excellent product, exceeded all my expectations.;5.0;20-3-2024;;Finn Bakker;;41.0
+PROD0039;Garden;Grass Seed Mix;This has quickly become one of my favorite items.;5.0;;CUST0234;Mila Visser;7500AA;36.0
+PROD0031;Books;;Better than I expected for this price range.;4.0;10-1-2023;CUST0295;;7500AA;34.0
+PROD0002;Books;Fantasy Novel;I might buy it again if there is a discount.;3.0;20-7-2019;CUST0255;Mila Visser;;44.0
+PROD0082;Garden;Plant Pot Set;I use this almost every day and it is perfect.;5.0;23-10-2021;CUST0071;Liam Jansen;7500AB;39.0
+PROD0075;Books;Productivity Guide;Top-notch build quality and performance.;5.0;22-6-2020;CUST0047;Mila Meijer;7500AB;49.0
+PROD0017;Home;Throw Pillow;Customer support was helpful with my question.;4.0;7-2-2023;CUST0272;Finn Smit;7500AC;57.0
+PROD0104;;Pruning Shears;Great value for money, I would buy it again.;5.0;19-10-2022;CUST0059;Daan de Vries;7500AB;42.0
+PROD0109;Home;Electric Kettle;Everything about this product is outstanding.;5.0;7-2-2023;CUST0047;Sophie Jansen;7500AB;35.0
+PROD0048;Electronics;Smartwatch;Great value for money, I would buy it again.;5.0;10-4-2023;CUST0191;Liam Visser;7500AA;39.0
+PROD0042;Clothing;;I would consider buying another one as a gift.;4.0;25-6-2021;CUST0033;Daan Smit;7500AC;38.0
+PROD0006;Electronics;Smartphone Case;Decent product, you get what you pay for.;3.0;31-5-2022;CUST0253;Liam de Vries;7500AA;44.0
+PROD0050;Clothing;Winter Jacket;The size was completely wrong and unusable.;1.0;28-2-2023;CUST0277;Sophie Kok;8011AA;69.0
+PROD0084;Home;Electric Kettle;Average quality, nothing special.;3.0;27-6-2024;CUST0209;Mila Jansen;7500AA;39.0
+PROD0057;Home;Electric Kettle;Works well and feels well built.;4.0;25-1-2023;CUST0051;Lucas Dekker;7500AB;50.0
+PROD0051;Garden;Garden Hose;Nice design and easy to use.;4.0;16-2-2021;CUST0063;Daan de Vries;7500AB;39.0
+PROD0007;Clothing;Basic T-Shirt;Delivered quickly and carefully packaged.;4.0;24-9-2021;CUST0065;Sara Visser;7500AB;31.0
+PROD0076;Clothing;Winter Jacket;Good for occasional use but not daily.;3.0;12-8-2021;CUST0169;Noah Kok;7500AA;32.0
+PROD0070;Home;;Nice design and easy to use.;4.0;15-12-2020;CUST0057;Emma Bakker;8011AA;34.0
+;Home;Non-stick Frying Pan;Excellent product, exceeded all my expectations.;5.0;14-12-2020;CUST0136;;7500AB;
+PROD0096;Clothing;;Very happy with this purchase so far.;4.0;4-5-2024;CUST0230;Lucas Dekker;7500AA;45.0
+PROD0029;Books;Business Strategy Book;I would consider buying another one as a gift.;4.0;27-6-2019;CUST0267;Mila Bos;;
+PROD0062;Electronics;Wireless Headphones;Better than I expected for this price range.;4.0;13-10-2023;CUST0056;Daan Bos;7500AB;30.0
+PROD0078;;Bluetooth Speaker;Fantastic quality and super easy to use.;5.0;27-9-2019;CUST0065;Mila Kok;8011AA;41.0
+PROD0049;Clothing;Running Shoes;;4.0;22-4-2022;CUST0233;Finn Kok;8011AB;39.0
+PROD0093;Electronics;USB-C Charger;;3.0;28-10-2023;CUST0232;Olivia Mulder;7500AA;41.0
+PROD0054;Books;Children's Storybook;Works, but has several annoying flaws.;2.0;4-7-2022;CUST0219;;7500AA;32.0
+PROD0009;Home;Electric Kettle;Very happy with this purchase so far.;4.0;16-12-2019;CUST0048;Sophie de Vries;7500AA;43.0
+PROD0072;Garden;Plant Pot Set;Decent product, you get what you pay for.;3.0;12-9-2022;CUST0063;Sophie Meijer;8011AA;
+PROD0037;Books;Productivity Guide;I might buy it again if there is a discount.;3.0;3-7-2022;CUST0181;Liam Kok;;36.0
+PROD0029;Home;Electric Kettle;Works, but has several annoying flaws.;2.0;5-12-2022;CUST0285;Lucas de Vries;7500AC;
+PROD0104;Clothing;Winter Jacket;This has quickly become one of my favorite items.;;18-4-2019;CUST0137;Emma Bakker;7500AA;38.0
+PROD0045;Garden;Solar Garden Lights;Excellent product, exceeded all my expectations.;5.0;13-1-2021;CUST0074;Sara Mulder;7500AA;39.0
+PROD0096;Electronics;Wireless Headphones;Customer support was helpful with my question.;4.0;31-5-2021;CUST0193;Sophie Bos;7500AB;32.0
+PROD0093;Garden;Solar Garden Lights;Top-notch build quality and performance.;;14-12-2019;CUST0027;Noah Bakker;7500AB;35.0
+PROD0035;;;There are both pros and cons to this product.;3.0;3-10-2023;CUST0249;Sara Bos;7500AB;36.0
+PROD0015;Home;Non-stick Frying Pan;Top-notch build quality and performance.;5.0;27-10-2023;CUST0057;Mila Kok;8011AA;30.0
+PROD0029;Garden;Garden Hose;This has quickly become one of my favorite items.;;13-8-2019;CUST0004;Olivia Smit;7500AC;52.0
+PROD0038;Home;;Customer service was slow to respond to my issue.;2.0;;CUST0004;Daan Mulder;8011AB;43.0
+PROD0091;Books;Business Strategy Book;Works well and feels well built.;4.0;11-8-2024;CUST0287;Lucas de Vries;7500AB;42.0
+PROD0003;Electronics;Smartwatch;Amazing product and very fast delivery.;5.0;;CUST0161;Sara Mulder;7500AB;41.0
+PROD0015;Books;Fantasy Novel;This has quickly become one of my favorite items.;5.0;27-3-2019;CUST0167;Noah Kok;8011AA;38.0
+PROD0056;Garden;Garden Hose;Average quality, nothing special.;3.0;23-9-2021;CUST0224;Sara Mulder;8011AB;45.0
+PROD0096;Books;Fantasy Novel;Delivered quickly and carefully packaged.;4.0;26-6-2021;CUST0171;Noah de Vries;7500AB;45.0
+PROD0066;Electronics;USB-C Charger;Works well and feels well built.;4.0;2-12-2022;CUST0180;Noah Visser;7500AA;38.0
+PROD0023;Garden;Plant Pot Set;I would consider buying another one as a gift.;4.0;18-9-2020;CUST0039;Noah Bos;7500AA;
+PROD0058;Clothing;Sports Socks;If I could give more than five stars, I would.;5.0;16-8-2022;CUST0162;Noah Bos;7500AC;42.0
+PROD0102;Books;Fantasy Novel;Great value for money, I would buy it again.;5.0;19-8-2019;CUST0181;Finn de Vries;8011AB;43.0
+PROD0008;Books;Productivity Guide;Delivered quickly and carefully packaged.;4.0;21-3-2022;CUST0040;Liam Kok;7500AB;36.0
+PROD0075;Books;Children's Storybook;;;18-6-2019;;Sara Visser;7500AC;44.0
+PROD0020;Books;Business Strategy Book;Below average quality, expected more for the price.;2.0;20-1-2024;CUST0053;Lucas de Vries;7500AC;41.0
+;Home;LED Desk Lamp;Amazing product and very fast delivery.;5.0;5-12-2023;CUST0269;Finn Kok;8011AA;43.0
+PROD0050;Garden;Solar Garden Lights;This has quickly become one of my favorite items.;5.0;17-10-2022;CUST0027;Lucas de Vries;7500AA;31.0
+PROD0037;Clothing;Jeans;Great value for money, I would buy it again.;5.0;7-9-2020;CUST0171;Liam Kok;7500AA;42.0
+PROD0084;Garden;Solar Garden Lights;The item looks nicer in the photos than in real life.;2.0;12-6-2020;CUST0044;Mila Dekker;8011AB;45.0
+PROD0086;Garden;Plant Pot Set;Everything about this product is outstanding.;5.0;18-1-2020;CUST0217;Finn Meijer;;30.0
+PROD0028;Garden;Plant Pot Set;Top-notch build quality and performance.;5.0;14-6-2024;CUST0099;Olivia Bakker;8011AB;33.0
+PROD0065;Garden;Garden Hose;Customer support was helpful with my question.;;26-11-2024;CUST0020;Lucas Kok;7500AC;32.0
+PROD0021;Books;Cookbook;;5.0;9-11-2020;CUST0225;Emma Mulder;7500AB;40.0
+PROD0079;Home;Electric Kettle;The design is fine but could be improved.;3.0;13-1-2024;CUST0120;Finn Visser;7500AA;43.0
+PROD0048;Books;Cookbook;I would consider buying another one as a gift.;4.0;10-12-2023;CUST0237;Mila Mulder;7500AA;41.0
+PROD0105;Books;Cookbook;Works well and feels well built.;4.0;20-7-2020;CUST0129;Emma Bos;7500AC;25.0
+PROD0092;Clothing;Basic T-Shirt;Some parts already show signs of wear.;2.0;25-5-2020;CUST0146;Liam Bakker;7500AB;30.0
+PROD0107;Clothing;Winter Jacket;This has quickly become one of my favorite items.;5.0;11-1-2020;CUST0114;;7500AA;66.0
+PROD0051;Books;Productivity Guide;Some parts already show signs of wear.;2.0;12-3-2023;CUST0121;Sophie de Vries;7500AB;34.0
+PROD0120;Electronics;Bluetooth Speaker;Absolutely love this, highly recommended!;5.0;5-10-2022;CUST0075;;7500AA;45.0
+PROD0098;Books;Cookbook;Comfortable to use and looks great.;4.0;12-1-2024;CUST0003;Liam Jansen;7500AA;45.0
+PROD0094;Home;Non-stick Frying Pan;I would consider buying another one as a gift.;;1-12-2024;;Liam Smit;8011AB;34.0
+PROD0031;Electronics;Wireless Headphones;;3.0;16-2-2024;CUST0033;Liam Bos;7500AC;38.0
+PROD0074;Electronics;USB-C Charger;Works well and feels well built.;4.0;11-8-2020;CUST0150;Sophie Jansen;7500AB;43.0
+PROD0054;Home;Non-stick Frying Pan;Works as expected but nothing more.;3.0;17-12-2019;CUST0269;Lucas de Vries;8011AB;20.0
+PROD0101;Clothing;Sports Socks;Everything about this product is outstanding.;5.0;;;Daan Jansen;7500AA;41.0
+PROD0096;Garden;Solar Garden Lights;Excellent product, exceeded all my expectations.;5.0;2-1-2023;CUST0035;Lucas Visser;7500AA;55.0
+PROD0095;Electronics;USB-C Charger;Delivered quickly and carefully packaged.;4.0;30-6-2020;CUST0023;Lucas Dekker;7500AB;37.0
+PROD0090;Home;Electric Kettle;There are both pros and cons to this product.;3.0;16-1-2021;CUST0070;Liam Bos;7500AB;37.0
+PROD0102;Home;LED Desk Lamp;Works well and feels well built.;;21-6-2019;CUST0162;Mila Dekker;7500AB;41.0
+PROD0033;Clothing;Jeans;Good quality and does what it promises.;4.0;;CUST0147;Lucas Jansen;7500AA;44.0
+PROD0016;Garden;Solar Garden Lights;Top-notch build quality and performance.;5.0;25-11-2023;CUST0205;Daan Mulder;7500AB;30.0
+;Home;Electric Kettle;Comfortable to use and looks great.;4.0;13-2-2023;CUST0266;Mila de Vries;7500AB;65.0
+PROD0078;Electronics;Smartwatch;Works as expected but nothing more.;3.0;18-4-2022;CUST0165;Liam de Vries;8011AB;42.0
+PROD0058;Garden;Solar Garden Lights;If I could give more than five stars, I would.;5.0;12-10-2023;CUST0086;;7500AB;34.0
+PROD0056;Garden;Grass Seed Mix;;4.0;23-8-2019;CUST0039;Sophie Meijer;7500AB;37.0
+PROD0019;Home;LED Desk Lamp;If I could give more than five stars, I would.;5.0;30-11-2023;CUST0018;Noah de Vries;7500AB;34.0
+PROD0050;Garden;Solar Garden Lights;One of the worst purchases I have made online.;1.0;13-5-2019;CUST0079;Daan Meijer;7500AB;
+PROD0018;Electronics;USB-C Charger;Customer support was helpful with my question.;4.0;12-2-2023;CUST0204;Lucas Smit;;40.0
+PROD0095;Electronics;Wireless Headphones;Solid product, would recommend to friends.;4.0;6-8-2024;CUST0266;Sophie Dekker;7500AB;35.0
+PROD0028;Garden;Pruning Shears;If I could give more than five stars, I would.;5.0;15-3-2022;CUST0252;Olivia de Vries;7500AB;30.0
+PROD0023;Electronics;Smartwatch;Comfortable to use and looks great.;4.0;26-12-2019;CUST0164;Lucas de Vries;7500AB;30.0
+PROD0109;Garden;Solar Garden Lights;Arrived damaged and customer service was unhelpful.;1.0;14-12-2020;CUST0186;Finn Visser;7500AA;41.0
+PROD0031;Home;Throw Pillow;Amazing product and very fast delivery.;5.0;18-4-2019;CUST0185;Finn Kok;8011AB;35.0
+PROD0079;Clothing;Winter Jacket;Absolutely love this, highly recommended!;5.0;27-9-2019;CUST0159;Sophie Bos;7500AB;34.0
+PROD0010;;Business Strategy Book;Fantastic quality and super easy to use.;5.0;22-7-2022;CUST0038;Daan Bos;8011AA;30.0
+PROD0113;Garden;;Not amazing, not awful, just okay.;3.0;15-1-2021;CUST0067;Sophie Dekker;7500AA;
+;Electronics;Wireless Headphones;Fantastic quality and super easy to use.;5.0;30-5-2022;CUST0085;Noah Meijer;7500AB;18.0
+PROD0067;Home;;Great value for money, I would buy it again.;5.0;20-11-2019;CUST0129;Olivia Dekker;7500AB;41.0
+PROD0069;Garden;Grass Seed Mix;Average quality, nothing special.;3.0;20-8-2024;CUST0087;Sara Kok;7500AA;39.0
+PROD0044;Clothing;Sports Socks;I would consider buying another one as a gift.;4.0;18-6-2019;CUST0015;Liam Jansen;7500AC;67.0
+PROD0084;Clothing;Running Shoes;I use this almost every day and it is perfect.;5.0;3-9-2023;CUST0016;Daan Dekker;7500AB;34.0
+PROD0032;Garden;Pruning Shears;The item looks nicer in the photos than in real life.;2.0;3-5-2022;CUST0233;Liam Jansen;7500AC;30.0
+PROD0060;Books;Children's Storybook;The product is okay but feels flimsy.;2.0;25-10-2022;CUST0074;Lucas Meijer;7500AA;32.0
+PROD0017;Garden;;Top-notch build quality and performance.;5.0;10-10-2024;CUST0288;Liam Meijer;7500AB;40.0
+PROD0058;Electronics;Bluetooth Speaker;Good for occasional use but not daily.;3.0;31-7-2020;CUST0050;Emma Smit;7500AA;51.0
+PROD0032;Clothing;Jeans;Solid product, would recommend to friends.;4.0;3-9-2022;CUST0296;Lucas Visser;;47.0
+PROD0060;Books;Business Strategy Book;Comfortable to use and looks great.;4.0;;CUST0255;Emma de Vries;7500AA;51.0
+PROD0031;Clothing;Jeans;Good for occasional use but not daily.;3.0;16-12-2022;CUST0025;Emma Smit;7500AB;37.0
+PROD0069;Books;Fantasy Novel;Excellent product, exceeded all my expectations.;5.0;16-3-2020;CUST0221;Noah Smit;7500AA;59.0
+PROD0006;;;This has quickly become one of my favorite items.;5.0;29-7-2019;CUST0292;Finn Visser;;33.0
+PROD0050;Garden;Garden Hose;Customer support was helpful with my question.;4.0;19-1-2024;CUST0282;Mila Kok;8011AA;30.0
+PROD0013;;Smartphone Case;;3.0;9-3-2023;;;7500AB;51.0
+PROD0066;Home;Non-stick Frying Pan;Better than I expected for this price range.;4.0;10-8-2024;CUST0021;Emma Jansen;7500AA;43.0
+PROD0067;Garden;Pruning Shears;Comfortable to use and looks great.;4.0;2-9-2020;CUST0264;;7500AA;68.0
+PROD0051;Garden;Plant Pot Set;I would consider buying another one as a gift.;4.0;10-5-2022;CUST0173;Finn Dekker;7500AB;45.0
+PROD0061;Clothing;Running Shoes;Decent product, you get what you pay for.;3.0;17-2-2023;CUST0170;Liam Mulder;7500AA;37.0
+PROD0061;Electronics;USB-C Charger;The design is fine but could be improved.;3.0;21-7-2021;CUST0027;Sara Bos;7500AC;38.0
+PROD0019;Clothing;Jeans;I use this almost every day and it is perfect.;5.0;10-5-2019;CUST0294;Liam Visser;7500AB;42.0
+PROD0020;Garden;Pruning Shears;This has quickly become one of my favorite items.;5.0;15-4-2021;;Finn Kok;7500AB;68.0
+;Electronics;Smartphone Case;;1.0;24-8-2022;CUST0245;Finn Mulder;7500AA;
+PROD0117;Home;Electric Kettle;Not amazing, not awful, just okay.;3.0;3-11-2022;CUST0280;Lucas Smit;7500AA;35.0
+PROD0036;Home;Throw Pillow;Some parts already show signs of wear.;2.0;7-5-2022;CUST0116;Mila Smit;7500AB;43.0
+PROD0062;Books;Fantasy Novel;Top-notch build quality and performance.;5.0;25-1-2022;CUST0148;Liam Kok;7500AA;39.0
+PROD0105;Books;Children's Storybook;Top-notch build quality and performance.;5.0;;;Emma Smit;;64.0
+PROD0119;Electronics;Bluetooth Speaker;Comfortable to use and looks great.;4.0;16-11-2021;CUST0246;Olivia Visser;;47.0
+PROD0090;Garden;Grass Seed Mix;The design is fine but could be improved.;3.0;16-7-2020;CUST0056;Sara Kok;7500AB;30.0
+PROD0029;;USB-C Charger;;3.0;4-8-2019;CUST0052;;8011AA;66.0
+PROD0001;Electronics;Smartphone Case;Customer support was helpful with my question.;4.0;8-10-2020;CUST0209;Daan Bos;8011AB;44.0
+PROD0037;Garden;Solar Garden Lights;Good quality and does what it promises.;4.0;2-1-2020;CUST0294;Olivia Dekker;7500AB;43.0
+PROD0054;Electronics;Smartphone Case;Fantastic quality and super easy to use.;5.0;;CUST0204;Daan Bakker;7500AB;19.0
+PROD0002;Garden;Garden Hose;Great value for money, I would buy it again.;5.0;15-3-2020;CUST0172;Mila Bos;7500AA;68.0
+PROD0064;Clothing;Sports Socks;Fantastic quality and super easy to use.;5.0;27-8-2024;CUST0240;Mila Visser;8011AA;63.0
+PROD0094;Garden;Plant Pot Set;Amazing product and very fast delivery.;5.0;19-11-2021;CUST0096;Emma Meijer;7500AA;35.0
+PROD0023;Clothing;Winter Jacket;I would consider buying another one as a gift.;4.0;19-7-2023;CUST0219;Finn Meijer;7500AB;
+PROD0018;Electronics;Smartphone Case;Battery life is shorter than promised.;2.0;18-8-2022;CUST0128;Emma Smit;7500AC;41.0
+PROD0043;Books;Fantasy Novel;Complete waste of money.;1.0;16-2-2019;CUST0134;Lucas Visser;7500AA;36.0
+PROD0040;Electronics;Smartwatch;Not terrible, but I would not buy it again.;2.0;19-7-2023;CUST0258;Mila de Vries;7500AB;38.0
+PROD0079;Garden;Solar Garden Lights;I use this almost every day and it is perfect.;5.0;16-6-2021;CUST0069;Daan Bakker;7500AB;
+PROD0054;Clothing;Running Shoes;;4.0;12-4-2024;CUST0276;Olivia Visser;7500AB;31.0
+PROD0068;Clothing;Basic T-Shirt;Battery life is shorter than promised.;2.0;21-1-2023;CUST0040;Sara de Vries;7500AB;31.0
+PROD0026;Clothing;Sports Socks;I would consider buying another one as a gift.;4.0;5-9-2020;CUST0085;Lucas Dekker;7500AB;41.0
+PROD0063;Home;Non-stick Frying Pan;Works, but has several annoying flaws.;2.0;21-9-2024;;Emma Bos;7500AA;35.0
+PROD0073;Books;Children's Storybook;Excellent product, exceeded all my expectations.;5.0;;CUST0158;Emma Mulder;7500AB;40.0
+PROD0075;Electronics;Smartphone Case;Very happy with this purchase so far.;4.0;5-7-2019;CUST0217;Lucas de Vries;8011AB;34.0
+PROD0120;Electronics;Wireless Headphones;Amazing product and very fast delivery.;5.0;10-5-2019;CUST0147;Sophie Bakker;7500AA;38.0
+PROD0115;Books;;Packaging was okay and delivery was on time.;3.0;12-1-2024;CUST0194;Sophie de Vries;7500AA;33.0
+PROD0084;Clothing;Winter Jacket;Top-notch build quality and performance.;5.0;30-4-2020;;Finn Mulder;7500AA;43.0
+PROD0097;Home;LED Desk Lamp;Decent product, you get what you pay for.;3.0;7-5-2022;CUST0238;Finn Mulder;8011AA;36.0
+PROD0059;Home;Throw Pillow;Customer service was slow to respond to my issue.;2.0;27-9-2020;;Olivia de Vries;7500AA;34.0
+PROD0099;Books;Business Strategy Book;Excellent product, exceeded all my expectations.;5.0;12-9-2021;CUST0106;Liam de Vries;7500AA;31.0
+PROD0087;Books;Business Strategy Book;Good quality and does what it promises.;4.0;29-9-2021;CUST0023;Sophie Bos;8011AB;44.0
+PROD0018;Home;LED Desk Lamp;Everything about this product is outstanding.;5.0;30-3-2022;CUST0120;Sara Meijer;7500AA;37.0
+PROD0039;Garden;Plant Pot Set;Fantastic quality and super easy to use.;5.0;5-11-2024;CUST0114;Sophie Smit;8011AA;31.0
+PROD0113;Clothing;Sports Socks;Solid product, would recommend to friends.;4.0;16-10-2023;CUST0285;Daan Jansen;7500AB;68.0
+PROD0041;Books;Business Strategy Book;This has quickly become one of my favorite items.;5.0;31-7-2023;CUST0077;Mila Mulder;7500AA;39.0
+PROD0031;Clothing;Jeans;Good for occasional use but not daily.;3.0;16-5-2022;CUST0074;Daan Jansen;7500AB;30.0
+PROD0068;Books;Business Strategy Book;Fantastic quality and super easy to use.;;10-5-2023;CUST0125;Mila Visser;7500AB;30.0
+PROD0109;Electronics;Smartwatch;Delivered quickly and carefully packaged.;4.0;14-1-2020;;Olivia Jansen;7500AA;34.0
+PROD0006;Clothing;Sports Socks;Very happy with this purchase so far.;4.0;9-2-2021;CUST0287;Olivia Bos;8011AB;42.0
+PROD0117;Garden;Solar Garden Lights;Good quality and does what it promises.;4.0;17-5-2021;CUST0098;Liam Bos;7500AA;67.0
+PROD0051;Clothing;Winter Jacket;Works well and feels well built.;4.0;10-8-2022;CUST0145;Sophie Bos;7500AB;39.0
+PROD0034;Garden;Solar Garden Lights;Top-notch build quality and performance.;5.0;;CUST0255;Daan de Vries;7500AA;19.0
+;Books;Fantasy Novel;The product is okay but feels flimsy.;2.0;27-2-2023;CUST0161;Sophie Jansen;7500AA;38.0
+PROD0003;Home;Throw Pillow;Great value for money, I would buy it again.;5.0;7-9-2023;CUST0152;Noah Visser;7500AB;
+PROD0107;Books;Business Strategy Book;;4.0;7-8-2024;CUST0282;Lucas Smit;7500AC;48.0
+PROD0059;Books;Children's Storybook;Fantastic quality and super easy to use.;;13-12-2022;CUST0087;Noah Dekker;8011AA;41.0
+PROD0068;Clothing;Basic T-Shirt;Good quality and does what it promises.;4.0;1-11-2019;CUST0025;Emma Mulder;8011AB;40.0
+PROD0091;Home;LED Desk Lamp;Fantastic quality and super easy to use.;5.0;;CUST0112;Finn Bos;7500AA;32.0
+PROD0117;Clothing;Sports Socks;Amazing product and very fast delivery.;;21-6-2024;CUST0009;Emma Dekker;7500AC;41.0
+PROD0068;Electronics;Wireless Headphones;Great value for money, I would buy it again.;;20-3-2022;;Finn Mulder;7500AA;58.0
+PROD0118;Home;LED Desk Lamp;Absolutely love this, highly recommended!;5.0;17-11-2024;;Olivia Visser;7500AC;32.0
+PROD0035;Garden;Solar Garden Lights;Packaging was okay and delivery was on time.;3.0;20-11-2019;CUST0192;Sophie Bos;8011AA;40.0
+PROD0088;Home;Air Purifier;Very happy with this purchase so far.;4.0;10-5-2019;CUST0048;Sophie Mulder;8011AB;38.0
+PROD0082;Books;Productivity Guide;Excellent product, exceeded all my expectations.;5.0;2-12-2020;CUST0043;Daan Mulder;7500AB;37.0
+PROD0110;Garden;Grass Seed Mix;Very happy with this purchase so far.;4.0;24-6-2019;CUST0118;Olivia Kok;7500AC;45.0
+PROD0088;;Wireless Headphones;Nice design and easy to use.;;15-5-2019;CUST0092;Lucas Jansen;7500AA;40.0
+PROD0097;Clothing;Winter Jacket;Better than I expected for this price range.;4.0;12-11-2019;CUST0154;Noah Kok;;30.0
+PROD0043;Books;Business Strategy Book;This has quickly become one of my favorite items.;5.0;27-7-2020;CUST0041;Finn Meijer;7500AB;43.0
+PROD0108;Books;Cookbook;Works, but has several annoying flaws.;2.0;27-10-2022;CUST0204;Lucas Jansen;7500AA;36.0
+PROD0030;;Children's Storybook;Customer service was slow to respond to my issue.;2.0;18-3-2023;CUST0222;Noah Kok;8011AB;36.0
+PROD0038;Electronics;USB-C Charger;I use this almost every day and it is perfect.;5.0;29-10-2019;CUST0043;Mila Bakker;7500AC;
+PROD0041;Home;Electric Kettle;Top-notch build quality and performance.;5.0;12-3-2020;CUST0047;Emma Smit;7500AB;33.0
+PROD0017;Garden;Garden Hose;Absolutely love this, highly recommended!;5.0;6-2-2021;CUST0221;Daan Dekker;7500AB;42.0
+PROD0004;Books;Productivity Guide;Average quality, nothing special.;3.0;20-12-2022;CUST0284;Liam Kok;7500AA;34.0
+PROD0002;Garden;Pruning Shears;Great value for money, I would buy it again.;5.0;22-8-2023;CUST0199;Liam Dekker;7500AA;21.0
+PROD0067;Home;;Solid product, would recommend to friends.;4.0;9-4-2023;CUST0087;Noah Smit;7500AC;40.0
+PROD0009;;Cookbook;Fantastic quality and super easy to use.;5.0;16-11-2023;CUST0142;Sophie Smit;7500AA;42.0
+PROD0033;Electronics;Bluetooth Speaker;The product is okay but feels flimsy.;2.0;23-7-2024;CUST0101;Daan de Vries;8011AA;37.0
+PROD0043;;Smartwatch;;4.0;6-4-2023;CUST0169;Daan Meijer;7500AB;37.0
+PROD0039;;Winter Jacket;Customer service was slow to respond to my issue.;2.0;2-4-2021;CUST0246;Lucas Bakker;7500AA;29.0
+PROD0095;Garden;Solar Garden Lights;Amazing product and very fast delivery.;5.0;19-9-2021;CUST0167;Sophie Smit;7500AA;68.0
+PROD0015;Books;;If I could give more than five stars, I would.;5.0;29-3-2021;CUST0280;Noah Dekker;7500AB;40.0
+PROD0057;Books;Cookbook;Nice design and easy to use.;4.0;11-10-2019;CUST0210;Daan Bakker;8011AA;
+PROD0085;Home;Air Purifier;Fantastic quality and super easy to use.;5.0;30-9-2023;CUST0194;Liam Bos;7500AB;25.0
+PROD0052;Books;Business Strategy Book;Customer support was helpful with my question.;4.0;6-9-2024;CUST0215;Finn Jansen;7500AA;60.0
+PROD0077;Garden;Grass Seed Mix;Average quality, nothing special.;3.0;23-3-2020;CUST0128;Lucas Bakker;7500AB;43.0
+PROD0083;Electronics;USB-C Charger;The item looks nicer in the photos than in real life.;2.0;20-9-2022;;Liam Jansen;7500AA;37.0
+PROD0096;Home;Non-stick Frying Pan;Everything about this product is outstanding.;5.0;24-6-2021;CUST0229;Lucas Mulder;8011AB;33.0
+PROD0020;Clothing;Sports Socks;Top-notch build quality and performance.;5.0;11-4-2019;CUST0248;Liam Smit;7500AC;34.0
+PROD0107;Electronics;Wireless Headphones;Fantastic quality and super easy to use.;5.0;27-11-2022;CUST0160;Lucas Bos;;45.0
+PROD0045;;Jeans;Comfortable to use and looks great.;4.0;4-2-2020;CUST0225;Daan Meijer;7500AA;32.0
+PROD0003;Electronics;Wireless Headphones;Top-notch build quality and performance.;5.0;23-3-2020;CUST0085;Olivia Dekker;;35.0
+PROD0072;Home;Air Purifier;This has quickly become one of my favorite items.;5.0;7-3-2024;CUST0119;Sophie Bakker;7500AA;34.0
+PROD0004;Books;Children's Storybook;If I could give more than five stars, I would.;5.0;19-3-2021;CUST0231;Sara Mulder;;35.0
+PROD0036;Home;Throw Pillow;;5.0;21-2-2020;CUST0275;Noah Meijer;7500AA;35.0
+PROD0034;Books;Productivity Guide;Comfortable to use and looks great.;4.0;1-12-2024;CUST0161;Sara Mulder;7500AB;
+PROD0045;Clothing;Basic T-Shirt;Delivered quickly and carefully packaged.;4.0;19-2-2024;CUST0089;Mila Kok;7500AC;39.0
+PROD0016;Home;Air Purifier;I use this almost every day and it is perfect.;5.0;4-6-2022;CUST0060;Noah Meijer;7500AA;38.0
+PROD0054;Clothing;Jeans;It does the job, but I am not impressed.;2.0;18-7-2020;;Sophie Mulder;7500AB;39.0
+PROD0072;Clothing;Winter Jacket;Fantastic quality and super easy to use.;5.0;28-6-2024;CUST0148;Noah Bakker;7500AA;31.0
+PROD0007;Books;Business Strategy Book;Delivered quickly and carefully packaged.;4.0;9-2-2019;;Noah Visser;8011AB;60.0
+PROD0084;Clothing;Sports Socks;The size was completely wrong and unusable.;1.0;3-8-2023;CUST0252;Sophie Bos;8011AB;35.0
+PROD0004;Electronics;USB-C Charger;Good for occasional use but not daily.;3.0;11-4-2022;CUST0017;Mila Visser;7500AB;35.0
+PROD0073;Home;Electric Kettle;The size was completely wrong and unusable.;1.0;23-9-2024;CUST0058;Sara de Vries;7500AA;42.0
+PROD0070;Clothing;Running Shoes;Good quality and does what it promises.;4.0;13-12-2023;CUST0280;Olivia Mulder;7500AB;41.0
+PROD0112;Home;Air Purifier;Decent product, you get what you pay for.;;17-1-2024;CUST0135;Lucas de Vries;7500AB;30.0
+PROD0027;Electronics;;If I could give more than five stars, I would.;5.0;7-12-2022;CUST0220;Noah Kok;7500AA;35.0
+PROD0104;Home;Throw Pillow;Excellent product, exceeded all my expectations.;5.0;7-12-2022;CUST0273;Mila Kok;7500AB;37.0
+PROD0038;Garden;Solar Garden Lights;I would consider buying another one as a gift.;4.0;31-12-2021;CUST0264;Liam Bakker;7500AB;30.0
+PROD0036;Books;Productivity Guide;Solid product, would recommend to friends.;4.0;27-6-2020;CUST0128;Noah Meijer;7500AB;36.0
+;Books;Children's Storybook;I might buy it again if there is a discount.;3.0;5-1-2022;CUST0213;Sophie Bos;7500AB;30.0
+PROD0066;Electronics;Smartwatch;Complete waste of money.;;20-2-2023;CUST0233;Daan Meijer;7500AB;37.0
+PROD0082;Electronics;;Delivered quickly and carefully packaged.;4.0;17-9-2019;CUST0274;Sophie Visser;7500AA;68.0
+PROD0035;Home;Electric Kettle;Delivered quickly and carefully packaged.;4.0;7-3-2022;CUST0173;Finn Kok;7500AB;41.0
+PROD0115;Books;Fantasy Novel;Good quality and does what it promises.;4.0;8-7-2019;CUST0051;Daan Jansen;7500AB;32.0
+PROD0059;Home;Electric Kettle;Decent product, you get what you pay for.;3.0;19-10-2023;CUST0104;Noah Smit;7500AA;42.0
+PROD0084;;Garden Hose;Customer service was slow to respond to my issue.;2.0;;CUST0043;Lucas Bakker;7500AC;
+PROD0055;Garden;Plant Pot Set;Average quality, nothing special.;3.0;25-1-2020;CUST0001;Olivia Bos;7500AB;41.0
+PROD0067;Clothing;;Amazing product and very fast delivery.;5.0;8-2-2019;CUST0005;Lucas de Vries;8011AB;49.0
+PROD0062;Books;Cookbook;Absolutely love this, highly recommended!;5.0;26-7-2021;CUST0197;;7500AC;30.0
+PROD0018;Garden;Solar Garden Lights;Better than I expected for this price range.;4.0;;CUST0074;Liam Dekker;7500AA;36.0
+PROD0057;Clothing;Winter Jacket;Top-notch build quality and performance.;5.0;22-5-2021;CUST0078;Sophie Kok;7500AA;35.0
+PROD0115;Home;LED Desk Lamp;Average quality, nothing special.;3.0;27-7-2020;CUST0064;Sara Mulder;7500AB;32.0
+PROD0102;Books;Fantasy Novel;Fantastic quality and super easy to use.;5.0;11-10-2021;CUST0142;Liam Visser;7500AA;31.0
+PROD0037;Clothing;Sports Socks;Excellent product, exceeded all my expectations.;5.0;20-5-2022;CUST0106;Finn Kok;8011AB;45.0
+PROD0083;Books;Fantasy Novel;Excellent product, exceeded all my expectations.;5.0;7-9-2021;CUST0254;Sophie de Vries;8011AA;33.0
+PROD0068;Clothing;Basic T-Shirt;Excellent product, exceeded all my expectations.;5.0;19-1-2023;;Noah Mulder;7500AA;31.0
+PROD0047;Clothing;Jeans;Not amazing, not awful, just okay.;3.0;8-12-2020;CUST0242;Liam Jansen;8011AA;36.0
+PROD0028;Electronics;Bluetooth Speaker;Good quality and does what it promises.;4.0;5-9-2019;CUST0204;Finn Smit;7500AC;34.0
+PROD0055;Clothing;Jeans;Feels very cheap and poorly made.;1.0;4-12-2019;CUST0275;Finn Kok;7500AA;
+PROD0011;Electronics;Bluetooth Speaker;;4.0;;CUST0080;Finn Meijer;7500AC;30.0
+PROD0090;Electronics;Bluetooth Speaker;This has quickly become one of my favorite items.;5.0;4-9-2021;CUST0030;Olivia de Vries;7500AA;59.0
+PROD0079;Electronics;;If I could give more than five stars, I would.;5.0;14-8-2019;CUST0159;Noah de Vries;7500AB;36.0
+PROD0021;Home;;There are both pros and cons to this product.;3.0;21-11-2022;CUST0268;Finn Smit;7500AB;35.0
+PROD0094;Home;Air Purifier;Absolutely love this, highly recommended!;5.0;1-5-2019;CUST0172;Sophie Smit;7500AB;34.0
+PROD0081;Garden;Grass Seed Mix;Average quality, nothing special.;3.0;25-7-2024;CUST0234;Finn Meijer;8011AB;35.0
+PROD0048;Clothing;Winter Jacket;Fantastic quality and super easy to use.;5.0;10-11-2021;CUST0053;Sara de Vries;7500AA;43.0
+PROD0006;Clothing;;Good quality and does what it promises.;4.0;28-9-2021;CUST0024;Daan Meijer;;45.0
+PROD0120;Home;Throw Pillow;Decent product, you get what you pay for.;3.0;14-9-2023;CUST0115;Lucas Visser;7500AB;30.0
+PROD0106;Garden;Solar Garden Lights;Average quality, nothing special.;3.0;8-3-2023;CUST0062;Finn Jansen;7500AB;42.0
+PROD0052;Clothing;Basic T-Shirt;Very happy with this purchase so far.;4.0;20-3-2024;CUST0145;Mila Meijer;;35.0
+PROD0048;Books;Productivity Guide;I use this almost every day and it is perfect.;5.0;9-4-2022;CUST0289;Mila Kok;8011AB;39.0
+PROD0064;Garden;Grass Seed Mix;I use this almost every day and it is perfect.;5.0;1-10-2021;CUST0078;Emma Mulder;7500AC;34.0
+PROD0082;Clothing;Running Shoes;Terrible quality, broke after one use.;1.0;4-10-2022;CUST0001;Sophie Smit;8011AB;34.0
+PROD0054;Clothing;Winter Jacket;Amazing product and very fast delivery.;5.0;3-9-2019;CUST0073;Mila de Vries;7500AB;31.0
+PROD0053;Home;Non-stick Frying Pan;Delivered quickly and carefully packaged.;4.0;21-2-2024;CUST0044;Sara de Vries;7500AC;39.0
+PROD0076;Books;Productivity Guide;If I could give more than five stars, I would.;5.0;13-9-2019;;Noah Visser;7500AA;35.0
+PROD0090;Garden;Pruning Shears;Customer service was slow to respond to my issue.;2.0;26-7-2022;CUST0232;Mila Visser;8011AB;35.0
+PROD0100;Home;;If I could give more than five stars, I would.;5.0;22-3-2020;CUST0080;;;42.0
+PROD0016;Garden;Pruning Shears;Everything about this product is outstanding.;5.0;7-1-2023;CUST0107;Daan Smit;7500AA;42.0
+;Electronics;Wireless Headphones;Great value for money, I would buy it again.;5.0;15-6-2019;CUST0111;Lucas Bakker;7500AB;43.0
+PROD0051;;Air Purifier;Customer support was helpful with my question.;4.0;20-7-2019;CUST0154;;7500AA;41.0
+PROD0072;Books;Children's Storybook;Everything about this product is outstanding.;5.0;20-10-2021;CUST0049;Daan de Vries;;70.0
+PROD0002;Home;LED Desk Lamp;Good quality and does what it promises.;4.0;29-6-2021;CUST0067;Olivia Mulder;7500AA;34.0
+PROD0076;Electronics;;Great value for money, I would buy it again.;5.0;4-11-2019;CUST0012;Liam Visser;7500AB;53.0
+PROD0012;Books;Cookbook;Top-notch build quality and performance.;5.0;16-5-2020;CUST0022;Daan Jansen;7500AA;
+PROD0106;Clothing;Jeans;This has quickly become one of my favorite items.;5.0;25-7-2024;CUST0016;Sophie Mulder;7500AB;37.0
+PROD0036;Home;Throw Pillow;;5.0;1-1-2024;CUST0077;Emma Kok;7500AC;30.0
+PROD0064;Home;Air Purifier;Packaging was okay and delivery was on time.;3.0;16-5-2024;CUST0032;Liam Smit;7500AB;32.0
+PROD0083;Books;Cookbook;Customer support was helpful with my question.;4.0;17-10-2021;CUST0279;Emma Mulder;7500AA;62.0
+PROD0070;Garden;Pruning Shears;There are both pros and cons to this product.;3.0;10-11-2022;CUST0290;Finn Meijer;7500AB;31.0
+PROD0041;Home;LED Desk Lamp;It does the job, but I am not impressed.;2.0;16-6-2021;CUST0016;Mila Jansen;7500AA;34.0
+PROD0046;Books;Business Strategy Book;I would consider buying another one as a gift.;4.0;11-8-2021;CUST0082;Liam Visser;7500AC;37.0
+PROD0105;Garden;Grass Seed Mix;Good quality and does what it promises.;4.0;17-6-2021;CUST0295;;7500AA;20.0
+PROD0031;Home;Throw Pillow;It does the job, but I am not impressed.;2.0;26-7-2022;CUST0184;Sara Jansen;7500AA;68.0
+PROD0073;Garden;Grass Seed Mix;Works as expected but nothing more.;3.0;10-2-2021;CUST0253;Finn Smit;7500AB;32.0
+PROD0008;Electronics;Wireless Headphones;Good for occasional use but not daily.;3.0;15-6-2021;CUST0011;Finn Bos;8011AA;30.0
+PROD0104;Clothing;Winter Jacket;Not terrible, but I would not buy it again.;2.0;27-10-2022;CUST0091;Lucas Jansen;8011AB;
+PROD0100;Clothing;Winter Jacket;Very happy with this purchase so far.;4.0;25-11-2024;;Liam Meijer;7500AA;33.0
+PROD0013;Books;Business Strategy Book;Top-notch build quality and performance.;;21-5-2022;CUST0166;Noah Bakker;7500AC;38.0
+PROD0084;Books;Children's Storybook;Top-notch build quality and performance.;5.0;14-12-2020;CUST0288;Sara Meijer;7500AC;45.0
+PROD0049;Clothing;;Great value for money, I would buy it again.;5.0;21-4-2022;CUST0066;Noah Jansen;7500AA;
+PROD0109;Clothing;Jeans;I would consider buying another one as a gift.;4.0;13-5-2019;CUST0094;Sara Meijer;7500AC;58.0
+PROD0082;Clothing;Winter Jacket;If I could give more than five stars, I would.;5.0;2-3-2020;CUST0255;Noah Meijer;7500AA;27.0
+PROD0041;Home;Air Purifier;Solid product, would recommend to friends.;;30-12-2019;CUST0172;Daan Jansen;;39.0
+PROD0045;Home;LED Desk Lamp;Nice design and easy to use.;4.0;18-3-2020;CUST0001;Emma Mulder;8011AB;43.0
+PROD0114;Books;;The item looks nicer in the photos than in real life.;2.0;12-7-2024;CUST0194;Lucas Dekker;7500AC;32.0
+PROD0084;Books;Business Strategy Book;I use this almost every day and it is perfect.;5.0;28-10-2020;CUST0232;Liam Jansen;8011AB;36.0
+PROD0014;Garden;Solar Garden Lights;Absolutely love this, highly recommended!;5.0;1-11-2022;CUST0088;Sophie Bakker;7500AC;69.0
+PROD0044;Clothing;Basic T-Shirt;If I could give more than five stars, I would.;5.0;31-5-2024;CUST0016;;7500AA;
+PROD0007;Books;Cookbook;Very happy with this purchase so far.;4.0;18-9-2022;CUST0106;Olivia Mulder;7500AC;37.0
+PROD0085;Clothing;Running Shoes;The design is fine but could be improved.;3.0;3-5-2022;CUST0122;Liam Jansen;7500AA;31.0
+PROD0020;Clothing;Jeans;Excellent product, exceeded all my expectations.;5.0;17-1-2023;CUST0002;Sophie de Vries;7500AB;39.0
+PROD0026;Clothing;Jeans;Absolutely love this, highly recommended!;5.0;16-4-2019;CUST0106;Noah Smit;7500AA;32.0
+PROD0040;Books;Productivity Guide;This has quickly become one of my favorite items.;5.0;12-4-2024;CUST0251;Mila de Vries;7500AB;35.0
+PROD0048;Books;Cookbook;Packaging was okay and delivery was on time.;3.0;22-2-2023;CUST0096;Daan Jansen;7500AB;45.0
+PROD0029;Books;Fantasy Novel;Nice design and easy to use.;4.0;;CUST0078;Liam de Vries;8011AA;31.0
+PROD0097;Clothing;Jeans;One of the worst purchases I have made online.;1.0;20-7-2021;CUST0284;Emma Mulder;8011AA;47.0
+PROD0088;Books;Business Strategy Book;The size was completely wrong and unusable.;1.0;23-8-2021;CUST0244;Mila de Vries;;31.0
+PROD0074;Electronics;USB-C Charger;Everything about this product is outstanding.;5.0;26-8-2020;CUST0062;Daan Bakker;7500AC;56.0
+;Home;Throw Pillow;Would not recommend this to anyone.;1.0;;CUST0022;Sophie de Vries;7500AA;66.0
+PROD0106;;Cookbook;Solid product, would recommend to friends.;4.0;22-11-2021;CUST0164;Liam de Vries;7500AB;38.0
+PROD0042;Books;Business Strategy Book;Nice design and easy to use.;4.0;;;Emma Kok;7500AA;38.0
+PROD0054;Books;Productivity Guide;Fantastic quality and super easy to use.;5.0;30-8-2020;CUST0291;Sara Kok;7500AB;
+PROD0073;Electronics;Wireless Headphones;;4.0;17-3-2022;CUST0275;Lucas Mulder;7500AC;30.0
+PROD0078;Books;Business Strategy Book;Battery life is shorter than promised.;;3-6-2019;CUST0089;Mila Mulder;7500AB;43.0
+PROD0005;Clothing;Jeans;This has quickly become one of my favorite items.;5.0;19-9-2022;CUST0122;Emma Bos;7500AC;54.0
+;Garden;Garden Hose;Complete waste of money.;1.0;27-6-2022;CUST0144;Daan de Vries;7500AA;63.0
+PROD0039;Home;Throw Pillow;The size was completely wrong and unusable.;1.0;7-8-2022;CUST0138;Sophie Kok;7500AA;38.0
+PROD0028;Home;Electric Kettle;This has quickly become one of my favorite items.;5.0;7-6-2024;CUST0265;Lucas Jansen;7500AA;39.0
+PROD0040;Home;LED Desk Lamp;Everything about this product is outstanding.;5.0;11-7-2023;CUST0070;Finn Kok;7500AA;41.0
+PROD0108;Home;Throw Pillow;;4.0;18-10-2021;CUST0017;Daan Jansen;8011AA;63.0
+PROD0048;Home;Air Purifier;Comfortable to use and looks great.;4.0;30-8-2024;CUST0204;Liam Jansen;8011AB;31.0
+PROD0058;Books;Business Strategy Book;Works as expected but nothing more.;3.0;27-4-2024;CUST0283;Lucas Meijer;8011AB;
+PROD0037;Garden;Garden Hose;Good quality and does what it promises.;4.0;3-5-2023;CUST0026;Noah Kok;8011AA;70.0
+PROD0083;Home;Throw Pillow;I use this almost every day and it is perfect.;5.0;26-4-2021;CUST0138;Sophie Dekker;7500AA;40.0
+PROD0117;Electronics;Smartwatch;Works as expected but nothing more.;3.0;10-12-2020;CUST0005;Olivia Smit;7500AA;30.0
+PROD0055;Garden;Solar Garden Lights;This has quickly become one of my favorite items.;5.0;29-11-2022;CUST0236;Mila Visser;8011AA;34.0
+PROD0051;Clothing;Sports Socks;It does the job, but I am not impressed.;2.0;24-2-2020;CUST0004;Finn Meijer;8011AB;30.0
+PROD0037;Clothing;Sports Socks;Nice design and easy to use.;4.0;;CUST0247;Liam Meijer;7500AB;66.0
+PROD0034;Garden;Solar Garden Lights;The design is fine but could be improved.;;10-2-2021;CUST0077;Finn Visser;7500AB;67.0
+PROD0085;Clothing;Jeans;Delivered quickly and carefully packaged.;4.0;27-7-2020;CUST0014;Daan Smit;8011AB;32.0
+PROD0050;Books;Children's Storybook;Excellent product, exceeded all my expectations.;5.0;16-2-2021;CUST0176;Olivia Dekker;7500AA;37.0
+PROD0065;;Fantasy Novel;Great value for money, I would buy it again.;5.0;27-11-2020;CUST0286;Noah Smit;;33.0
+PROD0093;Home;Air Purifier;Customer support was helpful with my question.;4.0;19-1-2021;CUST0172;Liam Visser;7500AA;38.0
+PROD0101;Garden;Pruning Shears;Delivered quickly and carefully packaged.;;3-3-2023;CUST0134;Sara Smit;7500AA;42.0
+PROD0007;Electronics;Smartwatch;If I could give more than five stars, I would.;5.0;19-10-2019;CUST0242;Olivia Dekker;8011AB;41.0
+PROD0039;Books;Business Strategy Book;Feels very cheap and poorly made.;1.0;10-8-2019;CUST0078;Noah Visser;7500AA;38.0
+PROD0019;Clothing;Jeans;Delivered quickly and carefully packaged.;4.0;8-1-2021;CUST0042;Daan Meijer;7500AA;37.0
+PROD0082;Home;Air Purifier;Decent product, you get what you pay for.;3.0;20-1-2019;CUST0232;Mila Visser;7500AA;22.0
+PROD0098;Home;Non-stick Frying Pan;Arrived damaged and customer service was unhelpful.;1.0;28-6-2024;CUST0046;Noah Kok;7500AB;34.0
+PROD0055;Books;Children's Storybook;There are both pros and cons to this product.;3.0;20-4-2023;CUST0003;Emma Dekker;;34.0
+PROD0115;Garden;Garden Hose;Top-notch build quality and performance.;5.0;19-2-2021;CUST0010;Emma Visser;7500AA;42.0
+PROD0017;Garden;Solar Garden Lights;Very happy with this purchase so far.;4.0;21-4-2023;;Sara Smit;7500AB;39.0
+PROD0038;Electronics;Bluetooth Speaker;Comfortable to use and looks great.;4.0;1-11-2024;CUST0269;Lucas Mulder;7500AC;57.0
+PROD0116;Home;Air Purifier;Comfortable to use and looks great.;4.0;11-1-2023;CUST0097;Noah Mulder;7500AA;35.0
+PROD0028;Home;Throw Pillow;Good quality and does what it promises.;4.0;28-8-2024;CUST0087;Liam Meijer;8011AA;
+PROD0113;Electronics;;Great value for money, I would buy it again.;5.0;19-7-2019;CUST0025;Liam Jansen;8011AA;
+PROD0057;Electronics;Smartwatch;Packaging was okay and delivery was on time.;3.0;21-5-2020;CUST0281;Mila Bos;7500AA;70.0
+PROD0039;Home;LED Desk Lamp;This has quickly become one of my favorite items.;5.0;18-2-2020;CUST0267;Mila Kok;7500AB;35.0
+PROD0107;Home;Electric Kettle;Average quality, nothing special.;3.0;26-9-2024;CUST0061;Mila de Vries;8011AA;62.0
+PROD0078;Books;Cookbook;I use this almost every day and it is perfect.;5.0;13-12-2021;CUST0268;Olivia Meijer;7500AA;40.0
+PROD0006;Garden;Plant Pot Set;Packaging was fine but the product did not work.;1.0;26-7-2024;CUST0107;Daan Meijer;8011AA;34.0
+PROD0117;Electronics;Wireless Headphones;Absolutely love this, highly recommended!;5.0;16-7-2024;CUST0077;Liam Dekker;7500AA;33.0
+PROD0083;Electronics;Bluetooth Speaker;Works well and feels well built.;4.0;;CUST0152;Mila Bos;7500AC;41.0
+PROD0110;Home;LED Desk Lamp;Complete waste of money.;1.0;;CUST0161;Sophie de Vries;7500AA;43.0
+PROD0110;Electronics;Wireless Headphones;Works as expected but nothing more.;3.0;29-11-2020;CUST0169;Lucas Bos;7500AB;57.0
+;Garden;Garden Hose;;3.0;19-1-2021;CUST0059;Sophie Mulder;7500AB;41.0
+PROD0089;Garden;Pruning Shears;Amazing product and very fast delivery.;5.0;;;Liam Bakker;7500AA;32.0
+PROD0014;Electronics;Smartphone Case;;5.0;31-5-2024;CUST0292;Daan Bakker;;45.0
+PROD0004;Garden;Grass Seed Mix;Fantastic quality and super easy to use.;5.0;1-6-2024;CUST0250;Liam Mulder;7500AB;44.0
+PROD0084;Electronics;Bluetooth Speaker;Top-notch build quality and performance.;5.0;20-2-2019;CUST0269;Sara Kok;7500AA;33.0
+PROD0067;Garden;Grass Seed Mix;I might buy it again if there is a discount.;3.0;26-1-2020;CUST0222;Olivia Bos;7500AC;33.0
+PROD0108;Books;Cookbook;Not amazing, not awful, just okay.;3.0;12-8-2019;CUST0006;Noah Dekker;7500AC;39.0
+PROD0010;Books;Cookbook;Amazing product and very fast delivery.;5.0;6-8-2022;CUST0124;;7500AB;35.0
+PROD0083;Home;Non-stick Frying Pan;Better than I expected for this price range.;4.0;10-7-2023;CUST0121;Liam Bos;7500AA;31.0
+PROD0012;;Jeans;Amazing product and very fast delivery.;5.0;6-1-2024;;Liam Bos;7500AC;29.0
+PROD0052;Electronics;Wireless Headphones;This has quickly become one of my favorite items.;5.0;27-5-2019;CUST0286;Finn Jansen;7500AA;29.0
+PROD0082;Clothing;Sports Socks;Complete waste of money.;1.0;13-9-2024;;Olivia Bos;7500AA;23.0
+PROD0105;Garden;Garden Hose;Works well and feels well built.;4.0;5-2-2024;CUST0170;Finn Kok;8011AA;
+PROD0015;;Pruning Shears;Absolutely love this, highly recommended!;5.0;27-6-2021;CUST0002;Lucas Meijer;7500AB;63.0
+PROD0067;Garden;Grass Seed Mix;Delivered quickly and carefully packaged.;4.0;11-3-2020;CUST0024;Noah Bos;8011AB;32.0
+PROD0033;Books;;I would consider buying another one as a gift.;4.0;13-3-2021;CUST0097;Liam Mulder;7500AA;36.0
+PROD0037;Home;LED Desk Lamp;Everything about this product is outstanding.;5.0;4-10-2022;CUST0048;Olivia Smit;7500AA;31.0
+PROD0015;Home;Non-stick Frying Pan;Top-notch build quality and performance.;5.0;27-10-2023;CUST0057;Mila Kok;8011AA;30.0
+PROD0040;Books;Productivity Guide;This has quickly become one of my favorite items.;5.0;12-4-2024;CUST0251;Mila de Vries;7500AB;35.0
+PROD0051;Clothing;Winter Jacket;Works well and feels well built.;4.0;10-8-2022;CUST0145;Sophie Bos;7500AB;39.0
+PROD0107;Clothing;Winter Jacket;This has quickly become one of my favorite items.;5.0;11-1-2020;CUST0114;;7500AA;66.0
+PROD0029;Home;Non-stick Frying Pan;;4.0;18-10-2019;CUST0031;Olivia de Vries;8011AB;38.0
+PROD0109;Home;Electric Kettle;Everything about this product is outstanding.;5.0;7-2-2023;CUST0047;Sophie Jansen;7500AB;35.0
+PROD0111;Home;Throw Pillow;Solid product, would recommend to friends.;4.0;26-12-2020;CUST0212;Emma Bakker;7500AA;70.0
+PROD0105;Garden;Grass Seed Mix;Good quality and does what it promises.;4.0;17-6-2021;CUST0295;;7500AA;20.0
+PROD0049;Clothing;Running Shoes;;4.0;22-4-2022;CUST0233;Finn Kok;8011AB;39.0
+PROD0061;Electronics;USB-C Charger;The design is fine but could be improved.;3.0;21-7-2021;CUST0027;Sara Bos;7500AC;38.0
+PROD0106;Garden;Solar Garden Lights;Average quality, nothing special.;3.0;8-3-2023;CUST0062;Finn Jansen;7500AB;42.0
+PROD0088;;Wireless Headphones;Nice design and easy to use.;;15-5-2019;CUST0092;Lucas Jansen;7500AA;40.0
+PROD0077;Garden;Grass Seed Mix;Average quality, nothing special.;3.0;23-3-2020;CUST0128;Lucas Bakker;7500AB;43.0
+PROD0089;;Electric Kettle;Solid product, would recommend to friends.;4.0;26-5-2021;CUST0033;Sophie Mulder;7500AB;35.0
+PROD0054;Electronics;Smartphone Case;Fantastic quality and super easy to use.;5.0;;CUST0204;Daan Bakker;7500AB;19.0
+PROD0115;Home;LED Desk Lamp;Average quality, nothing special.;3.0;27-7-2020;CUST0064;Sara Mulder;7500AB;32.0
+PROD0088;Home;Air Purifier;Very happy with this purchase so far.;4.0;10-5-2019;CUST0048;Sophie Mulder;8011AB;38.0
+PROD0041;Home;LED Desk Lamp;It does the job, but I am not impressed.;2.0;16-6-2021;CUST0016;Mila Jansen;7500AA;34.0
+PROD0019;Clothing;Jeans;Delivered quickly and carefully packaged.;4.0;8-1-2021;CUST0042;Daan Meijer;7500AA;37.0
