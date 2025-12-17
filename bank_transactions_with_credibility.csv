@@ -1,4 +1,4 @@
-product_id,product_category,product_name,review_description,number_stars,review_date,customer_id,customer_name,zip_code,customer_age
+product_id,product_category,product_name,transaction_description,number_stars,transaction_date,customer_id,customer_name,zip_code,customer_age
 T55868,Retail,Supermarket,Insurance premium paid.,3,2025-02-21,A4330,,5541,57.0
 T31368,Subscriptions,Streaming Service,POS transaction completed.,2,2020-09-04,A1917,Unknown,7014,31.0
 T24011,Transfers,Instant Payment,Duplicate transaction flagged.,1,2020-12-13,A6682,Sanne,4721,66.0
