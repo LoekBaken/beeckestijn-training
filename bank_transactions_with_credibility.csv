@@ -1,0 +1,501 @@
+product_id,product_category,product_name,review_description,number_stars,review_date,customer_id,customer_name,zip_code,customer_age
+T55868,Retail,Supermarket,Insurance premium paid.,3,2025-02-21,A4330,,5541,57.0
+T31368,Subscriptions,Streaming Service,POS transaction completed.,2,2020-09-04,A1917,Unknown,7014,31.0
+T24011,Transfers,Instant Payment,Duplicate transaction flagged.,1,2020-12-13,A6682,Sanne,4721,66.0
+T76902,Subscriptions,Gym Membership,Unrecognized overseas payment.,4,2019-07-20,A9565,,8587,53.0
+T29986,Salary,Employer Payroll,Monthly salary payment received.,4,2020-01-26,A4854,Fatima,1101,120.0
+T82204,Transfers,SEPA Transfer,Grocery store purchase completed.,1,2020-03-30,A3995,Lucas,3544,89.0
+T92116,Retail,Supermarket,ATM withdrawal processed.,1,2025-11-15,A1701,Unknown,2173,52.0
+T28740,Salary,Employer Payroll,Suspicious card activity detected.,1,2019-05-04,A9729,,2832,72.0
+T83335,Transfers,Instant Payment,Utility bill paid successfully.,5,2025-04-29,A6945,Sanne,5565,
+T89573,Transfers,Instant Payment,Card payment processed with delay.,3,2019-12-24,A5064,,4688,89.0
+T61560,Subscriptions,Streaming Service,Utility bill paid successfully.,4,2022-03-16,A1807,Pieter,CWXG,57.0
+T94087,Retail,Clothing Store,Suspicious card activity detected.,3,2021-01-31,A7340,Sanne,MQUJ,42.0
+T83877,Utilities,Electricity Provider,Duplicate transaction flagged.,1,2019-09-11,A9647,Lucas,2415,34.0
+T96565,Retail,Supermarket,Grocery store purchase completed.,2,2021-03-14,A1626,Pieter,8808,43.0
+T75364,Transfers,Instant Payment,Subscription renewal processed.,1,2025-06-01,A6914,Unknown,8252,54.0
+T41931,Utilities,Water Company,Duplicate transaction flagged.,2,2024-05-27,A7449,Pieter,4218,46.0
+T94766,Transfers,SEPA Transfer,Unknown merchant transaction.,3,2021-04-19,A7681,Lucas,7565,33.0
+T71289,Utilities,Water Company,Failed transfer attempt.,2,2023-07-18,A2821,Lucas,5041,
+T95942,Salary,Employer Payroll,Utility bill paid successfully.,4,2020-06-16,A1117,Fatima,3297,75.0
+T56260,Salary,Employer Payroll,Monthly salary payment received.,4,2019-06-16,A8322,Jan,6921,14.0
+T45230,Retail,Electronics Store,Failed transfer attempt.,2,2022-02-07,A8226,Sanne,1596,41.0
+T82657,Retail,Electronics Store,Utility bill paid successfully.,4,2019-05-17,A7880,Fatima,TYNE,44.0
+T46580,Utilities,Water Company,Insurance premium paid.,1,2022-07-12,A6358,,5744,69.0
+T31538,Subscriptions,Gym Membership,POS transaction completed.,3,2022-05-10,A4536,Jan,VLHW,43.0
+T75035,Transfers,SEPA Transfer,Mortgage payment processed.,4,2023-11-20,A6025,Fatima,8601,120.0
+T75969,Salary,Employer Payroll,Grocery store purchase completed.,5,2024-10-17,A8914,Lucas,5930,37.0
+T93107,Retail,###,Grocery store purchase completed.,4,2024-10-06,A8632,Lucas,2574,29.0
+T57706,Retail,Electronics Store,Grocery store purchase completed.,5,2020-11-18,A8644,Pieter,4415,67.0
+T54119,Transfers,SEPA Transfer,Grocery store purchase completed.,4,2021-05-29,A7622,Unknown,8624,21.0
+T81098,Salary,Employer Payroll,Mortgage payment processed.,4,2019-02-09,A5419,Unknown,3025,76.0
+T64103,Retail,Clothing Store,Duplicate transaction flagged.,1,2022-08-19,A3560,Fatima,JELI,44.0
+T81463,Subscriptions,Streaming Service,Failed transfer attempt.,2,2019-10-22,A3076,Lucas,9298,53.0
+T82984,Retail,Clothing Store,Failed transfer attempt.,1,2020-07-29,A4430,Jan,9472,45.0
+T15628,Salary,Employer Payroll,ATM withdrawal processed.,3,2022-10-28,A4236,Pieter,9851,37.0
+T68268,Transfers,SEPA Transfer,Unknown merchant transaction.,2,2025-08-15,A5715,,7363,22.0
+T98789,Utilities,Water Company,Grocery store purchase completed.,4,2023-04-05,,Fatima,7353,25.0
+T75598,Transfers,SEPA Transfer,Monthly salary payment received.,5,2020-04-20,A3241,Fatima,DWAT,43.0
+T98582,Retail,Clothing Store,Online transfer pending verification.,3,2019-04-10,,Lucas,8204,80.0
+T17459,Retail,Electronics Store,Insurance premium paid.,5,2023-05-18,A1653,,5097,19.0
+T51614,Subscriptions,Gym Membership,Subscription renewal processed.,3,2020-03-19,A8463,Fatima,5265,19.0
+T30823,Retail,Electronics Store,Monthly salary payment received.,4,2023-08-27,A9423,Sanne,9922,26.0
+T35506,Transfers,Instant Payment,Utility bill paid successfully.,5,2020-03-19,A5303,,7861,79.0
+T50809,Utilities,Internet Provider,Online transfer pending verification.,3,2023-06-04,A9726,Pieter,2241,66.0
+T78916,Transfers,SEPA Transfer,Suspicious card activity detected.,1,2025-08-12,A3156,Jan,9398,87.0
+T85072,Retail,Supermarket,Suspicious card activity detected.,2,2019-08-01,A9094,Lucas,ACWP,46.0
+T22854,Salary,Employer Payroll,Grocery store purchase completed.,5,2020-04-04,A2597,Unknown,9071,90.0
+T17093,Transfers,SEPA Transfer,Mortgage payment processed.,5,2023-05-23,A4590,Unknown,6594,14.0
+T93836,Retail,Clothing Store,Card payment processed with delay.,3,2020-10-24,A9545,Pieter,ITOK,70.0
+T28155,Transfers,Instant Payment,Grocery store purchase completed.,4,2019-07-19,A2831,,3349,85.0
+T54484,Retail,Clothing Store,Unknown merchant transaction.,2,2020-04-24,A5852,Pieter,3817,69.0
+T26762,Retail,Clothing Store,Suspicious card activity detected.,1,2022-11-25,A5556,Fatima,3076,66.0
+T76916,Salary,Employer Payroll,Unknown merchant transaction.,2,2023-07-05,A3227,Sanne,9977,79.0
+T60543,Subscriptions,Streaming Service,Suspicious card activity detected.,1,2023-11-27,A5711,Lucas,2582,64.0
+T41256,Subscriptions,Streaming Service,Online transfer pending verification.,3,2022-06-26,A4372,,1087,54.0
+T90846,Utilities,Electricity Provider,Mortgage payment processed.,4,2023-01-22,A1591,Sanne,7321,25.0
+T28509,Salary,Employer Payroll,Card payment processed with delay.,5,2021-02-16,A4390,,9075,50.0
+T69929,Utilities,Water Company,Utility bill paid successfully.,4,2025-05-03,A7884,Pieter,5077,75.0
+T32981,Subscriptions,Streaming Service,Subscription renewal processed. _=.^,3,2019-03-31,A8092,Unknown,4042,61.0
+T78300,Subscriptions,Streaming Service,Unrecognized overseas payment.,1,2021-03-16,,,4777,35.0
+T78549,Utilities,Internet Provider,"Card payment processed with delay. )}?,",3,2021-09-15,A2851,,4574,25.0
+T83029,Transfers,SEPA Transfer,Unknown merchant transaction.,1,2020-01-21,A8639,Jan,5527,33.0
+T39577,Retail,Clothing Store,Unrecognized overseas payment.,4,2023-06-05,A1061,Unknown,ZDCK,23.0
+T88639,Retail,###,Mortgage payment processed. )?^$,5,2021-04-28,A8667,Pieter,EINX,27.0
+T81991,Subscriptions,Streaming Service,Utility bill paid successfully.,5,2024-09-28,A2242,Lucas,2103,43.0
+T50639,Utilities,Electricity Provider,Failed transfer attempt.,2,2022-01-13,A1585,Unknown,6097,78.0
+T73073,Subscriptions,Gym Membership,Mortgage payment processed.,5,2021-11-15,A5566,Jan,7974,23.0
+T42599,Subscriptions,Gym Membership,Card payment processed with delay.,1,2020-01-13,A4922,Pieter,2287,28.0
+T35919,Subscriptions,Gym Membership,Unrecognized overseas payment.,2,2019-10-31,A4198,Sanne,4917,32.0
+T93533,Subscriptions,Streaming Service,Utility bill paid successfully. ]#`:,5,2019-03-10,A8142,Fatima,WBLK,74.0
+T50917,Transfers,SEPA Transfer,,3,2020-01-09,A8139,Pieter,5011,32.0
+T65300,Transfers,Instant Payment,Unrecognized overseas payment.,1,2023-03-20,A6341,Fatima,CQUX,38.0
+T34139,Utilities,Internet Provider,Unknown merchant transaction.,1,2020-01-31,A3102,Unknown,5954,37.0
+T55447,Retail,Supermarket,Online transfer pending verification.,3,2024-12-26,A7545,Pieter,8445,51.0
+T23586,Subscriptions,Streaming Service,POS transaction completed.,3,2025-07-17,A3441,Fatima,8995,29.0
+T50681,Salary,Employer Payroll,Subscription renewal processed.,3,2019-10-15,A3206,Jan,3748,63.0
+T17631,Subscriptions,Streaming Service,Utility bill paid successfully.,5,2023-11-11,A4959,Unknown,8403,66.0
+T65035,Transfers,Instant Payment,"Insurance premium paid. ,.@&",5,2022-09-19,A1698,,8892,46.0
+T75671,Retail,Clothing Store,Mortgage payment processed.,4,2024-07-18,A7788,,9186,90.0
+T14405,Utilities,Water Company,Card payment processed with delay.,3,2021-10-09,A8005,Lucas,1410,35.0
+T77327,Transfers,###,"Duplicate transaction flagged. *""~?",2,2022-11-19,A6301,,7736,71.0
+T11563,Retail,Supermarket,ATM withdrawal processed.,3,2024-05-25,A9052,Unknown,2129,50.0
+T16432,Transfers,###,Card payment processed with delay.,3,2021-11-25,A5619,Pieter,8849,
+T53325,Retail,Clothing Store,Mortgage payment processed.,5,2020-05-03,A9936,Sanne,4622,32.0
+T35412,Utilities,Water Company,Duplicate transaction flagged. ][:-,2,2020-01-28,A2300,Sanne,4405,68.0
+T86996,Transfers,SEPA Transfer,Failed transfer attempt.,5,2025-12-15,A7880,Pieter,5584,83.0
+T30880,Transfers,Instant Payment,Duplicate transaction flagged.,1,2019-08-31,A3316,Lucas,3396,70.0
+T66835,Subscriptions,Gym Membership,Suspicious card activity detected.,1,2021-07-10,A6150,Pieter,9060,49.0
+T68756,Utilities,Electricity Provider,Unknown merchant transaction.,1,2023-12-10,A8054,Lucas,2736,60.0
+T25403,Utilities,Water Company,Suspicious card activity detected.,4,2024-10-02,A3629,Fatima,7534,62.0
+T61755,Utilities,Internet Provider,Mortgage payment processed.,4,2023-03-16,A9071,Pieter,6123,27.0
+T39576,Subscriptions,Streaming Service,Unknown merchant transaction.,1,2019-10-20,A1075,Pieter,6039,24.0
+T44448,Retail,Clothing Store,Suspicious card activity detected.,1,2021-06-22,A6443,Lucas,7809,75.0
+T81264,Transfers,Instant Payment,,2,2022-12-06,A7526,,6099,74.0
+T24264,Salary,Employer Payroll,Failed transfer attempt.,2,2024-12-09,A3175,Lucas,3801,67.0
+T42428,Transfers,Instant Payment,Unrecognized overseas payment.,4,2023-11-11,A1204,Pieter,4343,37.0
+T81834,Transfers,Instant Payment,,2,2021-10-11,A1290,Fatima,3300,81.0
+T92965,Transfers,SEPA Transfer,Insurance premium paid.,4,2024-02-13,A3354,Lucas,UTCM,83.0
+T75874,Retail,Clothing Store,Insurance premium paid.,5,2019-07-11,A2665,Lucas,2227,66.0
+T74628,Utilities,Water Company,,1,2023-12-03,A2597,Lucas,9346,22.0
+T65793,Subscriptions,Streaming Service,Grocery store purchase completed.,1,2020-12-05,A6302,Pieter,2545,65.0
+T63164,Subscriptions,###,Utility bill paid successfully. #$$/,5,2025-02-01,A2270,Lucas,2648,39.0
+T96632,Salary,###,Mortgage payment processed.,5,2019-12-30,A3547,Pieter,4388,58.0
+T30077,Retail,Electronics Store,ATM withdrawal processed.,3,2025-04-18,A6034,,2148,46.0
+T11990,Utilities,Water Company,Suspicious card activity detected.,1,2025-05-18,A3129,Unknown,7373,18.0
+T11666,Subscriptions,Gym Membership,Duplicate transaction flagged.,2,2024-12-19,A9101,Pieter,3579,57.0
+T41639,Retail,Clothing Store,Monthly salary payment received.,5,2021-01-31,A8184,Sanne,1967,54.0
+T30355,Retail,Electronics Store,Unknown merchant transaction.,1,2022-09-14,A3628,Pieter,8965,54.0
+T21324,Utilities,Electricity Provider,Subscription renewal processed.,3,2021-11-29,A2207,Lucas,4811,35.0
+T69392,Utilities,Internet Provider,Failed transfer attempt.,1,2022-12-26,A1091,Lucas,1541,38.0
+T35418,Subscriptions,Streaming Service,Unrecognized overseas payment.,4,2024-08-31,A1598,Fatima,8024,65.0
+T45549,Retail,Electronics Store,Failed transfer attempt.,1,2021-07-20,A2877,Unknown,7603,45.0
+T34786,Retail,Supermarket,Online transfer pending verification.,3,2024-12-02,,Jan,2764,66.0
+T93626,Subscriptions,Gym Membership,POS transaction completed.,3,2021-04-21,A6582,Lucas,7807,18.0
+T75886,Utilities,Electricity Provider,Unknown merchant transaction.,2,2025-02-23,A7745,Pieter,2219,25.0
+T84916,Retail,Supermarket,Unknown merchant transaction.,1,2022-11-08,A1837,Unknown,8849,59.0
+T20959,Transfers,SEPA Transfer,Failed transfer attempt.,1,2023-03-28,A4740,,7041,30.0
+T81990,Transfers,Instant Payment,Unrecognized overseas payment.,1,2025-10-07,A3397,Sanne,6778,64.0
+T38971,Subscriptions,Gym Membership,Duplicate transaction flagged.,2,2023-07-10,A6931,Pieter,7708,49.0
+T84616,Retail,Supermarket,Unrecognized overseas payment.,1,2019-05-28,A5207,Lucas,7008,90.0
+T50914,Utilities,Internet Provider,,4,2023-02-17,A6346,Fatima,5566,29.0
+T68394,Subscriptions,Gym Membership,,3,2020-12-24,A5014,Sanne,3089,41.0
+T45248,Salary,Employer Payroll,,4,2025-01-24,A9048,Jan,NMSB,34.0
+T30514,Salary,Employer Payroll,Failed transfer attempt.,2,2021-10-07,A1691,Sanne,3547,83.0
+T68750,Utilities,Water Company,Failed transfer attempt.,4,2022-03-26,,Fatima,5506,48.0
+T66814,Transfers,Instant Payment,Duplicate transaction flagged.,2,2020-04-19,A6131,Jan,4684,76.0
+T29214,Salary,Employer Payroll,,3,2021-03-30,A2988,,9379,63.0
+T62422,Retail,Supermarket,Insurance premium paid.,5,2023-02-01,A9005,Jan,4607,21.0
+T57277,Transfers,SEPA Transfer,POS transaction completed.,3,2020-12-29,A6015,Sanne,9797,72.0
+T29605,Transfers,SEPA Transfer,Unknown merchant transaction.,2,2019-12-26,A6689,,5624,62.0
+T10402,Retail,Supermarket,POS transaction completed.,3,2025-05-02,A5220,Unknown,WOEC,14.0
+T17843,Subscriptions,Gym Membership,Suspicious card activity detected.,1,2022-03-23,A8366,Pieter,2062,74.0
+T79046,Transfers,Instant Payment,Card payment processed with delay.,3,2022-03-06,A1159,Pieter,4983,74.0
+T57701,Transfers,SEPA Transfer,Duplicate transaction flagged.,1,2023-12-05,A2812,Sanne,5465,54.0
+T48968,Transfers,Instant Payment,Grocery store purchase completed.,4,2025-02-26,A3459,Sanne,6953,59.0
+T23204,Transfers,Instant Payment,POS transaction completed.,3,2019-08-07,A1984,Sanne,7786,81.0
+T89104,Utilities,Internet Provider,,1,2024-10-04,A5133,Jan,6450,70.0
+T45577,Subscriptions,Streaming Service,Insurance premium paid.,5,2024-11-20,A1692,Sanne,2773,88.0
+T61409,Utilities,Internet Provider,POS transaction completed.,3,2024-12-10,A7620,Sanne,2854,120.0
+T44704,Transfers,Instant Payment,Mortgage payment processed.,5,2021-08-23,A2563,Lucas,9314,59.0
+T75496,Transfers,Instant Payment,Online transfer pending verification.,2,2025-05-01,A4894,Pieter,5811,48.0
+T87770,Retail,Electronics Store,Insurance premium paid.,4,2022-06-27,A3826,,9924,86.0
+T47159,Subscriptions,Streaming Service,Mortgage payment processed.,5,2022-05-15,A1827,Jan,2885,21.0
+T67714,Retail,Electronics Store,Online transfer pending verification.,1,2021-04-21,A5062,Pieter,8473,20.0
+T62877,Salary,Employer Payroll,Unrecognized overseas payment.,4,2024-02-16,A8266,Fatima,6712,45.0
+T66707,Subscriptions,Streaming Service,Unknown merchant transaction.,2,2019-10-27,A8825,Sanne,8155,51.0
+T33505,Salary,Employer Payroll,Duplicate transaction flagged.,4,2021-07-07,A7998,Lucas,7088,85.0
+T47590,Transfers,SEPA Transfer,POS transaction completed.,3,2022-01-26,A8039,Jan,MEBS,49.0
+T92249,Retail,Supermarket,Unrecognized overseas payment.,2,2024-05-16,A7106,,JLBV,45.0
+T32847,Utilities,Water Company,Mortgage payment processed.,4,2019-06-06,A2095,Sanne,4294,34.0
+T18036,Retail,Clothing Store,Suspicious card activity detected.,3,2022-09-20,A7103,Jan,9686,89.0
+T86317,Transfers,SEPA Transfer,Online transfer pending verification.,3,2019-04-19,A2470,Lucas,1790,46.0
+T49515,Subscriptions,Gym Membership,Unrecognized overseas payment.,4,2025-12-10,A2805,Sanne,6576,34.0
+T80962,Retail,Supermarket,Online transfer pending verification.,3,2019-08-31,A7754,Pieter,1856,28.0
+T20895,Salary,Employer Payroll,Grocery store purchase completed.,4,2023-04-20,A7345,Fatima,8476,30.0
+T66999,Salary,Employer Payroll,Grocery store purchase completed.,5,2019-01-22,A9473,Sanne,9744,42.0
+T45170,Transfers,SEPA Transfer,Unknown merchant transaction.,1,2023-03-28,A9118,,4799,64.0
+T94170,Salary,Employer Payroll,Grocery store purchase completed.,5,2022-01-08,A1910,Jan,4460,66.0
+T32075,Salary,Employer Payroll,Grocery store purchase completed.,5,2019-09-04,A7970,Unknown,1368,55.0
+T21431,Salary,Employer Payroll,Grocery store purchase completed.,4,2024-06-01,A5544,Unknown,4555,44.0
+T70380,Salary,Employer Payroll,Mortgage payment processed.,5,2020-06-02,A2703,Pieter,3748,46.0
+T74852,Utilities,Electricity Provider,Suspicious card activity detected.,3,2021-01-08,A1539,Lucas,4632,79.0
+T91741,Utilities,Water Company,Grocery store purchase completed.,4,2021-08-21,A7113,Jan,4285,21.0
+T79598,Retail,Electronics Store,Unknown merchant transaction.,4,2020-08-04,A2565,Jan,2289,66.0
+T22837,Salary,Employer Payroll,Insurance premium paid.,4,2025-08-18,A6568,Lucas,9236,82.0
+T39211,Transfers,SEPA Transfer,Suspicious card activity detected.,5,2020-03-15,A9290,Fatima,3879,29.0
+T37296,Utilities,Water Company,Unrecognized overseas payment.,5,2025-11-11,A3137,Lucas,3654,89.0
+T50263,Transfers,SEPA Transfer,Duplicate transaction flagged.,2,2021-06-09,A4239,,2240,66.0
+T51354,Retail,Electronics Store,Unrecognized overseas payment.,2,2022-04-25,A4351,Lucas,6912,29.0
+T33282,Subscriptions,Streaming Service,Unrecognized overseas payment.,2,2025-01-06,A8690,Fatima,DNBA,88.0
+T94237,Utilities,Water Company,Insurance premium paid.,5,2021-01-22,A3027,Jan,MICK,74.0
+T76356,Transfers,Instant Payment,Suspicious card activity detected.,1,2022-10-25,A3967,Sanne,4235,63.0
+T77232,Utilities,Internet Provider,Suspicious card activity detected.,5,2024-12-04,A3851,Lucas,3694,
+T42724,Transfers,SEPA Transfer,ATM withdrawal processed.,3,2023-01-06,A5862,Pieter,DHQI,45.0
+T51471,Utilities,Electricity Provider,Online transfer pending verification.,2,2024-02-02,A7189,Pieter,3921,64.0
+T17649,Utilities,Electricity Provider,Utility bill paid successfully.,5,2021-03-18,A2650,Pieter,4167,82.0
+T52416,Subscriptions,Gym Membership,Failed transfer attempt.,1,2024-05-01,A9279,Pieter,IJAC,65.0
+T73885,Subscriptions,Gym Membership,Mortgage payment processed.,1,2019-04-05,A1105,,4726,87.0
+T30925,Transfers,SEPA Transfer,Monthly salary payment received.,4,2020-06-30,A8244,Sanne,5111,34.0
+T37423,Retail,Supermarket,Unknown merchant transaction.,2,2023-03-09,A2181,Lucas,5355,67.0
+T60830,Salary,Employer Payroll,Mortgage payment processed.,4,2024-09-27,A4926,Sanne,7027,84.0
+T41011,Subscriptions,Streaming Service,Online transfer pending verification.,4,2019-05-11,A4533,Unknown,1916,89.0
+T50238,Transfers,Instant Payment,Mortgage payment processed.,5,2020-03-15,A4586,,6327,86.0
+T54035,Transfers,SEPA Transfer,,1,2021-04-23,A7188,Unknown,3479,55.0
+T22979,Utilities,Water Company,POS transaction completed.,2,2023-04-22,A8116,,4287,30.0
+T28078,Subscriptions,Streaming Service,Utility bill paid successfully.,4,2021-02-04,A5695,Jan,9256,120.0
+T74055,Utilities,Internet Provider,ATM withdrawal processed.,4,2019-07-30,A9417,Lucas,7223,51.0
+T92633,Transfers,SEPA Transfer,Mortgage payment processed.,4,2023-10-31,A3327,Pieter,4655,90.0
+T54079,Retail,Clothing Store,Online transfer pending verification.,3,2022-07-13,A5106,Pieter,2801,69.0
+T19579,Utilities,Water Company,Grocery store purchase completed.,4,2024-04-16,A6756,Unknown,4826,90.0
+T69093,Subscriptions,Streaming Service,POS transaction completed.,1,2025-06-07,A5051,,6802,76.0
+T40013,Salary,Employer Payroll,Mortgage payment processed.,4,2023-01-26,A7758,Lucas,PHVI,38.0
+T61213,Salary,Employer Payroll,,4,2020-03-08,A4105,,5691,40.0
+T73958,Utilities,Electricity Provider,Unknown merchant transaction.,2,2019-10-12,A2625,Pieter,7478,57.0
+T93431,Transfers,SEPA Transfer,POS transaction completed.,5,2025-08-09,A8437,,4143,71.0
+T56260,Subscriptions,Streaming Service,Unknown merchant transaction.,4,2024-07-03,A5983,,1237,67.0
+T41277,Transfers,Instant Payment,Duplicate transaction flagged.,1,2023-04-01,A2754,Sanne,4273,81.0
+T36357,Salary,Employer Payroll,Unknown merchant transaction.,1,2025-09-15,A8608,Pieter,1284,80.0
+T57757,Utilities,Internet Provider,Online transfer pending verification.,3,2023-08-17,A6156,Pieter,4013,50.0
+T14463,Utilities,Water Company,,2,2023-06-23,A5127,Sanne,4715,34.0
+T99298,Transfers,SEPA Transfer,POS transaction completed.,3,2021-12-12,A5556,Sanne,2628,22.0
+T41198,Utilities,Water Company,ATM withdrawal processed.,3,2022-01-04,A9662,Unknown,6379,62.0
+T14923,Utilities,Water Company,Mortgage payment processed. ]!*],1,2020-01-05,A9638,Unknown,6486,64.0
+T86109,Transfers,SEPA Transfer,Monthly salary payment received.,4,2020-02-05,A5641,Jan,FTIA,82.0
+T41701,Salary,Employer Payroll,Grocery store purchase completed.,4,2023-06-04,A4054,Sanne,2853,44.0
+T52755,Salary,Employer Payroll,Card payment processed with delay.,1,2021-10-12,A4510,,4576,89.0
+T46104,Retail,Clothing Store,Subscription renewal processed.,3,2020-08-12,A7058,Pieter,9580,84.0
+T14769,Salary,Employer Payroll,Monthly salary payment received.,5,2019-05-03,A7632,Lucas,PSET,53.0
+T63427,Utilities,Electricity Provider,Mortgage payment processed.,4,2021-04-12,A6680,Unknown,6041,38.0
+T11148,Retail,Supermarket,Utility bill paid successfully.,4,2022-08-11,A1606,,3901,40.0
+T38052,Salary,Employer Payroll,Grocery store purchase completed.,5,2020-08-10,A2316,Unknown,1869,87.0
+T57111,Subscriptions,Gym Membership,Unrecognized overseas payment.,2,2020-10-29,A7728,Sanne,8122,29.0
+T95577,Utilities,Internet Provider,Mortgage payment processed.,5,2023-08-09,A4000,Lucas,8545,29.0
+T46085,Subscriptions,Gym Membership,Insurance premium paid.,2,2023-08-13,A9827,Jan,6708,32.0
+T82789,Transfers,SEPA Transfer,Insurance premium paid.,5,2025-06-02,A8330,Sanne,9894,41.0
+T29385,Salary,Employer Payroll,Grocery store purchase completed.,4,2023-02-03,A5584,Pieter,9414,19.0
+T40470,Transfers,Instant Payment,Monthly salary payment received.,4,2022-03-09,,Lucas,2531,52.0
+T71509,Retail,Electronics Store,Failed transfer attempt.,1,2019-04-07,A6787,Pieter,6296,55.0
+T14435,Transfers,Instant Payment,Insurance premium paid.,4,2025-07-21,A1017,Pieter,6955,52.0
+T37588,Retail,Clothing Store,Duplicate transaction flagged.,1,2024-04-19,A2964,Jan,6737,50.0
+T91063,Utilities,Internet Provider,Monthly salary payment received.,5,2023-10-16,A8207,Sanne,7850,59.0
+T93536,Transfers,Instant Payment,Suspicious card activity detected.,2,2023-09-25,A1065,Fatima,3735,65.0
+T38208,Utilities,Internet Provider,Mortgage payment processed.,5,2022-08-30,A5053,Fatima,9972,58.0
+T69939,Salary,Employer Payroll,Insurance premium paid.,5,2023-07-26,A3385,Lucas,1551,36.0
+T22142,Transfers,Instant Payment,Unrecognized overseas payment.,2,2023-11-01,A6237,Unknown,8678,53.0
+T13196,Transfers,Instant Payment,Grocery store purchase completed.,1,2024-06-14,A7319,,6326,78.0
+T75378,Utilities,Water Company,Mortgage payment processed.,5,2021-07-06,A5453,Sanne,6504,30.0
+T39293,Utilities,Electricity Provider,Unknown merchant transaction.,5,2024-01-23,A1465,Sanne,6868,19.0
+T91219,Utilities,Electricity Provider,Unknown merchant transaction.,1,2023-08-02,A4137,Unknown,IZSF,30.0
+T33521,Utilities,Internet Provider,Subscription renewal processed.,3,2025-05-01,A3312,Fatima,9379,
+T92884,Subscriptions,Streaming Service,Failed transfer attempt.,1,2023-07-11,A8310,Sanne,1182,
+T61110,Retail,Supermarket,Grocery store purchase completed.,5,2023-04-11,A9882,Pieter,6920,38.0
+T23056,Retail,Electronics Store,Online transfer pending verification.,3,2024-03-11,A6810,Jan,5120,64.0
+T46553,Retail,Supermarket,Duplicate transaction flagged.,2,2020-02-11,A4701,Jan,7148,74.0
+T38088,Utilities,Water Company,Grocery store purchase completed.,3,2019-08-03,A8538,Jan,8313,33.0
+T37249,Transfers,Instant Payment,Mortgage payment processed.,5,2019-10-15,A7779,Fatima,1338,37.0
+T61094,Transfers,Instant Payment,POS transaction completed.,3,2025-07-08,A8192,Jan,7203,41.0
+T32451,Utilities,Water Company,Duplicate transaction flagged.,2,2021-05-02,A8937,Lucas,2395,120.0
+T83000,Utilities,Internet Provider,Suspicious card activity detected.,4,2023-03-20,A5556,Lucas,4143,49.0
+T23492,Transfers,SEPA Transfer,Unrecognized overseas payment.,2,2019-04-15,A4483,Sanne,7752,72.0
+T53044,Subscriptions,Streaming Service,Failed transfer attempt.,2,2019-10-30,A2100,Unknown,7981,20.0
+T90835,Retail,Supermarket,Suspicious card activity detected.,1,2025-11-09,A7466,Lucas,4620,81.0
+T79969,Transfers,SEPA Transfer,Duplicate transaction flagged.,2,2025-02-09,A4701,Pieter,4946,34.0
+T54920,Utilities,Water Company,Grocery store purchase completed.,5,2023-11-14,A5447,Jan,5281,38.0
+T30738,Transfers,Instant Payment,Suspicious card activity detected.,5,2025-01-15,A5150,Fatima,9837,90.0
+T77901,Utilities,Internet Provider,Suspicious card activity detected.,4,2019-10-23,A3945,Pieter,7465,58.0
+T99379,Utilities,Water Company,Monthly salary payment received.,5,2024-01-09,A9373,Pieter,2556,70.0
+T51873,Salary,Employer Payroll,Failed transfer attempt.,2,2019-12-21,A8247,Fatima,3891,85.0
+T56414,Salary,Employer Payroll,Unknown merchant transaction.,2,2019-06-20,A5159,Unknown,7103,24.0
+T28269,Utilities,###,Monthly salary payment received.,4,2025-03-20,A4940,Sanne,5905,37.0
+T50081,Utilities,Water Company,Duplicate transaction flagged.,2,2024-03-12,A8007,Pieter,1868,83.0
+T34864,Subscriptions,Streaming Service,Insurance premium paid.,5,2019-09-21,A1802,Unknown,4030,72.0
+T23679,Utilities,Electricity Provider,Grocery store purchase completed.,4,2024-02-29,A5803,Lucas,1797,52.0
+T38560,Transfers,SEPA Transfer,Subscription renewal processed.,3,2024-12-16,A7878,Lucas,8884,82.0
+T53002,Utilities,Internet Provider,Duplicate transaction flagged.,2,2021-11-10,A6365,Lucas,5041,37.0
+T85989,Retail,Supermarket,Utility bill paid successfully.,4,2022-04-26,A2050,Sanne,1222,53.0
+T61382,Subscriptions,Gym Membership,Suspicious card activity detected.,2,2020-12-14,A3827,Jan,9151,47.0
+T22922,Utilities,Internet Provider,Subscription renewal processed.,3,2023-11-16,A1551,Lucas,5249,14.0
+T76106,Subscriptions,Gym Membership,Insurance premium paid.,5,2020-05-17,A3069,Sanne,3096,73.0
+T28489,Salary,Employer Payroll,Grocery store purchase completed.,4,2024-07-27,A2972,Unknown,1117,81.0
+T94284,Salary,Employer Payroll,Duplicate transaction flagged.,1,2020-12-10,A6506,Fatima,4581,18.0
+T77824,Salary,Employer Payroll,ATM withdrawal processed.,3,2019-05-21,A5725,Unknown,1033,55.0
+T57483,Utilities,Water Company,Utility bill paid successfully.,4,2020-08-28,A4189,Pieter,4195,120.0
+T88801,Subscriptions,Gym Membership,Subscription renewal processed. ?{)<,3,2024-07-16,A4393,Sanne,2868,41.0
+T63496,Transfers,SEPA Transfer,Insurance premium paid.,5,2025-08-21,A7713,Pieter,6915,19.0
+T97183,Transfers,Instant Payment,Monthly salary payment received.,5,2024-10-31,A1929,Unknown,8540,24.0
+T26732,Utilities,Internet Provider,,2,2024-03-31,A6231,Lucas,XXDN,29.0
+T70221,Subscriptions,Gym Membership,POS transaction completed.,1,2022-01-31,A5538,Pieter,9204,54.0
+T66727,Retail,Supermarket,Grocery store purchase completed.,5,2025-07-21,A8511,Sanne,2410,24.0
+T31690,Subscriptions,Gym Membership,Card payment processed with delay.,3,2021-01-07,A5437,Unknown,2642,89.0
+T14932,Salary,Employer Payroll,POS transaction completed.,4,2024-08-29,A6709,Lucas,7846,30.0
+T48789,Utilities,Electricity Provider,ATM withdrawal processed.,5,2024-07-17,A8643,Sanne,3247,14.0
+T45298,Subscriptions,Streaming Service,Grocery store purchase completed.,5,2020-02-10,A9186,Pieter,2510,53.0
+T15816,Subscriptions,Streaming Service,Duplicate transaction flagged.,1,2023-10-25,A4302,Unknown,2503,53.0
+T90933,Transfers,SEPA Transfer,"Insurance premium paid. >""~\",5,2020-03-27,A5034,Sanne,1130,62.0
+T60832,Transfers,Instant Payment,Duplicate transaction flagged.,2,2019-12-30,A4864,,7265,19.0
+T70936,Transfers,Instant Payment,Grocery store purchase completed.,1,2022-07-28,A6116,Pieter,5249,82.0
+T68775,Utilities,Internet Provider,POS transaction completed.,4,2020-08-02,A6576,Unknown,6814,72.0
+T75454,Transfers,SEPA Transfer,Failed transfer attempt.,1,2025-04-19,A4219,,1485,27.0
+T42164,Transfers,Instant Payment,Subscription renewal processed.,1,2021-08-04,A7970,Unknown,UGRI,32.0
+T12250,Salary,Employer Payroll,Subscription renewal processed.,3,2019-07-04,A4802,,4295,76.0
+T27066,Utilities,Water Company,Unknown merchant transaction.,2,2021-11-05,A2273,Fatima,2224,81.0
+T29510,Transfers,Instant Payment,Online transfer pending verification.,3,2025-12-02,A7480,Fatima,6793,33.0
+T58716,Transfers,Instant Payment,Mortgage payment processed.,5,2022-01-26,A1239,Pieter,DLCS,44.0
+T60579,Salary,Employer Payroll,Online transfer pending verification.,1,2025-08-04,A5854,Jan,4022,27.0
+T30781,Salary,Employer Payroll,Mortgage payment processed.,3,2020-10-08,,Lucas,1598,71.0
+T64988,Transfers,Instant Payment,Failed transfer attempt.,1,2020-07-04,A6823,Sanne,3519,120.0
+T42050,Transfers,SEPA Transfer,Mortgage payment processed.,2,2025-09-29,A2710,Jan,9978,55.0
+T27161,Transfers,SEPA Transfer,Failed transfer attempt.,2,2022-06-09,A4476,,8309,37.0
+T86420,Transfers,Instant Payment,Unknown merchant transaction.,2,2019-09-06,A8996,Unknown,5621,82.0
+T17938,Transfers,SEPA Transfer,Online transfer pending verification.,3,2025-05-18,A9097,Jan,5873,82.0
+T76941,Subscriptions,Streaming Service,Subscription renewal processed.,3,2019-02-21,A7689,Lucas,8404,51.0
+T27407,Salary,Employer Payroll,Insurance premium paid.,5,2025-01-26,A8708,Fatima,5586,61.0
+T55312,Subscriptions,Gym Membership,Insurance premium paid.,5,2022-06-27,,Lucas,4358,45.0
+T21081,Retail,Supermarket,ATM withdrawal processed.,3,2024-11-23,A4699,,5715,
+T91025,Transfers,Instant Payment,Failed transfer attempt.,1,2019-12-20,A8771,Lucas,BZNU,67.0
+T93097,Transfers,Instant Payment,Grocery store purchase completed.,4,2021-07-31,A4856,Unknown,7489,70.0
+T68929,Subscriptions,Gym Membership,Card payment processed with delay.,3,2024-10-16,A4821,Jan,2918,37.0
+T13035,Subscriptions,Gym Membership,Unrecognized overseas payment.,2,2021-08-05,A1111,Unknown,3070,87.0
+T23591,Retail,Electronics Store,Suspicious card activity detected.,1,2020-01-16,A5820,Lucas,4231,89.0
+T78749,Utilities,Water Company,Duplicate transaction flagged.,1,2019-09-07,A7052,Lucas,XRTJ,72.0
+T29477,Transfers,Instant Payment,Utility bill paid successfully.,5,2025-06-17,A5598,Lucas,XQYX,64.0
+T38794,Salary,Employer Payroll,Duplicate transaction flagged.,3,2020-01-27,A6809,Pieter,2078,38.0
+T42797,Subscriptions,Streaming Service,"Unrecognized overseas payment. ,^]_",2,2019-06-10,A3045,,1115,24.0
+T28556,Subscriptions,Streaming Service,Utility bill paid successfully.,5,2024-10-15,A8107,,4082,42.0
+T34001,Transfers,Instant Payment,,1,2024-03-29,A8030,Pieter,JJPC,34.0
+T99907,Utilities,Internet Provider,Utility bill paid successfully.,4,2020-01-28,A3370,Fatima,7477,88.0
+T56589,Salary,Employer Payroll,ATM withdrawal processed.,3,2019-02-23,A5799,Pieter,2267,56.0
+T56714,Retail,Electronics Store,Grocery store purchase completed.,4,2019-04-10,A6189,Fatima,2220,44.0
+T53427,Utilities,Internet Provider,Utility bill paid successfully.,4,2022-08-11,A5505,Unknown,5349,47.0
+T81177,Subscriptions,Gym Membership,Unknown merchant transaction.,1,2025-06-04,A9062,Unknown,1221,53.0
+T35539,Utilities,Water Company,Utility bill paid successfully.,5,2025-04-21,A2470,Lucas,2835,68.0
+T93748,Retail,Supermarket,"Suspicious card activity detected. *\,]",2,2021-01-09,A7005,Unknown,5485,39.0
+T38223,Transfers,SEPA Transfer,Mortgage payment processed.,4,2023-12-04,A8637,Jan,6980,46.0
+T97434,Subscriptions,Streaming Service,Monthly salary payment received.,3,2025-02-05,A2015,Lucas,4993,23.0
+T73953,Transfers,SEPA Transfer,Mortgage payment processed.,5,2022-06-11,A9494,Pieter,5538,53.0
+T87991,Salary,Employer Payroll,Monthly salary payment received.,4,2020-05-09,A2993,Fatima,2005,43.0
+T99830,Retail,Supermarket,Suspicious card activity detected.,2,2024-10-23,A7462,Lucas,2070,82.0
+T29509,Salary,Employer Payroll,Insurance premium paid.,1,2020-05-31,A8666,Fatima,1974,19.0
+T71863,Transfers,Instant Payment,Online transfer pending verification.,4,2024-05-27,A1973,,6783,58.0
+T63784,Subscriptions,Gym Membership,Grocery store purchase completed.,5,2022-11-04,,,8612,64.0
+T35387,Subscriptions,Gym Membership,Monthly salary payment received.,4,2025-07-20,A1216,Pieter,LTBR,82.0
+T71374,Transfers,SEPA Transfer,Grocery store purchase completed.,4,2022-10-06,A6381,Lucas,7818,32.0
+T22279,Utilities,Electricity Provider,Utility bill paid successfully.,2,2022-12-20,A1546,,WERU,42.0
+T42019,Subscriptions,Streaming Service,Duplicate transaction flagged.,2,2020-03-28,A9118,Fatima,4076,73.0
+T59013,Transfers,SEPA Transfer,ATM withdrawal processed.,4,2025-07-04,A6723,Pieter,ZXMD,84.0
+T25757,Salary,Employer Payroll,Mortgage payment processed.,5,2019-12-14,A5762,Pieter,6119,40.0
+T13869,Retail,Supermarket,Suspicious card activity detected.,2,2025-02-27,A5856,Unknown,4760,31.0
+T20616,Transfers,Instant Payment,Online transfer pending verification.,3,2019-03-19,A7649,Lucas,2257,14.0
+T90930,Retail,Clothing Store,Subscription renewal processed.,3,2025-10-13,A7924,Unknown,4925,83.0
+T37372,Utilities,Electricity Provider,Online transfer pending verification.,3,2019-01-13,A9487,,3860,34.0
+T41688,Retail,Supermarket,Suspicious card activity detected.,2,2023-12-28,A2956,Fatima,7967,25.0
+T25197,Subscriptions,Streaming Service,Unknown merchant transaction.,2,2021-02-26,A6656,Lucas,1911,37.0
+T78379,Salary,Employer Payroll,Suspicious card activity detected.,5,2021-01-01,A1245,Unknown,3053,46.0
+T18217,Retail,Clothing Store,POS transaction completed.,3,2022-10-30,A5049,Lucas,7508,80.0
+T62487,Subscriptions,Gym Membership,Unknown merchant transaction.,2,2019-01-15,A2291,,7385,54.0
+T93394,Transfers,SEPA Transfer,Grocery store purchase completed.,4,2019-02-24,A6970,Sanne,8960,65.0
+T50479,Salary,Employer Payroll,Subscription renewal processed.,3,2022-08-04,A8755,Unknown,NCQE,26.0
+T41413,Utilities,Internet Provider,Mortgage payment processed.,5,2022-03-06,A6657,,6309,72.0
+T46556,Utilities,Water Company,,1,2024-02-16,A4948,Jan,PTZW,41.0
+T55852,Salary,Employer Payroll,,5,2022-06-18,A4662,Jan,2876,90.0
+T30365,Utilities,Electricity Provider,Mortgage payment processed.,5,2022-08-20,A8511,Sanne,1449,40.0
+T25026,Retail,Supermarket,Unrecognized overseas payment.,2,2023-02-04,A3788,Pieter,4326,73.0
+T88768,Salary,Employer Payroll,Duplicate transaction flagged.,1,2019-04-04,A3927,Sanne,MHKN,18.0
+T29519,Retail,Supermarket,Failed transfer attempt.,2,2024-02-19,A3621,Sanne,9738,33.0
+T15776,Salary,Employer Payroll,Utility bill paid successfully.,4,2021-02-26,A1209,Pieter,9694,35.0
+T52631,Utilities,Electricity Provider,Card payment processed with delay.,4,2019-05-31,A9367,Lucas,1534,34.0
+T88460,Retail,Electronics Store,ATM withdrawal processed.,3,2020-07-15,A6257,,1627,72.0
+T98185,Transfers,Instant Payment,Failed transfer attempt.,3,2024-06-27,A5946,Lucas,9591,36.0
+T93059,Retail,Supermarket,Insurance premium paid.,5,2019-07-13,A2698,Sanne,1071,23.0
+T38934,Utilities,Water Company,Unrecognized overseas payment.,2,2019-09-23,A1615,Sanne,2008,38.0
+T84821,Retail,Supermarket,Utility bill paid successfully.,5,2020-12-07,A6698,Pieter,5922,35.0
+T70323,Retail,Clothing Store,Suspicious card activity detected.,2,2024-01-23,,,8397,24.0
+T12606,Subscriptions,Gym Membership,Failed transfer attempt.,1,2023-02-22,A9731,Lucas,6883,38.0
+T54652,Utilities,Electricity Provider,Suspicious card activity detected.,1,2024-09-11,A8932,Fatima,8286,29.0
+T60806,Subscriptions,Streaming Service,Insurance premium paid.,4,2019-09-26,A8705,Fatima,6556,75.0
+T87470,Transfers,Instant Payment,Card payment processed with delay.,2,2020-12-13,A8244,Pieter,8931,33.0
+T20406,Utilities,Internet Provider,Utility bill paid successfully.,4,2022-03-28,,Unknown,1645,87.0
+T57306,Retail,Electronics Store,Insurance premium paid.,5,2024-11-04,A3249,Pieter,1323,49.0
+T45399,Utilities,Internet Provider,POS transaction completed.,3,2021-06-26,A6569,,9359,57.0
+T31419,Subscriptions,Gym Membership,Insurance premium paid.,1,2023-06-01,A7125,Unknown,6105,42.0
+T15911,Salary,Employer Payroll,Unrecognized overseas payment.,1,2019-12-15,A2700,Pieter,5402,62.0
+T22990,Salary,Employer Payroll,Failed transfer attempt.,1,2022-04-13,A8191,,3443,19.0
+T96224,Transfers,Instant Payment,Suspicious card activity detected.,2,2021-08-15,A5588,,6914,33.0
+T38287,Salary,Employer Payroll,Grocery store purchase completed.,4,2023-04-11,A6078,Pieter,2499,78.0
+T16837,Subscriptions,Streaming Service,Subscription renewal processed.,3,2022-07-29,A3579,Lucas,ZOZJ,53.0
+T24601,Utilities,Water Company,ATM withdrawal processed.,3,2020-07-12,A4621,Jan,SZMI,64.0
+T38386,Transfers,Instant Payment,Grocery store purchase completed.,4,2022-01-24,A5590,Sanne,8779,57.0
+T27277,Salary,Employer Payroll,Monthly salary payment received.,4,2022-02-05,A7154,Jan,5051,44.0
+T42020,Subscriptions,Streaming Service,Unknown merchant transaction.,2,2024-05-20,A4081,Fatima,7585,84.0
+T67732,Salary,Employer Payroll,Mortgage payment processed.,5,2024-12-20,A9319,Sanne,5228,18.0
+T40035,Retail,Clothing Store,Mortgage payment processed. &@:!,4,2022-07-25,A9708,,3562,50.0
+T80485,Transfers,Instant Payment,Unknown merchant transaction.,1,2025-05-20,A2297,Lucas,3201,22.0
+T33729,Utilities,###,Online transfer pending verification.,1,2025-09-19,A1208,Sanne,QDNR,57.0
+T40965,Salary,Employer Payroll,Unknown merchant transaction.,5,2023-06-19,A7252,Unknown,BDWR,78.0
+T51518,Retail,Clothing Store,POS transaction completed.,4,2021-07-23,A1874,Sanne,GREB,74.0
+T32891,Utilities,Electricity Provider,Grocery store purchase completed.,4,2025-09-03,A5356,Lucas,8296,29.0
+T78420,Transfers,Instant Payment,Insurance premium paid.,5,2019-09-16,A1559,Lucas,5420,14.0
+T81423,Utilities,Electricity Provider,Unknown merchant transaction.,1,2020-05-15,A6939,,6476,44.0
+T31587,Subscriptions,Gym Membership,Monthly salary payment received.,5,2022-02-05,A6403,Unknown,8022,27.0
+T96652,Subscriptions,Streaming Service,Utility bill paid successfully.,1,2021-06-21,A2432,Lucas,4913,26.0
+T13030,Salary,Employer Payroll,Failed transfer attempt.,1,2023-07-16,A1093,Unknown,9860,31.0
+T45567,Utilities,Water Company,Unrecognized overseas payment.,1,2019-07-17,A2560,Jan,6504,87.0
+T95451,Retail,Supermarket,Monthly salary payment received.,5,2023-01-05,A5169,Jan,5365,81.0
+T61830,Retail,Electronics Store,Grocery store purchase completed.,1,2021-10-18,A4071,Sanne,6932,61.0
+T46586,Utilities,Water Company,ATM withdrawal processed. }'>[,3,2023-12-13,A8210,Sanne,3163,54.0
+T58317,Salary,Employer Payroll,Monthly salary payment received.,5,2021-06-11,A2733,Sanne,5938,60.0
+T30738,Retail,Electronics Store,,5,2025-11-20,A2093,Sanne,7830,18.0
+T32542,Utilities,Internet Provider,Utility bill paid successfully.,1,2021-07-26,A3047,Lucas,9875,46.0
+T45880,Transfers,###,Duplicate transaction flagged.,2,2023-07-23,,Pieter,3321,74.0
+T68210,Subscriptions,Streaming Service,Unrecognized overseas payment.,2,2020-10-04,A5460,,9932,90.0
+T81814,Retail,Supermarket,Suspicious card activity detected.,2,2021-01-06,A7160,Unknown,4779,83.0
+T19303,Subscriptions,Gym Membership,Failed transfer attempt.,1,2019-09-24,A9714,Pieter,7761,32.0
+T91928,Subscriptions,Gym Membership,,4,2021-04-08,A7686,Fatima,XGXC,79.0
+T14343,Retail,Clothing Store,Unrecognized overseas payment.,2,2020-12-26,A7087,Sanne,5348,76.0
+T41267,Utilities,Electricity Provider,Failed transfer attempt.,2,2019-10-19,A5410,Pieter,6922,57.0
+T34675,Transfers,Instant Payment,Duplicate transaction flagged.,2,2020-07-21,A6523,Sanne,1265,90.0
+T68554,Subscriptions,Streaming Service,Online transfer pending verification.,3,2024-02-18,A8380,Lucas,3681,21.0
+T83711,Transfers,Instant Payment,Suspicious card activity detected.,2,2021-05-18,A9806,,9292,74.0
+T71299,Salary,Employer Payroll,POS transaction completed.,3,2023-11-30,A6410,Fatima,5698,61.0
+T23739,Subscriptions,Gym Membership,Duplicate transaction flagged.,1,2020-12-29,A5911,Jan,3061,50.0
+T21672,Retail,Supermarket,Mortgage payment processed.,4,2024-09-10,A2228,Pieter,8889,18.0
+T16946,Subscriptions,Gym Membership,Monthly salary payment received.,5,2023-06-08,A6422,Jan,3054,31.0
+T87380,Salary,Employer Payroll,Suspicious card activity detected.,2,2023-08-02,A4067,Fatima,9323,14.0
+T46993,Retail,Clothing Store,Failed transfer attempt.,3,2019-11-08,A5803,Pieter,2923,39.0
+T26194,Utilities,Electricity Provider,Monthly salary payment received.,4,2019-01-19,A7701,Pieter,9933,34.0
+T96659,Retail,Electronics Store,Grocery store purchase completed.,4,2024-11-15,A3964,Sanne,5248,47.0
+T32206,Salary,Employer Payroll,Subscription renewal processed.,3,2022-01-28,A5521,Sanne,9104,82.0
+T85680,Subscriptions,Streaming Service,Unrecognized overseas payment.,2,2019-10-19,A6769,Unknown,5452,70.0
+T62765,Utilities,Internet Provider,Suspicious card activity detected.,2,2019-08-04,A3308,Fatima,PDDB,84.0
+T13124,Subscriptions,Gym Membership,Subscription renewal processed.,4,2025-03-20,A5003,Unknown,9287,62.0
+T94904,Utilities,Internet Provider,Failed transfer attempt.,2,2025-04-15,A5725,Pieter,JTLG,40.0
+T48468,Subscriptions,Gym Membership,Grocery store purchase completed.,3,2020-04-11,A2309,Lucas,3815,58.0
+T96968,Subscriptions,Streaming Service,Failed transfer attempt.,1,2025-05-27,A6759,Pieter,4361,67.0
+T89523,Transfers,Instant Payment,POS transaction completed. ;%.$,1,2022-11-13,A7803,Fatima,6633,35.0
+T98829,Salary,Employer Payroll,Suspicious card activity detected. {]~!,2,2022-12-27,A2130,Unknown,8872,40.0
+T85312,Salary,Employer Payroll,Grocery store purchase completed.,3,2023-09-11,A1005,Unknown,9969,34.0
+T90922,Transfers,SEPA Transfer,Unknown merchant transaction.,1,2024-07-08,A9736,Pieter,2500,62.0
+T24629,Salary,Employer Payroll,Monthly salary payment received.,4,2022-05-11,A3013,Jan,9327,48.0
+T21695,Transfers,Instant Payment,Suspicious card activity detected.,2,2022-02-12,A2782,Lucas,1662,86.0
+T14709,Retail,Clothing Store,Unrecognized overseas payment.,2,2020-06-19,A6470,,5324,27.0
+T90508,Utilities,Electricity Provider,Duplicate transaction flagged.,2,2019-01-06,A3712,Pieter,9342,73.0
+T90669,Retail,Supermarket,,4,2023-02-02,A3600,Jan,9605,45.0
+T53662,Retail,Electronics Store,Failed transfer attempt.,2,2025-08-02,A3938,Jan,6114,49.0
+T71682,Subscriptions,Gym Membership,Grocery store purchase completed.,5,2020-06-28,A5632,Unknown,2061,31.0
+T79762,Utilities,Electricity Provider,Insurance premium paid.,1,2021-10-24,A6497,Sanne,5836,34.0
+T44986,Utilities,Internet Provider,Subscription renewal processed.,3,2024-05-25,A3721,,6260,45.0
+T47598,Transfers,SEPA Transfer,Unknown merchant transaction.,2,2020-11-17,A5320,Unknown,7823,53.0
+T33553,Utilities,Internet Provider,Mortgage payment processed.,4,2020-02-14,A1550,Lucas,5310,
+T50924,Salary,Employer Payroll,Duplicate transaction flagged.,4,2024-12-16,A4293,Jan,3023,58.0
+T38872,Retail,Electronics Store,Mortgage payment processed.,4,2023-07-06,A3318,,7172,70.0
+T65412,Subscriptions,###,Duplicate transaction flagged.,2,2019-08-30,A1717,Sanne,3340,43.0
+T80729,Subscriptions,Gym Membership,Mortgage payment processed.,5,2020-11-18,A9483,Pieter,3461,90.0
+T38224,Subscriptions,Streaming Service,Failed transfer attempt.,3,2025-01-03,A7562,Fatima,5854,47.0
+T82434,Subscriptions,Streaming Service,Duplicate transaction flagged.,1,2023-12-07,A2997,Lucas,LESS,22.0
+T92805,Salary,Employer Payroll,Duplicate transaction flagged.,1,2023-04-03,A9055,Fatima,5349,48.0
+T35857,Subscriptions,Streaming Service,Suspicious card activity detected.,2,2023-06-25,A8512,Fatima,1726,22.0
+T99363,Retail,Clothing Store,Unknown merchant transaction.,4,2020-04-09,A9389,Jan,4201,33.0
+T30709,Salary,Employer Payroll,Online transfer pending verification.,3,2020-12-02,A9815,Sanne,8291,53.0
+T99256,Subscriptions,Streaming Service,ATM withdrawal processed.,3,2023-09-25,,Unknown,7382,41.0
+T93216,Retail,Electronics Store,Card payment processed with delay.,3,2022-10-23,A9834,Fatima,9876,61.0
+T97230,Salary,Employer Payroll,Duplicate transaction flagged.,2,2021-09-21,A7796,Pieter,2894,62.0
+T99709,Utilities,Internet Provider,Suspicious card activity detected.,2,2023-03-08,A4482,,7105,46.0
+T98771,Utilities,Internet Provider,Monthly salary payment received.,2,2021-10-13,A4423,Jan,7759,31.0
+T68743,Transfers,SEPA Transfer,Suspicious card activity detected.,1,2023-05-27,A2973,Fatima,8283,57.0
+T45765,Transfers,SEPA Transfer,Unknown merchant transaction.,1,2025-11-29,A3382,Lucas,2297,79.0
+T83631,Salary,Employer Payroll,Online transfer pending verification.,3,2025-08-25,A4199,Jan,7900,80.0
+T99994,Retail,Electronics Store,Insurance premium paid.,4,2025-06-24,A3359,Pieter,9996,42.0
+T49640,Transfers,Instant Payment,Grocery store purchase completed.,5,2019-12-26,A8285,Fatima,DYBG,23.0
+T99554,Salary,Employer Payroll,Monthly salary payment received.,5,2019-03-05,A9380,Fatima,4688,57.0
+T73168,Subscriptions,Gym Membership,Failed transfer attempt.,1,2025-04-28,A3926,Pieter,5771,14.0
+T63428,Transfers,Instant Payment,Suspicious card activity detected.,1,2021-09-28,A5636,Sanne,5343,71.0
+T13941,Utilities,Electricity Provider,Duplicate transaction flagged.,2,2025-10-20,A3704,,8140,58.0
+T11112,Retail,Clothing Store,Mortgage payment processed.,5,2023-07-04,A5262,Jan,4838,43.0
+T60774,Salary,Employer Payroll,POS transaction completed.,3,2022-02-26,A4367,Fatima,6472,62.0
+T23357,Utilities,Electricity Provider,Grocery store purchase completed.,4,2023-08-03,A2148,Jan,1281,25.0
+T57783,Utilities,Internet Provider,Suspicious card activity detected.,2,2019-09-26,A6752,Lucas,2087,79.0
+T57355,Subscriptions,###,Suspicious card activity detected.,2,2025-12-17,A1641,Unknown,7767,42.0
+T87397,Salary,Employer Payroll,Suspicious card activity detected.,2,2023-06-04,A8064,Pieter,4980,88.0
+T54132,Retail,Electronics Store,Insurance premium paid.,3,2023-02-07,A5727,Sanne,9887,43.0
+T35478,Subscriptions,Gym Membership,Failed transfer attempt.,4,2020-04-03,A9213,,6448,45.0
+T77816,Transfers,Instant Payment,Subscription renewal processed.,3,2021-06-21,A2867,Jan,8252,87.0
+T33461,Transfers,Instant Payment,ATM withdrawal processed.,4,2024-01-20,A5797,Sanne,LNWC,80.0
+T30426,Salary,Employer Payroll,Unknown merchant transaction.,2,2021-08-03,A1574,,9046,80.0
+T59060,Transfers,Instant Payment,ATM withdrawal processed.,2,2025-10-07,A1517,Sanne,4394,82.0
+T79911,Salary,Employer Payroll,Insurance premium paid.,5,2025-07-06,A4756,Jan,7245,63.0
+T93001,Subscriptions,Streaming Service,Unknown merchant transaction.,1,2021-04-10,A8726,Sanne,HAFR,28.0
+T81239,Transfers,SEPA Transfer,Suspicious card activity detected.,1,2022-07-11,A8730,Pieter,4943,33.0
+T20093,Retail,Clothing Store,Subscription renewal processed.,3,2019-12-12,A5854,Unknown,5044,72.0
+T30190,Subscriptions,Streaming Service,Suspicious card activity detected.,1,2021-04-16,A8486,Pieter,7306,120.0
+T92887,Salary,Employer Payroll,Monthly salary payment received.,4,2019-06-29,A1668,Fatima,9985,72.0
+T53004,Salary,Employer Payroll,Grocery store purchase completed.,4,2024-01-31,A4028,,5607,37.0
+T14958,Utilities,Electricity Provider,Unrecognized overseas payment.,2,2021-06-11,A9762,Fatima,4314,88.0
+T59982,Utilities,Electricity Provider,POS transaction completed.,2,2025-04-17,A2320,Sanne,YTAW,42.0
+T34354,Utilities,Internet Provider,Mortgage payment processed.,5,2022-12-05,A7792,Pieter,7920,70.0
+T24248,Utilities,Internet Provider,Card payment processed with delay.,1,2025-06-05,A4747,Pieter,9010,90.0
+T81254,Subscriptions,Streaming Service,Failed transfer attempt.,1,2024-06-16,A4497,Pieter,6457,57.0
+T84959,Transfers,SEPA Transfer,Card payment processed with delay.,3,2020-06-10,A2075,Sanne,6025,19.0
+T62937,Transfers,Instant Payment,Grocery store purchase completed.,5,2023-07-30,A2683,Unknown,UIIN,75.0
+T12964,Retail,Clothing Store,Card payment processed with delay.,3,2019-11-04,A3221,,ASJT,19.0
+T77262,Subscriptions,Streaming Service,Card payment processed with delay.,1,2024-10-31,A8724,Unknown,8498,35.0
+T80697,Salary,Employer Payroll,Grocery store purchase completed.,5,2023-04-28,A6778,Unknown,YEUF,44.0
+T71285,Salary,Employer Payroll,Mortgage payment processed.,2,2025-10-30,A5379,Pieter,2392,18.0
+T80029,Retail,Clothing Store,Insurance premium paid.,5,2024-07-20,A6172,Jan,WNVX,39.0
+T15602,Retail,Electronics Store,Mortgage payment processed.,5,2022-08-24,A6295,Sanne,8612,68.0
+T40554,Subscriptions,Gym Membership,Failed transfer attempt.,2,2020-05-10,A5676,Pieter,4702,54.0
+T12874,Transfers,Instant Payment,,4,2022-05-03,A5046,Sanne,1127,36.0
+T86987,Salary,Employer Payroll,Unrecognized overseas payment.,1,2025-04-27,A4255,Fatima,2910,73.0
+T91746,Transfers,Instant Payment,Card payment processed with delay.,4,2025-11-25,A8410,Sanne,7921,18.0
+T46338,Subscriptions,Streaming Service,Utility bill paid successfully.,5,2022-11-03,A7828,Lucas,8774,72.0
+T74166,Transfers,SEPA Transfer,Subscription renewal processed.,3,2023-06-05,A4997,Fatima,1593,43.0
+T70539,Utilities,Water Company,Mortgage payment processed.,4,2025-04-05,A7985,Fatima,1126,35.0
+T58412,Salary,Employer Payroll,Unrecognized overseas payment.,2,2021-06-17,A9554,Lucas,9216,25.0
+T51165,Transfers,Instant Payment,Duplicate transaction flagged.,1,2020-07-06,A9368,Sanne,1632,
+T36756,Retail,Clothing Store,Insurance premium paid.,1,2019-08-05,A9637,Lucas,3601,81.0
+T63761,Salary,Employer Payroll,Online transfer pending verification.,3,2021-01-23,A5990,Fatima,8269,73.0
+T63672,Retail,Supermarket,Duplicate transaction flagged.,1,2019-10-30,A9347,Unknown,4426,38.0
+T89619,Subscriptions,Gym Membership,Online transfer pending verification.,3,2022-06-22,A4510,Jan,4187,120.0
+T58680,Retail,Electronics Store,Duplicate transaction flagged.,1,2022-01-10,A1811,Fatima,6894,38.0
+T87624,Transfers,SEPA Transfer,,3,2022-11-17,A9581,Jan,4164,68.0
+T32344,Retail,Clothing Store,Duplicate transaction flagged.,3,2025-10-28,A2647,Lucas,3977,60.0
