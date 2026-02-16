@@ -1,0 +1,193 @@
+campaign_id,platform,post_type,likes,shares,comments,impressions,engagement_rate,post_date,age_group,campaign_theme
+CMP-2025-001,Instagram,Video,-10,15739,3271,2622821,3.72,2025-03-29,35-44,Sustainable Retail Transformation
+CMP-2025-007,LinkedIn,Carousel,-25,3784,5052,344664,20.57,2025-09-08,35-44,ClimateTech Awareness
+CMP-2025-002,TikTok,Carousel,-5,17829,6349,383255,28.26,2025-07-09,25-34,Urban Mobility Electrification
+CMP-2025-004,TikTok,Video,-100,8627,7204,1870717,1.16,2025-05-18,55+,AI-Driven Operations
+CMP-2025-006,TikTok,Story,-1,3168,1404,259534,9.39,2025-07-31,55+,FinTech Expansion
+CMP-2025-007,X,Carousel,72561,1998,6342,955257,150.0,2025-10-02,45-54,ClimateTech Awareness
+CMP-2025-001,LinkedIn,Image,30886,15606,4896,2403137,220.0,2025-09-15,55+,Sustainable Retail Transformation
+CMP-2025-007,LinkedIn,Video,74905,4831,1970,2168689,175.0,2025-03-27,25-34,ClimateTech Awareness
+CMP-2025-001,LinkedIn,Video,16539,1398,6936,809351,3.07,2025-11-18,25-34,Sustainable Retail Transformation
+CMP-2025-001,LinkedIn,Story,33801,10477,1097,2496810,1.82,2025-07-23,55+,Sustainable Retail Transformation
+CMP-2025-007,Instagram,Story,36202,17029,7506,1368874,4.44,2025-10-28,55+,ClimateTech Awareness
+CMP-2025-002,X,Story,14748,13580,2451,1760904,1.75,2025-10-26,18-24,Urban Mobility Electrification
+CMP-2025-007,X,Reel,73752,3309,4687,444064,18.41,2025-07-30,35-44,ClimateTech Awareness
+CMP-2025-005,LinkedIn,Image,85824,15911,9372,1607600,6.91,2025-03-30,35-44,Carbon Footprint Reduction
+CMP-2025-001,LinkedIn,Reel,18855,19944,6581,1691195,2.68,2025-12-20,,Sustainable Retail Transformation
+CMP-2025-003,Instagram,Reel,97746,15571,4400,207741,56.67,2025-06-05,35-44,Marketplace Seller Growth
+CMP-2025-002,TikTok,Carousel,64437,3218,3734,1176859,6.07,2025-06-14,35-44,Urban Mobility Electrification
+CMP-2025-004,Facebook,Carousel,79295,2925,3079,1749071,4.88,2025-09-06,55+,AI-Driven Operations
+CMP-2025-001,TikTok,Story,7367,16884,2604,1569293,1.71,2025-07-26,25-34,Sustainable Retail Transformation
+CMP-2025-002,Facebook,Image,74537,948,2846,2200015,3.56,2025-05-08,18-24,Urban Mobility Electrification
+CMP-2025-003,TikTok,Carousel,6626,11808,3262,1915484,1.13,2025-09-16,,Marketplace Seller Growth
+CMP-2025-003,LinkedIn,Story,16236,1001,3963,2666101,0.8,2025-08-17,,Marketplace Seller Growth
+CMP-2025-003,Facebook,Reel,76923,18066,5730,1991542,5.06,2025-12-19,18-24,Marketplace Seller Growth
+CMP-2025-002,X,Video,3597,12666,813,1196667,1.43,2025-04-24,25-34,Urban Mobility Electrification
+CMP-2025-005,Instagram,Image,27096,8817,6709,2843459,1.5,2025-08-31,25-34,Carbon Footprint Reduction
+CMP-2025-002,TikTok,Story,22701,19698,138,2716273,1.57,2025-06-06,35-44,Urban Mobility Electrification
+CMP-2025-003,Facebook,Carousel,49345,11426,7520,1778574,3.84,2025-06-04,55+,Marketplace Seller Growth
+CMP-2025-001,X,Reel,52055,19152,1676,2616593,2.79,2025-10-15,55+,Sustainable Retail Transformation
+CMP-2025-004,Instagram,Reel,37051,9780,1771,2555541,1.9,2025-05-22,35-44,AI-Driven Operations
+CMP-2025-002,X,Video,34229,9790,3086,1162339,4.05,2025-01-30,55+,Urban Mobility Electrification
+CMP-2025-006,Instagram,Carousel,86577,10472,2292,1695911,5.86,2025-06-01,35-44,FinTech Expansion
+CMP-2025-005,X,Video,53031,12722,578,1756591,3.78,2025-06-25,25-34,Carbon Footprint Reduction
+CMP-2025-005,TikTok,Video,70075,15588,5873,2879626,3.18,2025-12-03,55+,Carbon Footprint Reduction
+CMP-2025-002,TikTok,Story,38506,3198,7713,760738,6.5,2025-04-04,35-44,Urban Mobility Electrification
+CMP-2025-002,TikTok,Carousel,11704,7282,5820,2745897,0.9,2025-06-19,35-44,Urban Mobility Electrification
+CMP-2025-007,Instagram,Carousel,76751,9635,7598,1093864,8.59,2025-01-28,55+,ClimateTech Awareness
+CMP-2025-002,X,Image,81350,2333,7736,2435009,3.75,2025-12-15,45-54,Urban Mobility Electrification
+CMP-2025-007,Facebook,Video,39106,13536,885,2223303,2.41,2025-04-13,35-44,ClimateTech Awareness
+CMP-2025-003,Facebook,Image,74632,14993,2346,1717274,5.36,2025-09-07,35-44,Marketplace Seller Growth
+CMP-2025-001,LinkedIn,Reel,23176,10269,950,2647743,1.3,2025-04-18,25-34,Sustainable Retail Transformation
+CMP-2025-002,X,Carousel,20766,16042,1442,2418088,1.58,2025-11-21,45-54,Urban Mobility Electrification
+CMP-2025-001,Instagram,Story,56233,15643,6280,1692954,4.62,2025-04-13,35-44,Sustainable Retail Transformation
+CMP-2025-001,Instagram,Video,42233,17400,3122,60043,104.52,2025-04-26,35-44,Sustainable Retail Transformation
+CMP-2025-005,X,Reel,16899,3365,6284,1310009,2.03,2025-03-27,18-24,Carbon Footprint Reduction
+CMP-2025-006,X,Story,39085,9529,7469,192756,29.1,2025-09-26,35-44,FinTech Expansion
+CMP-2025-004,TikTok,Video,90017,4384,5615,1819923,5.5,2025-03-26,45-54,AI-Driven Operations
+CMP-2025-002,Instagram,Story,29939,7350,2149,81214,48.56,2025-09-16,25-34,Urban Mobility Electrification
+CMP-2025-006,TikTok,Story,48049,1224,6147,517578,10.71,2025-11-16,18-24,FinTech Expansion
+CMP-2025-001,Instagram,Carousel,6286,3542,323,2492098,0.41,2025-08-16,,Sustainable Retail Transformation
+CMP-2025-006,Facebook,Video,71733,8281,7772,519395,16.9,2025-12-22,18-24,FinTech Expansion
+CMP-2025-003,X,Story,55164,3308,8524,1263973,5.3,2025-12-25,25-34,Marketplace Seller Growth
+CMP-2025-003,Instagram,Image,13751,16763,1928,1757682,1.85,2025-09-12,25-34,Marketplace Seller Growth
+CMP-2025-002,TikTok,Carousel,26181,8617,8571,2555338,1.7,2025-06-01,25-34,Urban Mobility Electrification
+CMP-2025-006,LinkedIn,Reel,71845,16264,3402,166279,55.03,2025-05-01,18-24,FinTech Expansion
+CMP-2025-007,X,Carousel,88032,2916,1809,54474,170.28,2025-03-18,18-24,ClimateTech Awareness
+CMP-2025-006,Facebook,Carousel,9836,3319,4192,2147247,0.81,2025-06-01,35-44,FinTech Expansion
+CMP-2025-007,Instagram,Reel,6564,3270,2862,1948320,0.65,2025-07-04,35-44,ClimateTech Awareness
+CMP-2025-007,Instagram,Image,96801,3797,1556,1787753,5.71,2025-03-12,,ClimateTech Awareness
+CMP-2025-006,Instagram,Reel,46861,14343,4395,1379503,4.76,2025-06-25,,FinTech Expansion
+CMP-2025-003,LinkedIn,Carousel,52530,13115,7479,478446,15.28,2025-08-04,25-34,Marketplace Seller Growth
+CMP-2025-001,LinkedIn,Story,17368,1921,2611,475193,4.61,2025-09-05,55+,Sustainable Retail Transformation
+CMP-2025-007,TikTok,Story,57430,5939,6221,2846387,2.44,2025-01-15,25-34,ClimateTech Awareness
+CMP-2025-004,Instagram,Image,63979,3700,6738,2027182,3.67,2025-05-14,35-44,AI-Driven Operations
+CMP-2025-006,X,Video,92349,17197,9447,52842,225.19,2025-12-09,35-44,FinTech Expansion
+CMP-2025-006,Facebook,Carousel,68564,3120,7091,2178261,3.62,2025-06-27,45-54,FinTech Expansion
+CMP-2025-006,Facebook,Story,73183,1788,190,624501,12.04,2025-08-29,45-54,FinTech Expansion
+CMP-2025-002,TikTok,Reel,9812,16110,5253,694754,4.49,2025-01-26,55+,Urban Mobility Electrification
+CMP-2025-007,Facebook,Image,72154,12407,6607,935098,9.75,2025-08-24,45-54,ClimateTech Awareness
+CMP-2025-004,TikTok,Image,58733,2884,8166,2404482,2.9,2025-09-12,18-24,AI-Driven Operations
+CMP-2025-005,X,Image,52879,13511,587,431517,15.52,2025-02-16,55+,Carbon Footprint Reduction
+CMP-2025-005,Facebook,Carousel,83563,9981,8328,2597551,3.92,2025-06-24,35-44,Carbon Footprint Reduction
+CMP-2025-005,X,Story,29218,14891,5439,228646,21.67,2025-08-31,35-44,Carbon Footprint Reduction
+CMP-2025-001,TikTok,Reel,14945,3192,3633,1899058,1.15,2025-11-21,35-44,Sustainable Retail Transformation
+CMP-2025-001,Facebook,Carousel,68417,12251,1741,2298180,3.59,2025-03-13,45-54,Sustainable Retail Transformation
+CMP-2025-001,LinkedIn,Video,33330,6419,3072,449629,9.52,2025-08-23,25-34,Sustainable Retail Transformation
+CMP-2025-006,X,Image,14125,13581,761,1418396,2.01,2025-08-19,45-54,FinTech Expansion
+CMP-2025-004,Instagram,Story,77242,16521,2205,2762767,3.47,2025-01-25,55+,AI-Driven Operations
+CMP-2025-007,Facebook,Story,76692,15824,8328,1816338,5.55,2025-03-30,25-34,ClimateTech Awareness
+CMP-2025-003,X,Carousel,50778,19678,9931,435336,18.47,2025-08-03,55+,Marketplace Seller Growth
+CMP-2025-004,TikTok,Reel,99925,8134,4482,2905620,3.87,2025-08-20,25-34,AI-Driven Operations
+CMP-2025-003,X,Reel,54099,19743,8393,580568,14.16,2025-12-31,55+,Marketplace Seller Growth
+CMP-2025-005,TikTok,Reel,28487,6582,3435,2654246,1.45,2025-12-11,25-34,Carbon Footprint Reduction
+CMP-2025-005,TikTok,Image,85208,5826,8255,2980618,3.33,2025-06-30,55+,Carbon Footprint Reduction
+CMP-2025-006,X,Reel,76389,18698,6839,2015817,5.06,2025-08-05,18-24,FinTech Expansion
+CMP-2025-002,Instagram,Image,13955,828,6240,2193488,0.96,2025-04-13,35-44,Urban Mobility Electrification
+CMP-2025-007,Instagram,Reel,37567,8210,2399,676011,7.13,2025-04-15,55+,ClimateTech Awareness
+CMP-2025-005,X,Video,47013,14830,1679,136502,46.54,2025-11-28,55+,Carbon Footprint Reduction
+CMP-2025-006,Instagram,Carousel,31142,16741,4712,1632108,3.22,2025-07-18,45-54,FinTech Expansion
+CMP-2025-001,TikTok,Video,40980,18092,881,2874722,2.09,2025-11-14,,Sustainable Retail Transformation
+CMP-2025-005,X,Video,83071,12050,9640,947018,11.06,2025-04-10,35-44,Carbon Footprint Reduction
+CMP-2025-002,X,Image,23255,2440,3063,1883466,1.53,2025-07-13,18-24,Urban Mobility Electrification
+CMP-2025-002,Facebook,Story,36583,18238,4329,1798292,3.29,2025-05-11,18-24,Urban Mobility Electrification
+CMP-2025-002,TikTok,Story,61122,5072,654,1387480,4.82,2025-01-27,55+,Urban Mobility Electrification
+CMP-2025-005,TikTok,Image,39472,16074,9382,2777168,2.34,2025-12-29,35-44,Carbon Footprint Reduction
+CMP-2025-001,X,Video,28830,6025,8529,2204666,1.97,2025-08-01,55+,Sustainable Retail Transformation
+CMP-2025-002,Facebook,Reel,52876,3012,5724,2253492,2.73,2025-06-19,35-44,Urban Mobility Electrification
+CMP-2025-005,Instagram,Image,28632,17383,7780,1232340,4.37,2025-12-09,35-44,Carbon Footprint Reduction
+CMP-2025-006,TikTok,Carousel,31502,7989,653,1870263,2.15,2025-02-28,45-54,FinTech Expansion
+CMP-2025-005,TikTok,Story,70809,9267,404,1077218,7.47,2025-09-18,45-54,Carbon Footprint Reduction
+CMP-2025-003,X,Image,5747,9713,3154,2042806,0.91,2025-02-19,25-34,Marketplace Seller Growth
+CMP-2025-002,Facebook,Carousel,69888,240,1072,2257429,3.15,2025-02-23,25-34,Urban Mobility Electrification
+CMP-2025-006,Facebook,Image,92109,14261,1181,2256504,4.77,2025-08-24,35-44,FinTech Expansion
+CMP-2025-002,TikTok,Story,11471,2400,889,159906,9.23,2025-02-06,55+,Urban Mobility Electrification
+CMP-2025-004,LinkedIn,Carousel,33901,13357,6357,955814,5.61,2025-06-11,18-24,AI-Driven Operations
+CMP-2025-001,X,Image,88250,3876,8762,1634689,6.17,2025-10-27,18-24,Sustainable Retail Transformation
+CMP-2025-001,TikTok,Reel,9514,11721,8238,2940712,1.0,2025-11-07,18-24,Sustainable Retail Transformation
+CMP-2025-007,Instagram,Carousel,57367,12498,6473,1181769,6.46,2025-03-22,55+,ClimateTech Awareness
+CMP-2025-003,Facebook,Reel,17875,12812,8941,923183,4.29,2025-12-13,35-44,Marketplace Seller Growth
+CMP-2025-001,Instagram,Image,72551,18188,2316,47767,194.81,2025-10-21,55+,Sustainable Retail Transformation
+CMP-2025-003,Facebook,Reel,70405,17941,1394,1653898,5.43,2025-04-19,45-54,Marketplace Seller Growth
+CMP-2025-002,Facebook,Story,67181,4667,2637,2710233,2.75,2025-05-10,25-34,Urban Mobility Electrification
+CMP-2025-007,X,Carousel,23770,18589,891,481761,8.98,2025-11-27,55+,ClimateTech Awareness
+CMP-2025-001,Facebook,Story,38096,2207,4107,307790,14.43,2025-09-07,35-44,Sustainable Retail Transformation
+CMP-2025-003,X,Image,16805,7685,1639,1498946,1.74,2025-04-10,35-44,Marketplace Seller Growth
+CMP-2025-006,X,Video,59067,10759,5008,2038849,3.67,2025-10-17,55+,FinTech Expansion
+CMP-2025-001,TikTok,Video,41462,14034,2762,1529796,3.81,2025-04-24,45-54,Sustainable Retail Transformation
+CMP-2025-004,LinkedIn,Carousel,47118,4400,5432,1161479,4.9,2025-07-03,35-44,AI-Driven Operations
+CMP-2025-006,X,Image,72308,3566,2879,2043506,3.85,2025-05-24,25-34,FinTech Expansion
+CMP-2025-006,Instagram,Image,25746,8625,1252,2260127,1.58,2025-09-17,18-24,FinTech Expansion
+CMP-2025-002,Instagram,Story,75877,13275,9667,2441625,4.05,2025-05-14,55+,Urban Mobility Electrification
+CMP-2025-004,Facebook,Story,61879,4870,5993,2264569,3.21,2025-05-29,25-34,AI-Driven Operations
+CMP-2025-004,TikTok,Story,65683,16725,1483,1950097,4.3,2025-01-06,25-34,AI-Driven Operations
+CMP-2025-002,LinkedIn,Video,89674,5434,8423,2576453,4.02,2025-04-02,55+,Urban Mobility Electrification
+CMP-2025-003,Instagram,Video,86430,4790,7921,2374189,4.18,2025-09-07,25-34,Marketplace Seller Growth
+CMP-2025-001,Facebook,Story,34649,12105,3834,264658,19.11,2025-07-04,45-54,Sustainable Retail Transformation
+CMP-2025-006,TikTok,Image,59591,1521,653,1970956,3.13,2025-12-27,55+,FinTech Expansion
+CMP-2025-005,X,Video,35847,8628,9480,2658372,2.03,2025-07-12,45-54,Carbon Footprint Reduction
+CMP-2025-003,LinkedIn,Video,77028,2550,8465,1533165,5.74,2025-09-22,45-54,Marketplace Seller Growth
+CMP-2025-005,Instagram,Story,45224,15953,7898,1481161,4.66,2025-03-13,45-54,Carbon Footprint Reduction
+CMP-2025-006,TikTok,Video,30145,2526,8430,695601,5.91,2025-03-18,25-34,FinTech Expansion
+CMP-2025-006,Facebook,Carousel,47477,19727,1938,661004,10.46,2025-06-19,18-24,FinTech Expansion
+CMP-2025-002,X,Video,88503,15689,7848,2020627,5.54,2025-11-28,45-54,Urban Mobility Electrification
+CMP-2025-005,X,Video,31938,1413,2095,95145,37.25,2025-03-10,55+,Carbon Footprint Reduction
+CMP-2025-002,TikTok,Video,75008,4812,916,165378,48.82,2025-09-22,45-54,Urban Mobility Electrification
+CMP-2025-001,Facebook,Carousel,73872,610,4644,2514887,3.15,2025-11-07,45-54,Sustainable Retail Transformation
+CMP-2025-005,Facebook,Story,22356,7188,6730,2021263,1.79,2025-04-04,55+,Carbon Footprint Reduction
+CMP-2025-006,TikTok,Carousel,66952,8667,2747,2767767,2.83,2025-11-02,55+,FinTech Expansion
+CMP-2025-002,Instagram,Image,30122,12393,6315,289748,16.85,2025-04-14,55+,Urban Mobility Electrification
+CMP-2025-005,Instagram,Video,89701,13755,2450,2116437,5.0,2025-09-01,55+,Carbon Footprint Reduction
+CMP-2025-007,Instagram,Image,5116,17413,8246,2516801,1.22,2025-09-04,25-34,ClimateTech Awareness
+CMP-2025-005,LinkedIn,Reel,70685,39,7069,2532156,3.07,2025-01-23,55+,Carbon Footprint Reduction
+CMP-2025-003,X,Story,30079,15798,6246,1800172,2.9,2025-02-20,45-54,Marketplace Seller Growth
+CMP-2025-007,Instagram,Reel,33360,15634,3809,562546,9.39,2025-11-03,55+,ClimateTech Awareness
+CMP-2025-006,Instagram,Story,33791,6193,89,1714988,2.34,2025-09-25,18-24,FinTech Expansion
+CMP-2025-006,TikTok,Carousel,942,12288,3365,2181039,0.76,2025-07-05,18-24,FinTech Expansion
+CMP-2025-003,X,Carousel,55846,19181,4155,650188,12.18,2025-10-17,35-44,Marketplace Seller Growth
+CMP-2025-004,X,Story,36118,13023,3337,2567413,2.04,2025-09-05,25-34,AI-Driven Operations
+CMP-2025-003,TikTok,Story,73281,18183,7925,1553785,6.4,2025-06-26,45-54,Marketplace Seller Growth
+CMP-2025-004,Facebook,Image,86413,3902,3764,580101,16.22,2025-04-20,55+,AI-Driven Operations
+CMP-2025-002,LinkedIn,Image,44359,18041,852,1681074,3.76,2025-02-16,25-34,Urban Mobility Electrification
+CMP-2025-001,TikTok,Video,78675,14266,1444,1979321,4.77,2025-07-09,18-24,Sustainable Retail Transformation
+CMP-2025-005,X,Reel,4948,12593,6564,2555452,0.94,2025-12-31,55+,Carbon Footprint Reduction
+CMP-2025-001,Facebook,Story,22973,16199,7192,242017,19.16,2025-05-27,25-34,Sustainable Retail Transformation
+CMP-2025-006,Facebook,Story,78579,16729,8451,141967,73.09,2025-03-28,18-24,FinTech Expansion
+CMP-2025-001,TikTok,Carousel,31359,9,2579,1509858,2.25,2025-06-30,45-54,Sustainable Retail Transformation
+CMP-2025-001,Instagram,Image,76818,6563,8482,1701584,5.4,2025-10-09,35-44,Sustainable Retail Transformation
+CMP-2025-007,TikTok,Video,76406,11406,5693,2346093,3.99,2025-11-07,25-34,ClimateTech Awareness
+CMP-2025-003,Facebook,Carousel,52947,18838,76,1908397,3.77,2025-09-17,18-24,Marketplace Seller Growth
+CMP-2025-003,Instagram,Story,9487,16487,4821,2344067,1.31,2025-05-12,55+,Marketplace Seller Growth
+CMP-2025-005,LinkedIn,Video,32786,14508,6178,2412279,2.22,2025-06-23,45-54,Carbon Footprint Reduction
+CMP-2025-004,Instagram,Reel,60387,19229,448,2859815,2.8,2025-02-04,,AI-Driven Operations
+CMP-2025-004,TikTok,Story,28885,7534,5172,2658770,1.56,2025-10-02,18-24,AI-Driven Operations
+CMP-2025-001,LinkedIn,Reel,34517,8134,4706,2940446,1.61,2025-02-08,55+,Sustainable Retail Transformation
+CMP-2025-002,X,Reel,62463,10284,5792,749623,10.48,2025-04-04,25-34,Urban Mobility Electrification
+CMP-2025-006,Facebook,Reel,96614,6542,3847,2093954,5.11,2025-04-16,25-34,FinTech Expansion
+CMP-2025-007,Instagram,Image,32728,11666,2555,851464,5.51,2025-02-10,45-54,ClimateTech Awareness
+CMP-2025-007,LinkedIn,Reel,868,17743,692,2575576,0.75,2025-11-14,35-44,ClimateTech Awareness
+CMP-2025-002,X,Reel,75303,9002,8041,2066025,4.47,2025-07-23,25-34,Urban Mobility Electrification
+CMP-2025-007,LinkedIn,Carousel,16809,1774,8613,2419709,1.12,2025-10-04,18-24,ClimateTech Awareness
+CMP-2025-004,Instagram,Story,45519,12901,2863,2108533,2.91,2025-08-24,,AI-Driven Operations
+CMP-2025-004,X,Image,1103,387,3452,2891758,0.17,2025-06-16,35-44,AI-Driven Operations
+CMP-2025-003,Facebook,Reel,34039,6132,8987,2571177,1.91,2025-08-30,55+,Marketplace Seller Growth
+CMP-2025-004,Facebook,Carousel,47962,6026,8171,1440050,4.32,2025-12-25,35-44,AI-Driven Operations
+CMP-2025-002,X,Video,52506,9162,7384,1532248,4.51,2025-10-22,25-34,Urban Mobility Electrification
+CMP-2025-005,LinkedIn,Carousel,94478,8845,3863,419884,25.53,2025-04-11,25-34,Carbon Footprint Reduction
+CMP-2025-004,LinkedIn,Video,61995,319,2893,628250,10.38,2025-11-19,55+,AI-Driven Operations
+CMP-2025-003,TikTok,Story,94445,10345,7972,2240685,5.03,2025-10-18,18-24,Marketplace Seller Growth
+CMP-2025-002,TikTok,Carousel,12972,5352,983,1672018,1.15,2025-11-19,18-24,Urban Mobility Electrification
+CMP-2025-003,TikTok,Story,97595,10966,4256,1887827,5.98,2025-10-13,35-44,Marketplace Seller Growth
+CMP-2025-003,X,Video,2599,13492,1986,1444428,1.25,2025-10-23,55+,Marketplace Seller Growth
+CMP-2025-007,TikTok,Reel,85082,17643,2859,2726733,3.87,2025-06-16,55+,ClimateTech Awareness
+CMP-2025-004,X,Reel,96537,14645,1284,2045696,5.5,2025-08-26,25-34,AI-Driven Operations
+CMP-2025-006,X,Story,83962,11055,6911,703862,14.48,2025-07-27,18-24,FinTech Expansion
+CMP-2025-003,TikTok,Reel,21233,11259,3739,332819,10.89,2025-12-30,35-44,Marketplace Seller Growth
+CMP-2025-004,TikTok,Story,84494,12958,4444,2540168,4.01,2025-09-24,45-54,AI-Driven Operations
+CMP-2025-002,Facebook,Reel,21930,6025,378,1737395,1.63,2025-12-25,18-24,Urban Mobility Electrification
+CMP-2025-001,Instagram,Carousel,21877,13010,1687,884200,4.14,2025-10-08,18-24,Sustainable Retail Transformation
+CMP-2025-001,TikTok,Story,52037,17169,1363,111582,63.24,2025-03-21,,Sustainable Retail Transformation
+CMP-2025-002,TikTok,Carousel,51097,10137,3757,2747567,2.37,2025-11-17,25-34,Urban Mobility Electrification
+CMP-2025-001,TikTok,Reel,69041,5590,468,551616,13.61,2025-09-01,45-54,Sustainable Retail Transformation
+CMP-2025-001,LinkedIn,Video,16539,1398,6936,809351,3.07,2025-11-18,25-34,Sustainable Retail Transformation
+CMP-2025-001,LinkedIn,Story,33801,10477,1097,2496810,1.82,2025-07-23,55+,Sustainable Retail Transformation
