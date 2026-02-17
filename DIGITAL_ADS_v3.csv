@@ -1,0 +1,194 @@
+campaign_id,platform,ad_format,clicks,impressions,ctr,cpc_eur,conversions,cost_eur,date,age_group,device_type,campaign_theme
+CMP-2025-002,Meta,Story,14579,381947,3.82,4.96,313,9332.50,2025-11-08,55+,Desktop,Urban Mobility Electrification
+CMP-2025-002,YouTube,Story,11359,250049,4.54,2.38,511,1936.01,2025-08-23,,Mobile,Urban Mobility Electrification
+CMP-2025-006,Meta,Banner,3558,207051,1.72,4.33,125,10836.15,2025-08-08,18-24,Tablet,FinTech Expansion
+CMP-2025-001,LinkedIn,Banner,18165,736001,2.47,4.61,356,4506.44,2025-02-04,55+,Tablet,Sustainable Retail Transformation
+CMP-2025-004,TikTok,Banner,5063,184242,2.75,3.18,124,2746.05,2025-01-09,35-44,Mobile,AI-Driven Operations
+CMP-2025-005,TikTok,Carousel,33725,896104,3.76,5.89,460,6847.21,2025-01-23,35-44,Tablet,Carbon Footprint Reduction
+CMP-2025-004,Meta,Carousel,12691,364366,3.48,1.48,251,3247.96,2025-02-02,45-54,Mobile,AI-Driven Operations
+CMP-2025-003,TikTok,Story,15092,756943,1.99,0.45,488,3828.88,2025-07-23,55+,Desktop,Marketplace Seller Growth
+CMP-2025-007,Google,Banner,13441,331454,4.06,6.05,526,9252.56,2025-05-20,18-24,Desktop,ClimateTech Awareness
+CMP-2025-002,YouTube,Search,3495,107128,3.26,5.97,36,1527.51,2025-07-08,55+,Desktop,Urban Mobility Electrification
+CMP-2025-002,LinkedIn,Banner,13343,298299,4.47,0.72,657,326.63,2025-06-14,18-24,Mobile,Urban Mobility Electrification
+CMP-2025-004,TikTok,Search,5437,166892,3.26,2.52,176,3776.74,2025-01-22,35-44,Tablet,AI-Driven Operations
+CMP-2025-006,YouTube,Banner,13042,903935,1.44,5.15,447,5537.85,2025-09-20,25-34,Mobile,FinTech Expansion
+CMP-2025-006,TikTok,Banner,14727,966137,1.52,0.37,321,332.52,2025-07-16,55+,Mobile,FinTech Expansion
+CMP-2025-001,LinkedIn,Carousel,32758,976871,3.35,7.6,636,7027.59,2025-09-29,35-44,Desktop,Sustainable Retail Transformation
+CMP-2025-002,YouTube,Story,21448,621262,3.45,2.07,1028,2496.29,2025-07-18,55+,Mobile,Urban Mobility Electrification
+CMP-2025-003,YouTube,Carousel,20697,432349,4.79,5.66,862,6179.74,2025-03-04,25-34,Mobile,Marketplace Seller Growth
+CMP-2025-007,TikTok,Banner,29556,980899,3.01,7.2,850,5202.53,2025-12-30,18-24,Tablet,ClimateTech Awareness
+CMP-2025-006,Meta,Banner,19970,681521,2.93,7.14,905,17376.22,2025-09-18,25-34,Mobile,FinTech Expansion
+CMP-2025-003,LinkedIn,Story,29770,639173,4.66,1.2,1217,1299.0,2025-07-08,45-54,Tablet,Marketplace Seller Growth
+CMP-2025-006,YouTube,Story,38547,865268,4.45,0.62,1840,150.3,2025-07-30,45-54,Tablet,FinTech Expansion
+CMP-2025-006,LinkedIn,Banner,12239,817316,1.5,7.78,412,1403.7,2025-03-07,55+,Tablet,FinTech Expansion
+CMP-2025-007,Google,Video,24520,523643,4.68,6.17,806,94992.32,2025-09-23,25-34,Desktop,ClimateTech Awareness
+CMP-2025-005,TikTok,Video,11355,262945,4.32,2.65,558,9010.1,2025-05-09,25-34,Tablet,Carbon Footprint Reduction
+CMP-2025-001,LinkedIn,Carousel,30856,884425,3.49,1.09,363,2578.11,2025-10-31,55+,Mobile,Sustainable Retail Transformation
+CMP-2025-005,Google,Video,24649,518017,4.76,5.03,722,6942.65,2025-02-11,18-24,Tablet,Carbon Footprint Reduction
+CMP-2025-001,YouTube,Story,16821,647346,2.6,5.24,454,11309.61,2025-05-29,35-44,Desktop,Sustainable Retail Transformation
+CMP-2025-001,Google,Carousel,16429,471254,3.49,6.48,678,1329.66,2025-08-14,45-54,Desktop,Sustainable Retail Transformation
+CMP-2025-006,TikTok,Banner,2481,160306,1.55,2.79,124,2381.91,2025-07-24,25-34,Desktop,FinTech Expansion
+CMP-2025-004,Meta,Carousel,19258,778230,2.47,2.62,791,290.57,2025-02-19,18-24,Desktop,AI-Driven Operations
+CMP-2025-005,TikTok,Carousel,14355,686326,2.09,3.4,289,806.75,2025-03-23,45-54,Tablet,Carbon Footprint Reduction
+CMP-2025-004,LinkedIn,Search,4938,174902,2.82,7.04,112,1280.32,2025-05-04,25-34,Tablet,AI-Driven Operations
+CMP-2025-007,YouTube,Banner,36811,943815,3.9,0.5,1440,103.75,2025-10-02,18-24,Mobile,ClimateTech Awareness
+CMP-2025-003,Google,Search,33019,915813,3.61,7.07,1457,3997.87,2025-01-27,55+,Tablet,Marketplace Seller Growth
+CMP-2025-004,LinkedIn,Banner,16244,380830,4.27,4.47,239,386.59,2025-11-16,55+,Mobile,AI-Driven Operations
+CMP-2025-003,Meta,Carousel,20072,764978,2.62,3.21,722,652.54,2025-11-05,55+,Desktop,Marketplace Seller Growth
+CMP-2025-007,YouTube,Story,4008,244607,1.64,0.46,110,155.54,2025-08-22,25-34,Tablet,ClimateTech Awareness
+CMP-2025-005,TikTok,Story,12992,912071,1.42,2.69,393,374.17,2025-06-22,,Tablet,Carbon Footprint Reduction
+CMP-2025-001,TikTok,Banner,20664,423988,4.87,5.7,842,2349.89,2025-12-11,18-24,Desktop,Sustainable Retail Transformation
+CMP-2025-003,LinkedIn,Story,10461,349416,2.99,6.39,221,1629.4,2025-04-27,18-24,Tablet,Marketplace Seller Growth
+CMP-2025-004,Meta,Carousel,31844,899186,3.54,4.24,795,300.66,2025-01-17,55+,Tablet,AI-Driven Operations
+CMP-2025-004,Meta,Search,3517,163337,2.15,0.25,101,504.88,2025-09-14,55+,Desktop,AI-Driven Operations
+CMP-2025-006,YouTube,Story,9525,299551,3.18,1.19,263,441.79,2025-07-12,35-44,Mobile,FinTech Expansion
+CMP-2025-007,TikTok,Story,36236,967083,3.75,4.31,420,1868.8,2025-09-05,25-34,Mobile,ClimateTech Awareness
+CMP-2025-006,Meta,Search,14625,353242,4.14,2.46,621,5750.68,2025-06-12,45-54,Desktop,FinTech Expansion
+CMP-2025-004,TikTok,Carousel,18478,445132,4.15,2.37,254,5499.7,2025-05-29,18-24,Desktop,AI-Driven Operations
+CMP-2025-004,Meta,Carousel,18010,637314,2.83,7.4,794,2684.24,2025-10-03,35-44,Tablet,AI-Driven Operations
+CMP-2025-006,LinkedIn,Carousel,15903,673969,2.36,0.96,494,508.65,2025-11-23,25-34,Mobile,FinTech Expansion
+CMP-2025-007,Meta,Video,7499,410391,1.83,2.71,145,1114.43,2025-10-09,25-34,Desktop,ClimateTech Awareness
+CMP-2025-003,TikTok,Video,21175,662273,3.2,5.24,411,10486.99,2025-02-15,55+,Mobile,Marketplace Seller Growth
+CMP-2025-007,Meta,Video,24472,617042,3.97,7.31,591,2251.9,2025-07-23,45-54,Mobile,ClimateTech Awareness
+CMP-2025-003,TikTok,Search,1734,144469,1.2,0.17,70,2674.93,2025-11-25,55+,Tablet,Marketplace Seller Growth
+CMP-2025-003,Meta,Video,39339,817469,4.81,7.51,1019,28001.19,2025-06-19,,Tablet,Marketplace Seller Growth
+CMP-2025-003,TikTok,Story,46304,928385,4.99,2.13,2128,5747.19,2025-12-12,25-34,Mobile,Marketplace Seller Growth
+CMP-2025-001,Meta,Carousel,18059,916929,1.97,4.17,591,7488.14,2025-09-02,35-44,Mobile,Sustainable Retail Transformation
+CMP-2025-003,TikTok,Story,10167,518153,1.96,3.13,494,5350.21,2025-10-21,18-24,Desktop,Marketplace Seller Growth
+CMP-2025-003,Meta,Search,7882,368042,2.14,1.97,134,5727.33,2025-12-18,55+,Tablet,Marketplace Seller Growth
+CMP-2025-002,Meta,Carousel,45926,919469,4.99,5.15,1513,2548.45,2025-09-02,25-34,Desktop,Urban Mobility Electrification
+CMP-2025-007,Meta,Carousel,24700,929478,2.66,5.65,887,989.69,2025-12-15,55+,Mobile,ClimateTech Awareness
+CMP-2025-005,Google,Video,6447,228468,2.82,4.27,68,16184.19,2025-10-08,55+,Mobile,Carbon Footprint Reduction
+CMP-2025-004,Google,Carousel,28247,850826,3.32,1.28,1021,5780.41,2025-10-26,45-54,Mobile,AI-Driven Operations
+CMP-2025-004,YouTube,Story,28054,569278,4.93,6.49,1198,2463.39,2025-01-30,55+,Desktop,AI-Driven Operations
+CMP-2025-005,Google,Video,4876,238422,2.05,3.23,181,292.34,2025-08-05,35-44,Tablet,Carbon Footprint Reduction
+CMP-2025-004,Google,Banner,9637,736398,1.31,7.48,355,457.45,2025-07-29,25-34,Mobile,AI-Driven Operations
+CMP-2025-004,YouTube,Video,31012,993910,3.12,7.94,415,1282.67,2025-12-16,55+,Mobile,AI-Driven Operations
+CMP-2025-002,Meta,Video,17859,481841,3.71,1.51,619,7541.15,2025-01-12,35-44,Desktop,Urban Mobility Electrification
+CMP-2025-004,TikTok,Carousel,13298,507648,2.62,4.3,314,1502.17,2025-05-22,25-34,Tablet,AI-Driven Operations
+CMP-2025-001,Meta,Carousel,9168,883442,1.04,6.49,262,263.16,2025-02-04,18-24,Tablet,Sustainable Retail Transformation
+CMP-2025-002,Google,Search,3988,102715,3.88,4.82,95,1125.7,2025-08-13,25-34,Tablet,Urban Mobility Electrification
+CMP-2025-003,Meta,Story,28864,590541,4.89,6.92,661,10933.05,2025-06-13,55+,Tablet,Marketplace Seller Growth
+CMP-2025-005,Meta,Search,39079,917974,4.26,2.48,1499,2495.61,2025-06-03,35-44,Mobile,Carbon Footprint Reduction
+CMP-2025-001,TikTok,Search,18475,464443,3.98,5.05,859,74181.79,2025-09-26,35-44,Tablet,Sustainable Retail Transformation
+CMP-2025-005,YouTube,Carousel,13545,829164,1.63,1.28,480,214.31,2025-04-26,35-44,Tablet,Carbon Footprint Reduction
+CMP-2025-004,LinkedIn,Story,23786,514404,4.62,7.33,308,77.82,2025-03-10,45-54,Mobile,AI-Driven Operations
+CMP-2025-007,TikTok,Video,40443,984594,4.11,2.71,1613,23184.69,2025-10-02,25-34,Mobile,ClimateTech Awareness
+CMP-2025-001,Meta,Story,30196,693686,4.35,5.42,441,85766.31,2025-12-10,55+,Mobile,Sustainable Retail Transformation
+CMP-2025-001,Meta,Carousel,8698,226263,3.84,6.97,253,61710.97,2025-03-02,45-54,Mobile,Sustainable Retail Transformation
+CMP-2025-003,YouTube,Search,7427,161653,4.59,7.33,88,60061.5,2025-10-01,35-44,Desktop,Marketplace Seller Growth
+CMP-2025-007,YouTube,Banner,17797,640704,2.78,4.15,322,6201.45,2025-04-15,35-44,Desktop,ClimateTech Awareness
+CMP-2025-001,TikTok,Story,21543,974216,2.21,4.54,973,876.43,2025-10-27,55+,Tablet,Sustainable Retail Transformation
+CMP-2025-005,Meta,Search,13311,749452,1.78,1.3,146,1638.1,2025-10-09,35-44,Desktop,Carbon Footprint Reduction
+CMP-2025-002,TikTok,Carousel,30132,626928,4.81,5.82,1158,2389.66,2025-03-13,55+,Desktop,Urban Mobility Electrification
+CMP-2025-007,Google,Video,7198,351710,2.05,7.92,132,9098.87,2025-01-04,45-54,Mobile,ClimateTech Awareness
+CMP-2025-004,TikTok,Video,23812,518052,4.6,5.69,535,814.47,2025-11-13,55+,Desktop,AI-Driven Operations
+CMP-2025-005,TikTok,Story,11712,728283,1.61,0.15,521,9848.79,2025-05-27,18-24,Tablet,Carbon Footprint Reduction
+CMP-2025-001,LinkedIn,Carousel,17067,503397,3.39,7.52,740,2534.46,2025-05-04,25-34,Tablet,Sustainable Retail Transformation
+CMP-2025-001,TikTok,Search,6461,156172,4.14,6.54,185,1384.01,2025-08-24,55+,Mobile,Sustainable Retail Transformation
+CMP-2025-007,Google,Video,7988,194443,4.11,5.5,283,346.87,2025-07-27,,Desktop,ClimateTech Awareness
+CMP-2025-001,YouTube,Search,23819,654082,3.64,0.54,743,211.62,2025-11-27,35-44,Tablet,Sustainable Retail Transformation
+CMP-2025-007,LinkedIn,Search,10516,720016,1.46,7.36,400,40056.9,2025-05-19,18-24,Mobile,ClimateTech Awareness
+CMP-2025-007,TikTok,Video,20830,944385,2.21,4.55,849,1011.74,2025-04-17,55+,Mobile,ClimateTech Awareness
+CMP-2025-007,YouTube,Story,18075,860515,2.1,2.46,784,7916.05,2025-06-19,45-54,Tablet,ClimateTech Awareness
+CMP-2025-004,Meta,Video,9494,405315,2.34,4.06,127,663.87,2025-06-24,55+,Tablet,AI-Driven Operations
+CMP-2025-003,YouTube,Search,15786,658103,2.4,7.75,556,2502.21,2025-04-27,35-44,Tablet,Marketplace Seller Growth
+CMP-2025-001,LinkedIn,Banner,6297,198042,3.18,1.57,293,280.21,2025-05-07,18-24,Mobile,Sustainable Retail Transformation
+CMP-2025-003,TikTok,Video,4430,321989,1.38,3.1,77,2008.97,2025-02-16,18-24,Desktop,Marketplace Seller Growth
+CMP-2025-002,YouTube,Search,26104,554690,4.71,6.11,760,92243.69,2025-10-13,55+,Tablet,Urban Mobility Electrification
+CMP-2025-005,LinkedIn,Banner,37434,784356,4.77,0.31,891,130.44,2025-07-17,18-24,Desktop,Carbon Footprint Reduction
+CMP-2025-002,LinkedIn,Story,7702,157377,4.89,6.26,198,101243.11,2025-03-28,45-54,Mobile,Urban Mobility Electrification
+CMP-2025-002,YouTube,Banner,25056,527803,4.75,2.48,272,1395.31,2025-08-04,35-44,Desktop,Urban Mobility Electrification
+CMP-2025-004,LinkedIn,Story,5392,299272,1.8,2.09,215,7936.12,2025-04-11,45-54,Mobile,AI-Driven Operations
+CMP-2025-005,YouTube,Banner,11037,553522,1.99,0.15,496,920.47,2025-08-14,35-44,Desktop,Carbon Footprint Reduction
+CMP-2025-002,YouTube,Banner,25959,536825,4.84,2.47,596,2478.55,2025-05-30,45-54,Tablet,Urban Mobility Electrification
+CMP-2025-005,Meta,Story,33160,692372,4.79,3.07,1041,20925.81,2025-10-07,25-34,Tablet,Carbon Footprint Reduction
+CMP-2025-002,YouTube,Banner,9882,507687,1.95,7.63,127,17814.37,2025-12-21,18-24,Desktop,Urban Mobility Electrification
+CMP-2025-002,YouTube,Search,7912,370745,2.13,5.1,102,29751.27,2025-02-07,45-54,Tablet,Urban Mobility Electrification
+CMP-2025-007,YouTube,Story,12018,970185,1.24,3.27,468,798.78,2025-01-19,35-44,Tablet,ClimateTech Awareness
+CMP-2025-003,Meta,Story,5882,276031,2.13,0.96,210,681.52,2025-01-23,55+,Tablet,Marketplace Seller Growth
+CMP-2025-001,TikTok,Carousel,6152,191264,3.22,2.72,214,8548.91,2025-09-19,55+,Tablet,Sustainable Retail Transformation
+CMP-2025-007,LinkedIn,Story,13740,872028,1.58,1.85,221,825.36,2025-03-19,35-44,Mobile,ClimateTech Awareness
+CMP-2025-006,Meta,Banner,16157,527305,3.06,2.43,695,1545.77,2025-06-09,35-44,Desktop,FinTech Expansion
+CMP-2025-006,YouTube,Banner,16818,605517,2.78,3.92,398,42863.12,2025-02-04,35-44,Mobile,FinTech Expansion
+CMP-2025-007,Meta,Carousel,12597,362855,3.47,6.81,338,162.17,2025-09-22,25-34,Tablet,ClimateTech Awareness
+CMP-2025-004,Meta,Carousel,20436,690566,2.96,4.52,580,3137467.91,2025-11-24,45-54,Desktop,AI-Driven Operations
+CMP-2025-004,YouTube,Video,15901,714548,2.23,4.95,688,956839.86,2025-12-27,25-34,Mobile,AI-Driven Operations
+CMP-2025-002,YouTube,Video,22896,698678,3.28,4.66,233,1222826.5,2025-05-15,45-54,Tablet,Urban Mobility Electrification
+CMP-2025-003,TikTok,Search,9603,506369,1.9,3.17,218,7937301.96,2025-11-13,25-34,Tablet,Marketplace Seller Growth
+CMP-2025-002,TikTok,Video,24396,811275,3.01,0.77,460,1905997.74,2025-04-04,35-44,Tablet,Urban Mobility Electrification
+CMP-2025-004,Meta,Search,3925,325743,1.2,3.17,110,3395958.74,2025-11-22,55+,Tablet,AI-Driven Operations
+CMP-2025-003,YouTube,Story,21690,723754,3,1.42,556,1652470.57,2025-01-28,35-44,Mobile,Marketplace Seller Growth
+CMP-2025-005,YouTube,Search,4175,131937,3.16,1.64,126,939223.54,2025-12-17,45-54,Desktop,Carbon Footprint Reduction
+CMP-2025-007,Meta,Banner,9009,231009,3.9,1.42,191,2910605.19,2025-01-17,35-44,Mobile,ClimateTech Awareness
+CMP-2025-007,YouTube,Story,3527,133904,2.63,1.43,169,3462813.06,2025-09-19,18-24,Tablet,ClimateTech Awareness
+CMP-2025-007,Google,Search,25015,655418,3.82,6.22,718,1747214.64,2025-10-07,25-34,Desktop,ClimateTech Awareness
+CMP-2025-001,YouTube,Banner,11284,565849,1.99,6.66,322,5139774.83,2025-06-28,18-24,Desktop,Sustainable Retail Transformation
+CMP-2025-005,TikTok,Story,3924,112937,3.47,6.51,80,5294672.66,2025-11-20,45-54,Mobile,Carbon Footprint Reduction
+CMP-2025-003,LinkedIn,Banner,28817,943120,3.06,6.53,1422,2829489.83,2025-11-02,55+,Mobile,Marketplace Seller Growth
+CMP-2025-005,Google,Carousel,9798,682903,1.43,2.39,169,2933528.85,2025-07-30,18-24,Desktop,Carbon Footprint Reduction
+CMP-2025-007,YouTube,Search,30029,892118,3.37,2.07,833,576057.96,2025-03-14,55+,Tablet,ClimateTech Awareness
+CMP-2025-007,Google,Search,8185,221034,3.7,3.06,354,5316414.52,2025-09-21,,Tablet,ClimateTech Awareness
+CMP-2025-007,Google,Search,4652,120624,3.86,7.61,196,14513282.72,2025-11-22,,Mobile,ClimateTech Awareness
+CMP-2025-004,TikTok,Banner,10361,928504,1.12,1.82,285,6072067.54,2025-05-26,35-44,Tablet,AI-Driven Operations
+CMP-2025-006,Google,Video,10406,414765,2.51,4.57,400,5006482.11,2025-02-20,45-54,Mobile,FinTech Expansion
+CMP-2025-004,Meta,Carousel,10094,412426,2.45,6.88,377,6705119.81,2025-11-29,35-44,Mobile,AI-Driven Operations
+CMP-2025-006,Meta,Video,8667,215535,4.02,5.27,299,2063147.43,2025-07-22,35-44,Tablet,FinTech Expansion
+CMP-2025-002,YouTube,Video,22242,589438,3.77,5.28,228,4752820.16,2025-03-09,55+,Mobile,Urban Mobility Electrification
+CMP-2025-001,YouTube,Carousel,5970,361559,1.65,0.17,183,634678.0,2025-09-02,18-24,Mobile,Sustainable Retail Transformation
+CMP-2025-003,TikTok,Carousel,4353,133790,3.25,5.87,123,2199343.66,2025-07-15,25-34,Tablet,Marketplace Seller Growth
+CMP-2025-002,YouTube,Banner,7020,214784,3.27,4.29,293,615497.33,2025-04-20,25-34,Desktop,Urban Mobility Electrification
+CMP-2025-001,LinkedIn,Search,6893,149917,4.6,1.82,72,6564603.9,2025-06-29,45-54,Desktop,Sustainable Retail Transformation
+CMP-2025-005,LinkedIn,Story,31184,635481,4.91,2.29,1549,1189964.16,2025-05-26,18-24,Tablet,Carbon Footprint Reduction
+CMP-2025-004,TikTok,Video,12322,938828,1.31,4.19,270,3610500.24,2025-05-03,45-54,Desktop,AI-Driven Operations
+CMP-2025-001,TikTok,Banner,21275,638804,3.33,4.05,947,1023768.75,2025-03-09,45-54,Tablet,Sustainable Retail Transformation
+CMP-2025-007,Google,Video,35808,717371,4.99,4.42,1605,6774343.69,2025-10-28,18-24,Mobile,ClimateTech Awareness
+CMP-2025-004,LinkedIn,Banner,21334,449519,4.75,0.41,355,371050.59,2025-11-18,55+,Desktop,AI-Driven Operations
+CMP-2025-005,Meta,Banner,18938,585196,3.24,3.28,673,9655037.9,2025-02-12,35-44,Mobile,Carbon Footprint Reduction
+CMP-2025-004,LinkedIn,Video,2252,158545,1.42,7.8,111,13295454.64,2025-06-08,45-54,Tablet,AI-Driven Operations
+CMP-2025-004,LinkedIn,Story,15217,886585,1.72,2.03,636,246512.59,2025-01-29,35-44,Tablet,AI-Driven Operations
+CMP-2025-002,YouTube,Banner,24517,597282,4.1,0.2,576,50118.35,2025-09-25,55+,Tablet,Urban Mobility Electrification
+CMP-2025-001,Google,Banner,10375,305210,3.4,3.04,390,2128917.05,2025-08-08,,Tablet,Sustainable Retail Transformation
+CMP-2025-005,TikTok,Video,9628,516199,1.87,5.73,182,1579892.4,2025-09-13,55+,Mobile,Carbon Footprint Reduction
+CMP-2025-006,Google,Carousel,37822,991060,3.82,2.12,595,1398828.15,2025-09-18,,Mobile,FinTech Expansion
+CMP-2025-002,Meta,Video,23932,823976,2.9,0.46,750,14733.14,2025-10-11,45-54,Mobile,Urban Mobility Electrification
+CMP-2025-007,Google,Story,20899,422621,4.95,3.39,595,3529961.87,2025-07-10,18-24,Tablet,ClimateTech Awareness
+CMP-2025-004,Google,Search,5395,369364,1.46,1.86,97,174942.08,2025-05-25,35-44,Desktop,AI-Driven Operations
+CMP-2025-005,TikTok,Story,26477,990669,2.67,3.71,791,2151617.96,2025-05-05,45-54,Desktop,Carbon Footprint Reduction
+CMP-2025-005,Meta,Carousel,20602,882639,2.33,7.98,593,33026077.34,2025-01-04,45-54,Mobile,Carbon Footprint Reduction
+CMP-2025-001,YouTube,Banner,25389,556763,4.56,2.84,361,3225441.62,2025-02-23,,Tablet,Sustainable Retail Transformation
+CMP-2025-002,TikTok,Video,18459,609797,3.03,3.99,652,3512915.08,2025-01-23,25-34,Tablet,Urban Mobility Electrification
+CMP-2025-001,LinkedIn,Video,41426,840343,4.93,7.18,1944,21106124.16,2025-09-16,25-34,Tablet,Sustainable Retail Transformation
+CMP-2025-002,Meta,Banner,4461,221480,2.01,4.78,162,1500253.86,2025-05-14,35-44,Desktop,Urban Mobility Electrification
+CMP-2025-002,Meta,Story,24454,879512,2.78,3.68,1002,4909191.55,2025-02-25,25-34,Mobile,Urban Mobility Electrification
+CMP-2025-003,Meta,Search,13520,723328,1.87,3.78,486,3563783.87,2025-06-07,45-54,Desktop,Marketplace Seller Growth
+CMP-2025-006,LinkedIn,Video,34172,965566,3.54,1.35,1604,127979.32,2025-04-21,35-44,Mobile,FinTech Expansion
+CMP-2025-001,TikTok,Banner,15193,319376,4.76,2.06,449,1536137.8,2025-03-31,18-24,Desktop,Sustainable Retail Transformation
+CMP-2025-001,Meta,Video,23317,970779,2.4,6.01,960,14014317.87,2025-01-07,18-24,Mobile,Sustainable Retail Transformation
+CMP-2025-006,Google,Story,7504,238041,3.15,6.61,320,2746579.39,2025-10-28,35-44,Mobile,FinTech Expansion
+CMP-2025-001,TikTok,Video,10298,612998,1.68,1.66,283,28086.59,2025-01-22,45-54,Mobile,Sustainable Retail Transformation
+CMP-2025-004,YouTube,Carousel,5729,393485,1.46,3.52,176,4236400.57,2025-07-01,25-34,Mobile,AI-Driven Operations
+CMP-2025-005,LinkedIn,Carousel,1235,107020,1.15,3.62,18,4249094.98,2025-11-28,35-44,Desktop,Carbon Footprint Reduction
+CMP-2025-002,YouTube,Carousel,15452,856793,1.8,3.88,286,8961831.26,2025-11-26,55+,Mobile,Urban Mobility Electrification
+CMP-2025-007,YouTube,Banner,47333,988898,4.79,7.92,1472,1297531.57,2025-10-17,55+,Desktop,ClimateTech Awareness
+CMP-2025-001,TikTok,Video,34756,829022,4.19,1.52,1704,1724130.51,2025-08-30,55+,Desktop,Sustainable Retail Transformation
+CMP-2025-002,TikTok,Story,6713,165853,4.05,7.79,319,15210347.08,2025-01-29,25-34,Tablet,Urban Mobility Electrification
+CMP-2025-005,TikTok,Banner,10354,269573,3.84,7.49,324,11146278.52,2025-10-30,18-24,Tablet,Carbon Footprint Reduction
+CMP-2025-007,YouTube,Story,4383,256443,1.71,4.55,123,10833153.49,2025-06-08,25-34,Desktop,ClimateTech Awareness
+CMP-2025-005,YouTube,Video,7699,596381,1.29,0.54,144,25525.22,2025-06-19,55+,Mobile,Carbon Footprint Reduction
+CMP-2025-002,LinkedIn,Carousel,42045,844466,4.98,5.76,435,4116190.2,2025-02-26,55+,Desktop,Urban Mobility Electrification
+CMP-2025-001,TikTok,Banner,13610,812952,1.67,5.67,537,2221149.69,2025-06-15,25-34,Mobile,Sustainable Retail Transformation
+CMP-2025-002,LinkedIn,Story,39165,791392,4.95,5.15,1623,17104344.27,2025-07-02,25-34,Tablet,Urban Mobility Electrification
+CMP-2025-002,Google,Story,23118,738847,3.13,3.09,1122,4545236.58,2025-07-20,55+,Mobile,Urban Mobility Electrification
+CMP-2025-001,YouTube,Carousel,25659,554818,4.62,2.61,487,3297229.57,2025-06-19,18-24,Mobile,Sustainable Retail Transformation
+CMP-2025-006,TikTok,Search,20471,733519,2.79,1.43,708,1916459.54,2025-01-06,35-44,Mobile,FinTech Expansion
+CMP-2025-006,Google,Video,2317,121550,1.91,0.64,91,930394.14,2025-07-17,45-54,Tablet,FinTech Expansion
+CMP-2025-003,LinkedIn,Search,7720,159083,4.85,7.09,177,4946546.84,2025-02-21,45-54,Tablet,Marketplace Seller Growth
+CMP-2025-003,TikTok,Video,21196,543055,3.9,3.67,252,1251875.21,2025-02-07,35-44,Mobile,Marketplace Seller Growth
+CMP-2025-001,TikTok,Story,5257,172153,3.05,5.88,133,3968356.22,2025-11-11,45-54,Tablet,Sustainable Retail Transformation
+CMP-2025-004,Meta,Video,5347,468473,1.14,7.55,57,853681.68,2025-02-21,,Mobile,AI-Driven Operations
+CMP-2025-005,TikTok,Banner,26144,745782,3.51,5.61,1293,4815234.59,2025-06-02,25-34,Mobile,Carbon Footprint Reduction
+CMP-2025-003,Google,Search,6821,603365,1.13,4.62,177,951657.64,2025-02-14,35-44,Tablet,Marketplace Seller Growth
+CMP-2025-005,TikTok,Carousel,30421,928747,3.28,5.89,1303,5956847.21,2025-01-23,35-44,Tablet,Carbon Footprint Reduction
+CMP-2025-004,Meta,Carousel,26913,743700,3.62,1.48,1107,3990247.96,2025-02-02,45-54,Mobile,AI-Driven Operations
+CMP-2025-003,TikTok,Story,4427,209816,2.11,0.45,198,380528.88,2025-07-23,55+,Desktop,Marketplace Seller Growth
